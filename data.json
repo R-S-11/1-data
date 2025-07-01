@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-01T08:12:10.257Z",
+  "lastSaved": "2025-07-01T09:20:15.822Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -20649,7 +20649,7 @@
     },
     {
       "name": ".hack//G.U. Returner",
-      "status": "قريباً",
+      "status": "متوقف",
       "totalEpisodes": 1,
       "completedEpisodes": 0,
       "notes": "",
@@ -20687,7 +20687,8 @@
       "score": 6.66,
       "totalCost": 0,
       "id": "mci8q1z35pulw0xuqxy",
-      "createdDate": "2025-06-29T22:27:21.855Z"
+      "createdDate": "2025-06-29T22:27:21.855Z",
+      "completionDate": null
     },
     {
       "name": ".hack//Intermezzo",
@@ -21935,6 +21936,11 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-01T09:20:15.805Z",
+      "message": "تعديل مشروع (anime): .hack//G.U. Returner",
+      "details": null
+    },
     {
       "timestamp": "2025-06-30T12:41:17.691Z",
       "message": "تعديل مشروع (anime): .hack//Liminality",
@@ -26094,5 +26100,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-01T09:16:12.365Z"
+  "lastCloudExport": "2025-07-01T09:20:26.943Z"
 }
