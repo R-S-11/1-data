@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-01T09:24:17.753Z",
+  "lastSaved": "2025-07-01T09:48:37.100Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -20357,7 +20357,7 @@
     },
     {
       "name": ".hack//G.U. Trilogy",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 1,
       "completedEpisodes": 0,
       "notes": "",
@@ -20394,7 +20394,8 @@
       "score": 7.06,
       "totalCost": 0,
       "id": "mci8nxug8x5ilgm5lgc",
-      "createdDate": "2025-06-29T22:25:43.192Z"
+      "createdDate": "2025-06-29T22:25:43.192Z",
+      "completionDate": null
     },
     {
       "name": ".hack//Tasogare no Udewa Densetsu",
@@ -21936,6 +21937,11 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-01T09:48:37.085Z",
+      "message": "تعديل مشروع (anime): .hack//G.U. Trilogy",
+      "details": null
+    },
     {
       "timestamp": "2025-07-01T09:24:17.741Z",
       "message": "تعديل مشروع (anime): .hack//G.U. Returner",
@@ -26105,5 +26111,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-01T09:24:21.533Z"
+  "lastCloudExport": "2025-07-01T09:48:50.580Z"
 }
