@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-01T11:55:52.863Z",
+  "lastSaved": "2025-07-02T17:13:02.950Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 30,
+      "totalFee": 36,
       "lastDelivery": "2025-06-05T10:34:01.842Z",
-      "projectTranslatedEpisodes": 5,
+      "projectTranslatedEpisodes": 6,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 6
     },
     {
       "name": "FREDOM",
@@ -116,13 +116,13 @@
       "notes": "",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 223.5,
-      "lastDelivery": "2025-06-03T19:31:18.736Z",
+      "totalFee": 257.5,
+      "lastDelivery": "2025-06-26T05:48:37.319Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 144,
+      "projectTimedEpisodes": 166,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 1.5
+      "remainingAmount": 35.5
     },
     {
       "name": "Madarame",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2235.5,
+      "totalFee": 2251.5,
       "lastDelivery": "2025-06-30T12:41:17.691Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 742,
+      "projectEditedEpisodes": 746,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 120.5,
+      "remainingAmount": 136.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -164,13 +164,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 462,
+      "totalFee": 468,
       "lastDelivery": "2025-06-03T19:36:15.496Z",
-      "projectTranslatedEpisodes": 77,
+      "projectTranslatedEpisodes": 78,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 47
+      "remainingAmount": 53
     },
     {
       "name": "MugiHimo",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 109.5,
+      "totalFee": 111,
       "lastDelivery": "2025-06-30T09:26:05.744Z",
       "projectTranslatedEpisodes": 13,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 42,
-      "remainingAmount": 4.5
+      "projectSubtitledEpisodes": 43,
+      "remainingAmount": 6
     },
     {
       "name": "NaNa",
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 410,
+      "totalFee": 422,
       "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 46,
+      "projectTranslatedEpisodes": 48,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 43
+      "remainingAmount": 55
     },
     {
       "name": "SHX",
@@ -284,7 +284,7 @@
       "lastDelivery": "2025-06-26T14:46:55.154Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 91,
+      "projectTimedEpisodes": 80,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 166.5,
+      "totalFee": 170,
       "lastDelivery": "2025-06-30T09:26:05.744Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 50,
+      "projectEditedEpisodes": 51,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 40.5
+      "remainingAmount": 44
     }
   ],
   "anime": [
@@ -317,7 +317,7 @@
       "name": "Touch",
       "status": "جارٍ",
       "totalEpisodes": 101,
-      "completedEpisodes": 74,
+      "completedEpisodes": 75,
       "translatorId": "mbfpow5fa4niiy1souq",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": "mbfqkz37wwc5wvr72qr",
@@ -352,7 +352,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 814,
+      "totalCost": 825,
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
@@ -578,11 +578,11 @@
       "completedEpisodes": 9,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -608,7 +608,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.07,
-      "totalCost": 90,
+      "totalCost": 99,
       "id": "mbfr7l8bgozfopiywhv",
       "createdDate": "2025-06-03T00:01:52.187Z",
       "completionDate": "2025-06-03T00:01:52.187Z",
@@ -2055,7 +2055,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 13,
+      "completedEpisodes": 15,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2086,7 +2086,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 130,
+      "totalCost": 150,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null
@@ -2095,7 +2095,7 @@
       "name": "Viper's Creed",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 5,
+      "completedEpisodes": 6,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2127,7 +2127,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.68,
-      "totalCost": 50,
+      "totalCost": 60,
       "id": "mbgxmfgolbtl0gggel",
       "createdDate": "2025-06-03T19:49:08.424Z",
       "completionDate": null
@@ -2176,11 +2176,11 @@
       "completedEpisodes": 10,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -2203,10 +2203,11 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.69,
-      "totalCost": 40,
+      "totalCost": 60,
       "id": "mbh5ptkfbwsxrthlhf",
       "createdDate": "2025-06-03T23:35:43.599Z",
-      "completionDate": "2025-06-03T23:35:43.599Z"
+      "completionDate": "2025-06-03T23:35:43.599Z",
+      "synopsis": ""
     },
     {
       "name": "High School Jingi",
@@ -20123,11 +20124,11 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 13,
       "editingPrice": 9,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -20150,7 +20151,7 @@
       "duration": "54 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.73,
-      "totalCost": 22,
+      "totalCost": 24,
       "id": "mby2vffujbw87qhormq",
       "createdDate": "2025-06-15T19:48:11.370Z",
       "completionDate": "2025-06-17T13:35:34.186Z"
@@ -20163,11 +20164,11 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 15,
       "editingPrice": 10,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -20192,7 +20193,7 @@
       "duration": "1 hr",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.92,
-      "totalCost": 25,
+      "totalCost": 27,
       "id": "mby2wzv5mdogbljkqyn",
       "createdDate": "2025-06-15T19:49:24.497Z",
       "completionDate": "2025-06-26T05:48:37.319Z"
@@ -20357,7 +20358,7 @@
     },
     {
       "name": ".hack//G.U. Trilogy",
-      "status": "جارٍ",
+      "status": "قريباً",
       "totalEpisodes": 1,
       "completedEpisodes": 0,
       "notes": "",
@@ -20609,7 +20610,7 @@
     },
     {
       "name": ".hack//Liminality",
-      "status": "جارٍ",
+      "status": "قريباً",
       "totalEpisodes": 4,
       "completedEpisodes": 0,
       "notes": "",
@@ -21072,7 +21073,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 27,
+      "completedEpisodes": 28,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21104,7 +21105,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 118.5,
+      "totalCost": 123.5,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -21937,6 +21938,186 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-02T17:13:02.937Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (27 ← 28)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 28,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-02T15:47:38.340Z",
+      "message": "تعديل مشروع (anime): Munto",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T15:47:31.148Z",
+      "message": "تعديل مشروع (anime): Munto: Toki no Kabe wo Koete",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T15:44:46.661Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (TV)",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T15:31:39.213Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T06:08:49.373Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-01T18:08:51.929Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (14 ← 15)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 15,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-01T18:08:13.697Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (74 ← 75)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 75,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-01T18:08:05.713Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (13 ← 14)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 14,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-01T18:08:03.250Z",
+      "message": "تعديل مشروع (anime): .hack//Liminality",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-01T18:07:54.218Z",
+      "message": "تعديل مشروع (anime): .hack//G.U. Trilogy",
+      "details": null
+    },
     {
       "timestamp": "2025-07-01T11:55:52.851Z",
       "message": "(تراجع) تحديث حلقات 'Wolf's Rain'",
@@ -26206,5 +26387,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-01T11:56:21.490Z"
+  "lastCloudExport": "2025-07-02T17:13:37.172Z"
 }
