@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-02T17:33:45.079Z",
+  "lastSaved": "2025-07-04T16:02:57.168Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 36,
+      "totalFee": 48,
       "lastDelivery": "2025-06-05T10:34:01.842Z",
-      "projectTranslatedEpisodes": 6,
+      "projectTranslatedEpisodes": 8,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 6
+      "remainingAmount": 18
     },
     {
       "name": "FREDOM",
@@ -116,13 +116,13 @@
       "notes": "",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 257.5,
-      "lastDelivery": "2025-06-26T05:48:37.319Z",
+      "totalFee": 262.5,
+      "lastDelivery": "2025-07-02T21:15:27.747Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 166,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 35.5
+      "remainingAmount": 40.5
     },
     {
       "name": "Madarame",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2251.5,
-      "lastDelivery": "2025-06-30T12:41:17.691Z",
+      "totalFee": 2285.5,
+      "lastDelivery": "2025-07-02T21:18:03.427Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 746,
+      "projectEditedEpisodes": 757,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 136.5,
+      "remainingAmount": 170.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -165,7 +165,7 @@
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
       "totalFee": 468,
-      "lastDelivery": "2025-06-03T19:36:15.496Z",
+      "lastDelivery": "2025-07-02T21:15:27.747Z",
       "projectTranslatedEpisodes": 78,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 422,
+      "totalFee": 446,
       "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 48,
+      "projectTranslatedEpisodes": 52,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 55
+      "remainingAmount": 79
     },
     {
       "name": "SHX",
@@ -331,7 +331,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "notes": "",
+      "notes": "الخام موجود على تيلغرام",
       "malId": "1065",
       "url": "https://myanimelist.net/anime/1065/Touch",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/3/53087l.jpg",
@@ -356,7 +356,8 @@
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "name": "Onara Gorou",
@@ -457,7 +458,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=Prof+FLCL",
+      "rawUrl": "https://nyaa.si/view/1961705",
       "notes": "+ FLCL REANIMATED",
       "malId": "227",
       "url": "https://myanimelist.net/anime/227/FLCL",
@@ -484,7 +485,8 @@
       "totalCost": 80.5,
       "id": "mbfr15mjuhawy7e2ss",
       "createdDate": "2025-06-02T23:56:52.027Z",
-      "completionDate": "2025-06-02T23:56:52.027Z"
+      "completionDate": "2025-06-02T23:56:52.027Z",
+      "synopsis": ""
     },
     {
       "name": "Genshiken Nidaime",
@@ -588,7 +590,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/57390",
+      "rawUrl": "https://nyaa.si/view/1577232",
       "notes": "https://www.youtube.com/watch?v=KYNhgxu2mAo",
       "malId": "5702",
       "url": "https://myanimelist.net/anime/5702/Sora_wo_Miageru_Shoujo_no_Hitomi_ni_Utsuru_Sekai",
@@ -2055,7 +2057,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 15,
+      "completedEpisodes": 19,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2086,7 +2088,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 150,
+      "totalCost": 190,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null
@@ -2095,7 +2097,7 @@
       "name": "Viper's Creed",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 6,
+      "completedEpisodes": 8,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2127,7 +2129,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.68,
-      "totalCost": 60,
+      "totalCost": 80,
       "id": "mbgxmfgolbtl0gggel",
       "createdDate": "2025-06-03T19:49:08.424Z",
       "completionDate": null
@@ -2180,13 +2182,13 @@
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 4,
-      "timerPrice": 2,
+      "timerPrice": 2.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.land/view/1836182",
+      "rawUrl": "https://nyaa.land/view/1695087",
       "notes": "ترجمة ميجانا",
       "malId": "19703",
       "url": "https://myanimelist.net/anime/19703/Kyousou_Giga_TV",
@@ -2203,7 +2205,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.69,
-      "totalCost": 60,
+      "totalCost": 65,
       "id": "mbh5ptkfbwsxrthlhf",
       "createdDate": "2025-06-03T23:35:43.599Z",
       "completionDate": "2025-06-03T23:35:43.599Z",
@@ -20276,13 +20278,14 @@
       "score": 6.51,
       "totalCost": 0,
       "id": "mci7mrqwc6oit9hca27",
-      "createdDate": "2025-06-29T21:56:49.016Z"
+      "createdDate": "2025-06-29T21:56:49.016Z",
+      "completionDate": null
     },
     {
       "name": "Kyousou Giga (2012)",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 5,
-      "completedEpisodes": 0,
+      "completedEpisodes": 5,
       "notes": "",
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20296,7 +20299,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.land/view/1695087",
       "synopsis": "Three kids are stuck in a strange city causing massive mayhem through the land. They are searching for an atypical rabbit in order to return home. Koto, the eldest of the three, seems to have some sort of connection to this weird place ruled by a monk, a demon, and a priest.",
       "malId": "15359",
       "url": "https://myanimelist.net/anime/15359/Kyousou_Giga_2012",
@@ -20313,9 +20316,10 @@
       "duration": "10 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.12,
-      "totalCost": 0,
+      "totalCost": 10,
       "id": "mci7nm3j7q95k5376t9",
-      "createdDate": "2025-06-29T21:57:28.351Z"
+      "createdDate": "2025-06-29T21:57:28.351Z",
+      "completionDate": "2025-07-02T21:08:11.531Z"
     },
     {
       "name": "Kyousou Giga",
@@ -20335,7 +20339,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.land/view/1695087",
       "synopsis": "It's Kyoto, and yet it is not.\n \nA microcosm of peculiar origins, \"Mirror Kyoto.\"\n \nA small incident causes a young girl, Koto, to wander into this world.\n \nShe runs into a mysterious monk, gets chased around by a tech-obsessed girl, and heartily enjoys her chaotic and colorful new life, but meanwhile, out of sight, a certain plan is being set into motion...\n \nIn this mysterious city where spirits and humans have been thrown together, the festivities are about to begin!\n\n(Source: translated from the official website by lygerzero0zero)",
       "malId": "10893",
       "url": "https://myanimelist.net/anime/10893/Kyousou_Giga",
@@ -20354,7 +20358,8 @@
       "score": 6.9,
       "totalCost": 0,
       "id": "mci7o6wnt8tevb8834l",
-      "createdDate": "2025-06-29T21:57:55.319Z"
+      "createdDate": "2025-06-29T21:57:55.319Z",
+      "completionDate": null
     },
     {
       "name": ".hack//G.U. Trilogy",
@@ -20946,6 +20951,44 @@
       "totalCost": 0,
       "id": "mci8rkhz1uutma02shn",
       "createdDate": "2025-06-29T22:28:32.519Z"
+    },
+    {
+      "name": "Akuyaku Reijou Tensei Ojisan Mini",
+      "status": "جارٍ",
+      "totalEpisodes": 12,
+      "completedEpisodes": 0,
+      "notes": "ترجمة من الياباني",
+      "translatorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 3,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=%5BReinForce%5D+Akuyaku",
+      "synopsis": "",
+      "malId": "61049",
+      "url": "https://myanimelist.net/anime/61049/Akuyaku_Reijou_Tensei_Ojisan_Mini",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1108/148086l.jpg",
+      "animeType": "ONA",
+      "studio": "AQUA ARIS",
+      "source": "Manga",
+      "premiered": "2025-01-07",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [],
+      "duration": "1 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.81,
+      "totalCost": 0,
+      "id": "mcmg6f3nwnmejdvsw1r",
+      "createdDate": "2025-07-02T21:07:07.379Z"
     }
   ],
   "series": [
@@ -21938,6 +21981,241 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-04T16:02:57.159Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-04T08:22:00.105Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-04T08:21:54.137Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-03T21:55:00.750Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-02T22:03:33.400Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-02T22:03:32.593Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-02T21:18:03.427Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:17:54.650Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (2012)",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:17:50.779Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (TV)",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:17:44.458Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (TV) Recaps",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:17:37.562Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (TV) Recaps",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:16:24.939Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:15:49.250Z",
+      "message": "تعديل مشروع (anime): FLCL",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:15:27.747Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:08:11.531Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (2012)",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T21:07:07.379Z",
+      "message": "إضافة مشروع (anime): Akuyaku Reijou Tensei Ojisan Mini",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-02T18:40:21.328Z",
+      "message": "تعديل مشروع (anime): Kyousou Giga (TV)",
+      "details": null
+    },
     {
       "timestamp": "2025-07-02T17:13:02.937Z",
       "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (27 ← 28)",
@@ -26387,5 +26665,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-02T17:33:56.869Z"
+  "lastCloudExport": "2025-07-04T16:03:35.287Z"
 }
