@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-04T16:02:57.168Z",
+  "lastSaved": "2025-07-07T17:12:31.826Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 164,
-      "lastDelivery": "2025-06-30T11:38:47.244Z",
-      "projectTranslatedEpisodes": 25,
+      "totalFee": 173,
+      "lastDelivery": "2025-07-07T17:08:59.977Z",
+      "projectTranslatedEpisodes": 26,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 24
+      "remainingAmount": 33
     },
     {
       "name": "Dina El- Shrief",
@@ -45,14 +45,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 720,
-      "lastDelivery": "2025-06-24T16:54:33.140Z",
+      "totalFee": 756,
+      "lastDelivery": "2025-07-05T17:12:05.266Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 469,
+      "projectSubtitledEpisodes": 493,
       "manualOrder": 0,
-      "remainingAmount": 44.5,
+      "remainingAmount": 80.5,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 48,
+      "totalFee": 54,
       "lastDelivery": "2025-06-05T10:34:01.842Z",
-      "projectTranslatedEpisodes": 8,
+      "projectTranslatedEpisodes": 9,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 18
+      "remainingAmount": 24
     },
     {
       "name": "FREDOM",
@@ -93,13 +93,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 119,
+      "totalFee": 140,
       "lastDelivery": "2025-06-12T09:43:55.519Z",
-      "projectTranslatedEpisodes": 20,
+      "projectTranslatedEpisodes": 23,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 21
     },
     {
       "name": "Goreme",
@@ -116,13 +116,13 @@
       "notes": "",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 262.5,
-      "lastDelivery": "2025-07-02T21:15:27.747Z",
+      "totalFee": 268,
+      "lastDelivery": "2025-07-07T17:10:35.608Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 166,
+      "projectTimedEpisodes": 168,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 40.5
+      "remainingAmount": 46
     },
     {
       "name": "Madarame",
@@ -130,7 +130,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2115,
+      "amountReceived": 2015,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2285.5,
-      "lastDelivery": "2025-07-02T21:18:03.427Z",
+      "totalFee": 2330.5,
+      "lastDelivery": "2025-07-07T17:12:31.816Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 757,
+      "projectEditedEpisodes": 789,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 170.5,
+      "remainingAmount": 315.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -164,13 +164,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 468,
-      "lastDelivery": "2025-07-02T21:15:27.747Z",
-      "projectTranslatedEpisodes": 78,
+      "totalFee": 474,
+      "lastDelivery": "2025-07-07T17:10:35.608Z",
+      "projectTranslatedEpisodes": 79,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 53
+      "remainingAmount": 59
     },
     {
       "name": "MugiHimo",
@@ -187,13 +187,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 130,
+      "totalFee": 134,
       "lastDelivery": "2025-06-26T05:48:37.319Z",
-      "projectTranslatedEpisodes": 23,
+      "projectTranslatedEpisodes": 24,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 4
     },
     {
       "name": "N_Angle",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 111,
-      "lastDelivery": "2025-06-30T09:26:05.744Z",
+      "totalFee": 119,
+      "lastDelivery": "2025-07-07T17:08:01.785Z",
       "projectTranslatedEpisodes": 13,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 43,
-      "remainingAmount": 6
+      "projectSubtitledEpisodes": 44,
+      "remainingAmount": 14
     },
     {
       "name": "NaNa",
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 213,
-      "lastDelivery": "2025-06-30T12:41:17.691Z",
-      "projectTranslatedEpisodes": 35,
+      "totalFee": 219,
+      "lastDelivery": "2025-07-05T12:35:47.743Z",
+      "projectTranslatedEpisodes": 36,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 36
+      "remainingAmount": 42
     },
     {
       "name": "Nouralhadi",
@@ -281,7 +281,7 @@
       "id": "mbfqpfs19f4wc16830s",
       "createdDate": "2025-06-02T23:47:45.313Z",
       "totalFee": 0,
-      "lastDelivery": "2025-06-26T14:46:55.154Z",
+      "lastDelivery": "2025-07-05T22:30:54.757Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 80,
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 170,
-      "lastDelivery": "2025-06-30T09:26:05.744Z",
+      "totalFee": 173.5,
+      "lastDelivery": "2025-07-07T17:08:01.785Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 51,
+      "projectEditedEpisodes": 52,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 44
+      "remainingAmount": 47.5
     }
   ],
   "anime": [
@@ -328,10 +328,10 @@
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 0,
+      "timerBonus": 3,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "notes": "الخام موجود على تيلغرام",
+      "notes": "الخام موجود على تيلغرام\nتم زيادة 3 دولار أجرة كارا لجيرومي",
       "malId": "1065",
       "url": "https://myanimelist.net/anime/1065/Touch",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/3/53087l.jpg",
@@ -352,7 +352,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 825,
+      "totalCost": 828,
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
@@ -1924,7 +1924,7 @@
       "name": "Adventure Time",
       "status": "جارٍ",
       "totalEpisodes": 283,
-      "completedEpisodes": 12,
+      "completedEpisodes": 13,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -1959,7 +1959,7 @@
       "duration": "10 min per ep",
       "rating": "PG - Children",
       "score": 7.4,
-      "totalCost": 84,
+      "totalCost": 91,
       "id": "mbgxb74wb6ro9nba8w6",
       "createdDate": "2025-06-03T19:40:24.416Z"
     },
@@ -2097,7 +2097,7 @@
       "name": "Viper's Creed",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 8,
+      "completedEpisodes": 9,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2129,7 +2129,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.68,
-      "totalCost": 80,
+      "totalCost": 90,
       "id": "mbgxmfgolbtl0gggel",
       "createdDate": "2025-06-03T19:49:08.424Z",
       "completionDate": null
@@ -19998,7 +19998,7 @@
       "name": "Wolf's Rain",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 4,
+      "completedEpisodes": 7,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20032,7 +20032,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 44,
+      "totalCost": 77,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
       "completionDate": null
@@ -20204,15 +20204,15 @@
       "name": "Yofukashi no Uta Season 2",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
-      "translationPrice": 6,
-      "editingPrice": 4,
-      "timerPrice": 0,
+      "translationPrice": 9,
+      "editingPrice": 6,
+      "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -20237,9 +20237,10 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 0,
+      "totalCost": 16.5,
       "id": "mcdhyd2ppvffm5osogc",
-      "createdDate": "2025-06-26T14:46:55.153Z"
+      "createdDate": "2025-06-26T14:46:55.153Z",
+      "completionDate": null
     },
     {
       "name": "Kyousou Giga (TV) Recaps",
@@ -20530,23 +20531,23 @@
     },
     {
       "name": ".hack//Unison",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfq447udijq1mago58",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 6,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/1389514",
       "synopsis": "Somewhere in the MMORPG called \"The World,\" a group is gathered at a pub, awaiting the start of an event. There, old friends and acquaintances are reunited, including those who rarely log on. Some are even forging new relationships for the first time. Together, invited by the hacker Helba, the group leaves for the event in the Net Slums where a celebration awaits them all.\n\n[Written by MAL Rewrite]",
       "malId": "1487",
       "url": "https://myanimelist.net/anime/1487/hack__Unison",
@@ -20567,9 +20568,10 @@
       "duration": "24 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.62,
-      "totalCost": 0,
+      "totalCost": 10,
       "id": "mci8p947m27nr6ks6dh",
-      "createdDate": "2025-06-29T22:26:44.455Z"
+      "createdDate": "2025-06-29T22:26:44.455Z",
+      "completionDate": "2025-07-05T12:35:47.743Z"
     },
     {
       "name": ".hack//Quantum",
@@ -20989,6 +20991,83 @@
       "totalCost": 0,
       "id": "mcmg6f3nwnmejdvsw1r",
       "createdDate": "2025-07-02T21:07:07.379Z"
+    },
+    {
+      "name": "Gachiakuta",
+      "status": "جارٍ",
+      "totalEpisodes": 24,
+      "completedEpisodes": 1,
+      "notes": "",
+      "translatorId": "mbfpow5fa4niiy1souq",
+      "editorId": "mbe8ktw6qz40f9qtp7",
+      "timerId": "mbfqkz37wwc5wvr72qr",
+      "subtitlerId": null,
+      "translationPrice": 6,
+      "editingPrice": 4,
+      "timerPrice": 1,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=%5BToonsHub%5D+Gachiakuta",
+      "synopsis": "Living in the slums of a wealthy town, Rudo and his foster father Regto try to coexist with the rest of the town's residents, but Rudo despises the wastefulness of the upper class. Ignoring the warnings from those around him, Rudo regularly rummages through the town's garbage in search of anything useful or valuable to save from the \"Abyss\"—a massive hole where anything considered trash is dumped, including people. Rudo's biological father was one such person, having been thrown into the Abyss after he was accused of murder.\n\nOne day, after running into a mysterious figure on the way home, Rudo returns to find Regto's dying body on the floor. He is immediately found at the scene by the authorities and is charged with murder. No one believes his claims of innocence, and he is thrown into the Abyss. Instead of dying, however, he finds himself in a strange, foul-smelling place surrounded by monsters made out of trash.\n\nWhen Rudo is attacked by said monsters, he is saved by a man named Enjin, who reveals himself to be a \"Cleaner\"—someone who uses special weapons called Vital Instruments to combat these creatures. In order to get his revenge on the one who killed Regto, Rudo reluctantly becomes a Cleaner to fight his way back up and out of the Abyss.\n\n[Written by MAL Rewrite]",
+      "malId": "59062",
+      "url": "https://myanimelist.net/anime/59062/Gachiakuta",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1682/150432l.jpg",
+      "animeType": "TV",
+      "studio": "Bones Film",
+      "source": "Manga",
+      "premiered": "2025-07-06",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "themes": [],
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.1,
+      "totalCost": 11,
+      "id": "mctcxhzsd3ouuvp83jc",
+      "createdDate": "2025-07-07T17:10:35.608Z"
+    },
+    {
+      "name": "Yofukashi no Uta Mini",
+      "status": "جارٍ",
+      "totalEpisodes": 22,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 2,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/view/1613815",
+      "synopsis": "Mini anime of Yofukashi no Uta released on the official Twitter.",
+      "malId": "52015",
+      "url": "https://myanimelist.net/anime/52015/Yofukashi_no_Uta_Mini",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1075/124359l.jpg",
+      "animeType": "ONA",
+      "studio": "AQUA ARIS",
+      "source": "Manga",
+      "premiered": "2022-06-07",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [],
+      "duration": "1 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.22,
+      "totalCost": 0,
+      "id": "mctczznszvxds704add",
+      "createdDate": "2025-07-07T17:12:31.816Z"
     }
   ],
   "series": [
@@ -21116,7 +21195,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 28,
+      "completedEpisodes": 29,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21128,9 +21207,9 @@
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
-      "subtitlerBonus": -16.5,
+      "subtitlerBonus": -10,
       "rawUrl": "https://torrentgalaxy.one/get-posts/keywords:Road%20To%20Avonlea%20ORARBG",
-      "notes": "ترجمة آلية وتدقيق وتوقيت\nتم خصم أجرة 12 حلقة من الموسم الأول لأنه من توقيت دينا",
+      "notes": "ترجمة آلية وتدقيق وتوقيت\nتم خصم أجرة 12 حلقة من الموسم الأول لأنه من توقيت دينا\nتم رفع الأجرة 0.5 على الحلقة في الموسم الثالث لسوء ونقص الترجمة",
       "url": "https://www.themoviedb.org/tv/10860",
       "seriesYear": "1990",
       "seriesNetwork": "CBC Television",
@@ -21148,7 +21227,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 123.5,
+      "totalCost": 135,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -21158,7 +21237,7 @@
       "name": "The Middle",
       "status": "جارٍ",
       "totalEpisodes": 215,
-      "completedEpisodes": 167,
+      "completedEpisodes": 191,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -21188,7 +21267,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "22",
-      "totalCost": 334,
+      "totalCost": 382,
       "id": "mbh4slfybaswkzwl9rc",
       "createdDate": "2025-06-03T23:09:53.422Z",
       "seriesNameSearch": "The Middle",
@@ -21981,6 +22060,271 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-07T17:12:31.816Z",
+      "message": "إضافة مشروع (anime): Yofukashi no Uta Mini",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T17:10:35.608Z",
+      "message": "إضافة مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T17:09:39.832Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T17:08:59.977Z",
+      "message": "تعديل مشروع (anime): Yofukashi no Uta Season 2",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T17:08:01.785Z",
+      "message": "تعديل مشروع (series): Road to Avonlea",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T17:07:22.841Z",
+      "message": "تعديل مشروع (series): Road to Avonlea",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-07T11:40:49.677Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-07T09:00:52.806Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-06T21:18:50.118Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-06T14:51:25.119Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-05T22:30:54.757Z",
+      "message": "تعديل مشروع (anime): Yofukashi no Uta Season 2",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-05T17:12:05.266Z",
+      "message": "تعديل مشروع (series): The Middle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-05T12:36:02.327Z",
+      "message": "تعديل مشروع (anime): .hack//Unison",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-05T12:35:47.743Z",
+      "message": "تعديل مشروع (anime): .hack//Unison",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-05T08:59:28.733Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-05T08:59:28.293Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-05T08:59:25.573Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-05T05:55:05.605Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (28 ← 29)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 29,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-07-04T16:02:57.159Z",
       "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (7 ← 8)",
@@ -26665,5 +27009,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-04T16:03:35.287Z"
+  "lastCloudExport": "2025-07-07T17:15:52.132Z"
 }
