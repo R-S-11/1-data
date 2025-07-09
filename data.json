@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-08T08:41:01.085Z",
+  "lastSaved": "2025-07-09T20:18:48.684Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 173,
+      "totalFee": 179,
       "lastDelivery": "2025-07-07T17:08:59.977Z",
-      "projectTranslatedEpisodes": 26,
+      "projectTranslatedEpisodes": 27,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 33
+      "remainingAmount": 39
     },
     {
       "name": "Dina El- Shrief",
@@ -45,14 +45,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 756,
-      "lastDelivery": "2025-07-08T08:41:01.072Z",
+      "totalFee": 792,
+      "lastDelivery": "2025-07-09T07:11:09.617Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 493,
+      "projectSubtitledEpisodes": 517,
       "manualOrder": 0,
-      "remainingAmount": 80.5,
+      "remainingAmount": 116.5,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 54,
-      "lastDelivery": "2025-06-05T10:34:01.842Z",
-      "projectTranslatedEpisodes": 9,
+      "totalFee": 72,
+      "lastDelivery": "2025-07-09T20:18:48.663Z",
+      "projectTranslatedEpisodes": 12,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 24
+      "remainingAmount": 42
     },
     {
       "name": "FREDOM",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2347,
-      "lastDelivery": "2025-07-08T08:41:01.072Z",
+      "totalFee": 2383,
+      "lastDelivery": "2025-07-09T20:18:48.663Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 792,
+      "projectEditedEpisodes": 822,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 332,
+      "remainingAmount": 368,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 464,
+      "totalFee": 476,
       "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 55,
+      "projectTranslatedEpisodes": 57,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 97
+      "remainingAmount": 109
     },
     {
       "name": "SHX",
@@ -304,7 +304,7 @@
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
       "totalFee": 177,
-      "lastDelivery": "2025-07-07T17:08:01.785Z",
+      "lastDelivery": "2025-07-09T19:47:45.647Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 53,
       "projectTimedEpisodes": 0,
@@ -397,7 +397,8 @@
       "totalCost": 0,
       "id": "mbfqxgj83qh1avifavd",
       "createdDate": "2025-06-02T23:53:59.540Z",
-      "completionDate": "2025-06-02T23:53:59.540Z"
+      "completionDate": "2025-06-02T23:53:59.540Z",
+      "synopsis": ""
     },
     {
       "name": "Let's Nupu Nupu",
@@ -528,7 +529,8 @@
       "totalCost": 273,
       "id": "mbfr32xnu3hnev3wg0h",
       "createdDate": "2025-06-02T23:58:21.851Z",
-      "completionDate": "2025-06-02T23:58:21.851Z"
+      "completionDate": "2025-06-02T23:58:21.851Z",
+      "synopsis": ""
     },
     {
       "name": "Akuyaku Reijou Tensei Ojisan",
@@ -678,7 +680,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/171910",
-      "notes": "مدة الحلقة 48 دقيقة",
+      "notes": "الحلقة الأولى: تبدأ الحلمات بالظهور من الدقيقة 29:40 وتظهر بشكل متكرر حتى الدقيقة 43:53\nالحلقة الثانية: بدأ الحلمات بالظهور من الدقيقة 33:50 وتظهر بشكل متكرر حتى الدقيقة 41:35\nالحلقة الثالثة: تظهر الحملات في مشهد واحد في الدقيقة 40:35",
       "malId": "1225",
       "url": "https://myanimelist.net/anime/1225/3x3_Eyes__Seima_Densetsu",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1288/120666l.jpg",
@@ -703,7 +705,8 @@
       "totalCost": 60,
       "id": "mbfrulzmvhf704zkpde",
       "createdDate": "2025-06-03T00:19:46.258Z",
-      "completionDate": "2025-06-03T00:19:46.258Z"
+      "completionDate": "2025-06-03T00:19:46.258Z",
+      "synopsis": "Yakumo has trained and searched for 4 years, following Pai's mysterious disappearance. However, when he finally finds her, not all is well as her memory seems to be gone. They attempt to return her memory by going to the Holy Land, birthplace of the immortal race of Sanjiyans."
     },
     {
       "name": "Dragon Half",
@@ -722,7 +725,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1252341",
+      "rawUrl": "https://nyaa.si/view/1487841",
       "notes": "Mink is no ordinary teenage girl, being half-human and half-dragon. Her father had fallen in love with a red dragon he intended to kill, and instead of slaying the dragon, he married her. Their union gave birth to Mink, who inherited horns, a tail, retractable wings, and incredible strength—characteristics which signify her dragon half nature. \n\nMink spends her days accompanied by her friend Pia, a dwarf girl with overprotective parents, and her best friend Lufa, an elf with great healing powers but impressively bad magic. The three find themselves mooning over the dreamy and charming dragonslayer, Dick Saucer. But in a sudden, absurd turn of events, Mink gets closer than ever to the object of her fantasies, only to realize that her love may never be reciprocated because of her dragon heritage.\n\nThus, the trio sets out on a quest to find a potion that will make Mink fully human. They may unwittingly make enemies, but they are sure to have one heck of a good time.\n\n[Written by MAL Rewrite]",
       "malId": "870",
       "url": "https://myanimelist.net/anime/870/Dragon_Half",
@@ -744,7 +747,8 @@
       "totalCost": 20,
       "id": "mbfrvw6jmf4bi366f0i",
       "createdDate": "2025-06-03T00:20:46.123Z",
-      "completionDate": "2025-06-03T00:20:46.123Z"
+      "completionDate": "2025-06-03T00:20:46.123Z",
+      "synopsis": ""
     },
     {
       "name": "Nayuta",
@@ -763,7 +767,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1777784",
+      "rawUrl": "https://nyaa.si/view/1171134",
       "notes": "فيلم ساعة و19 دقيقة",
       "malId": "3480",
       "url": "https://myanimelist.net/anime/3480/Nayuta",
@@ -783,7 +787,8 @@
       "totalCost": 32,
       "id": "mbfrxdubn3n4m3womnk",
       "createdDate": "2025-06-03T00:21:55.667Z",
-      "completionDate": "2025-06-03T00:21:55.667Z"
+      "completionDate": "2025-06-03T00:21:55.667Z",
+      "synopsis": ""
     },
     {
       "name": "Blue Thermal",
@@ -802,7 +807,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1566996",
+      "rawUrl": "https://nyaa.si/view/1953483",
       "notes": "فيلم ساعة و43 دقيقة",
       "malId": "49665",
       "url": "https://myanimelist.net/anime/49665/Blue_Thermal",
@@ -821,7 +826,8 @@
       "totalCost": 40,
       "id": "mbfrys4jkpvu0fctc6q",
       "createdDate": "2025-06-03T00:23:00.835Z",
-      "completionDate": "2025-06-03T00:23:00.835Z"
+      "completionDate": "2025-06-03T00:23:00.835Z",
+      "synopsis": ""
     },
     {
       "name": "Garou Densetsu: The Motion Picture",
@@ -864,7 +870,8 @@
       "totalCost": 40,
       "id": "mbfs01kjjsji37hbvr",
       "createdDate": "2025-06-03T00:23:59.731Z",
-      "completionDate": "2025-06-03T00:23:59.731Z"
+      "completionDate": "2025-06-03T00:23:59.731Z",
+      "synopsis": ""
     },
     {
       "name": "Petshop of Horrors",
@@ -883,7 +890,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1285818",
+      "rawUrl": "https://nyaa.si/view/782336",
       "notes": "Count D, a quite interesting pet shop owner from an area called Chinatown, sells rare and hard to come by pets to people longing for something special, but with each sale comes a contract. If the rules of the contract are followed, everything goes fine, but if someone should break the rules of the contract, the pet shop cannot be held responsible for anything unfortunate that might happen. Leon Orcot, a homicide detective, has linked many odd and unexplainable deaths together; they all were customers of Count D's pet shop, and he intends to find out why. \n\n(Source: ANN)",
       "malId": "326",
       "url": "https://myanimelist.net/anime/326/Petshop_of_Horrors",
@@ -906,7 +913,8 @@
       "totalCost": 40,
       "id": "mbfs12n786sdj2oqe2h",
       "createdDate": "2025-06-03T00:24:47.779Z",
-      "completionDate": "2025-06-03T00:24:47.779Z"
+      "completionDate": "2025-06-03T00:24:47.779Z",
+      "synopsis": ""
     },
     {
       "name": "Kyochuu Rettou Movie",
@@ -925,7 +933,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1210879",
+      "rawUrl": "https://nyaa.si/view/1368703",
       "notes": "فيلم مدته 1 ساعة و16 دقيقة",
       "malId": "40332",
       "url": "https://myanimelist.net/anime/40332/Kyochuu_Rettou_Movie",
@@ -948,7 +956,8 @@
       "totalCost": 30,
       "id": "mbfs27vfalodpg0v2n6",
       "createdDate": "2025-06-03T00:25:41.211Z",
-      "completionDate": "2025-06-03T00:25:41.211Z"
+      "completionDate": "2025-06-03T00:25:41.211Z",
+      "synopsis": ""
     },
     {
       "name": "Kyochuu Rettou",
@@ -967,7 +976,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1210879",
+      "rawUrl": "https://nyaa.si/view/1174384",
       "notes": "After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!\n\n(Source: MangaHelpers)",
       "malId": "38915",
       "url": "https://myanimelist.net/anime/38915/Kyochuu_Rettou",
@@ -990,7 +999,8 @@
       "totalCost": 10,
       "id": "mbfs39hmi3cevm7e45e",
       "createdDate": "2025-06-03T00:26:29.962Z",
-      "completionDate": "2025-06-03T00:26:29.962Z"
+      "completionDate": "2025-06-03T00:26:29.962Z",
+      "synopsis": ""
     },
     {
       "name": "Armed Blue Gunvolt",
@@ -1009,7 +1019,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1676469",
+      "rawUrl": "https://nyaa.si/view/976385",
       "notes": "الحلقة مدتها 21 دقيقة",
       "malId": "33564",
       "url": "https://myanimelist.net/anime/33564/Armed_Blue_Gunvolt",
@@ -1031,7 +1041,8 @@
       "totalCost": 9,
       "id": "mbfs4rf0gihj4l58gfd",
       "createdDate": "2025-06-03T00:27:39.852Z",
-      "completionDate": "2025-06-03T00:27:39.852Z"
+      "completionDate": "2025-06-03T00:27:39.852Z",
+      "synopsis": ""
     },
     {
       "name": "Switch",
@@ -1073,7 +1084,8 @@
       "totalCost": 24,
       "id": "mbfs62p7i1o44s0ck5",
       "createdDate": "2025-06-03T00:28:41.131Z",
-      "completionDate": "2025-06-03T00:28:41.131Z"
+      "completionDate": "2025-06-03T00:28:41.131Z",
+      "synopsis": ""
     },
     {
       "name": "Vassalord.",
@@ -1092,7 +1104,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1683837",
+      "rawUrl": "https://nyaa.si/view/775354",
       "notes": "الحلقة 27 دقيقة",
       "malId": "15933",
       "url": "https://myanimelist.net/anime/15933/Vassalord",
@@ -1117,7 +1129,8 @@
       "totalCost": 11,
       "id": "mbfs77ei62sgsasg1qh",
       "createdDate": "2025-06-03T00:29:33.882Z",
-      "completionDate": "2025-06-03T00:29:33.883Z"
+      "completionDate": "2025-06-03T00:29:33.883Z",
+      "synopsis": ""
     },
     {
       "name": "High School Agent",
@@ -1158,7 +1171,8 @@
       "totalCost": 22,
       "id": "mbfs8o8ks6ffanxtco",
       "createdDate": "2025-06-03T00:30:42.356Z",
-      "completionDate": "2025-06-03T00:30:42.356Z"
+      "completionDate": "2025-06-03T00:30:42.356Z",
+      "synopsis": ""
     },
     {
       "name": "Kagerou Daze: In a Day's",
@@ -1199,7 +1213,8 @@
       "totalCost": 10,
       "id": "mbfs9vd9vxy3idxje3",
       "createdDate": "2025-06-03T00:31:38.253Z",
-      "completionDate": "2025-06-03T00:31:38.253Z"
+      "completionDate": "2025-06-03T00:31:38.253Z",
+      "synopsis": ""
     },
     {
       "name": "Ryokunohara Labyrinth: Sparkling Phantom",
@@ -1242,7 +1257,8 @@
       "totalCost": 15,
       "id": "mbfsb8bozcef2e7b5yg",
       "createdDate": "2025-06-03T00:32:41.700Z",
-      "completionDate": "2025-06-03T00:32:41.700Z"
+      "completionDate": "2025-06-03T00:32:41.700Z",
+      "synopsis": ""
     },
     {
       "name": "Greed",
@@ -1281,7 +1297,8 @@
       "totalCost": 25,
       "id": "mbfscorvy6vt01jsbgn",
       "createdDate": "2025-06-03T00:33:49.675Z",
-      "completionDate": "2025-06-03T00:33:49.675Z"
+      "completionDate": "2025-06-03T00:33:49.675Z",
+      "synopsis": ""
     },
     {
       "name": "Ankoku Shinwa",
@@ -1325,7 +1342,8 @@
       "totalCost": 40,
       "id": "mbfseev8gzsnkfjy898",
       "createdDate": "2025-06-03T00:35:10.148Z",
-      "completionDate": "2025-06-03T00:35:10.148Z"
+      "completionDate": "2025-06-03T00:35:10.148Z",
+      "synopsis": ""
     },
     {
       "name": "Fumoon",
@@ -1344,7 +1362,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/963836",
+      "rawUrl": "https://nyaa.si/view/969247",
       "notes": "مدة الفيلم ساعة ونصف",
       "malId": "5862",
       "url": "https://myanimelist.net/anime/5862/Fumoon",
@@ -1363,7 +1381,8 @@
       "totalCost": 37,
       "id": "mbfsfwwzrcw6i676txm",
       "createdDate": "2025-06-03T00:36:20.195Z",
-      "completionDate": "2025-06-03T00:36:20.195Z"
+      "completionDate": "2025-06-03T00:36:20.195Z",
+      "synopsis": ""
     },
     {
       "name": "Cleopatra D.C.",
@@ -1422,7 +1441,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1819302",
+      "rawUrl": "https://nyaa.si/view/1818424",
       "notes": "While the adults have no hope for tomorrow, the youth accept the decline and poverty of the city as an ordinary part of their reality until Haruko throws the city into chaos.\n\n(Source: Anime News Network)",
       "malId": "51304",
       "url": "https://myanimelist.net/anime/51304/FLCL__Grunge",
@@ -1447,7 +1466,8 @@
       "totalCost": 16.5,
       "id": "mbfsr0yrolxmaahxrq",
       "createdDate": "2025-06-03T00:44:58.659Z",
-      "completionDate": "2025-06-03T00:44:58.659Z"
+      "completionDate": "2025-06-03T00:44:58.659Z",
+      "synopsis": ""
     },
     {
       "name": "FLCL Progressive",
@@ -1491,7 +1511,8 @@
       "totalCost": 33,
       "id": "mbfssa7nhkywdz129y8",
       "createdDate": "2025-06-03T00:45:57.299Z",
-      "completionDate": "2025-06-03T00:45:57.299Z"
+      "completionDate": "2025-06-03T00:45:57.299Z",
+      "synopsis": ""
     },
     {
       "name": "FLCL Alternative",
@@ -1535,7 +1556,8 @@
       "totalCost": 33,
       "id": "mbfstekjdzk87icmbja",
       "createdDate": "2025-06-03T00:46:49.603Z",
-      "completionDate": "2025-06-03T00:46:49.603Z"
+      "completionDate": "2025-06-03T00:46:49.603Z",
+      "synopsis": ""
     },
     {
       "name": "FLCL: Shoegaze",
@@ -1554,7 +1576,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1819301",
+      "rawUrl": "https://nyaa.si/view/1818422",
       "notes": "The anime will take place 10 years after FLCL Alternative and will center on a high school boy and girl.",
       "malId": "51305",
       "url": "https://myanimelist.net/anime/51305/FLCL__Shoegaze",
@@ -1579,7 +1601,8 @@
       "totalCost": 16.5,
       "id": "mbfsu5mrkofngznu08q",
       "createdDate": "2025-06-03T00:47:24.675Z",
-      "completionDate": "2025-06-03T00:47:24.675Z"
+      "completionDate": "2025-06-03T00:47:24.675Z",
+      "synopsis": ""
     },
     {
       "name": "Kamichu!",
@@ -1598,7 +1621,7 @@
       "editingBonus": -12,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1251921",
+      "rawUrl": "https://nyaa.si/view/798177",
       "notes": "البراء ترجم الحلقات الثلاثة الأولى",
       "malId": "489",
       "url": "https://myanimelist.net/anime/489/Kamichu",
@@ -1623,7 +1646,8 @@
       "totalCost": 99,
       "id": "mbfszhycvvna5ukt04",
       "createdDate": "2025-06-03T00:51:33.924Z",
-      "completionDate": "2025-06-03T00:51:33.924Z"
+      "completionDate": "2025-06-03T00:51:33.924Z",
+      "synopsis": ""
     },
     {
       "name": "Kamichu! Specials",
@@ -1707,7 +1731,8 @@
       "totalCost": 144,
       "id": "mbft2mhf75zrt776kdg",
       "createdDate": "2025-06-03T00:53:59.763Z",
-      "completionDate": "2025-06-03T00:53:59.763Z"
+      "completionDate": "2025-06-03T00:53:59.763Z",
+      "synopsis": ""
     },
     {
       "name": "Gatchaman Crowds: Embrace",
@@ -1746,7 +1771,8 @@
       "totalCost": 12,
       "id": "mbft478svyfi412e5wk",
       "createdDate": "2025-06-03T00:55:13.324Z",
-      "completionDate": "2025-06-03T00:55:13.324Z"
+      "completionDate": "2025-06-03T00:55:13.324Z",
+      "synopsis": ""
     },
     {
       "name": "Zoku Sayonara Zetsubou Sensei",
@@ -2010,7 +2036,7 @@
       "name": "Blue Seed",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 12,
+      "completedEpisodes": 13,
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2047,7 +2073,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.98,
-      "totalCost": 96,
+      "totalCost": 106,
       "id": "mbgxf55zlvkad0iaep",
       "createdDate": "2025-06-03T19:43:28.487Z",
       "completionDate": null,
@@ -2057,7 +2083,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 22,
+      "completedEpisodes": 24,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2088,16 +2114,16 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 220,
+      "totalCost": 240,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null
     },
     {
       "name": "Viper's Creed",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 12,
-      "completedEpisodes": 9,
+      "completedEpisodes": 12,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2129,10 +2155,11 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.68,
-      "totalCost": 90,
+      "totalCost": 120,
       "id": "mbgxmfgolbtl0gggel",
       "createdDate": "2025-06-03T19:49:08.424Z",
-      "completionDate": null
+      "completionDate": "2025-07-09T20:15:01.015Z",
+      "synopsis": ""
     },
     {
       "name": "Chibi Maruko-chan",
@@ -2252,7 +2279,8 @@
       "totalCost": 8,
       "id": "mbh6b1vcnwlnatkr95s",
       "createdDate": "2025-06-03T23:52:14.136Z",
-      "completionDate": "2025-06-03T23:52:14.136Z"
+      "completionDate": "2025-06-03T23:52:14.136Z",
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk5owx0h2avzwf",
@@ -3310,9 +3338,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.23,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/1331167",
       "notes": "One day, a huge UFO spins over Japan and crashes into a rural farmland outside Nagaoka, disrupting Tsubasa Misudachi's ordinary life. As the Gatchaman, the legendary defenders of Tachikawa City, supervise the ordeal, a peaceful alien creature emerges from the spacecraft. In the ensuing chaos, Tsubasa is given a special high-tech notebook, or NOTE, from Gatchaman founder J.J. Robinson, signaling Tsubasa's sudden recruitment into their group. Under the tutelage of fellow hero Hajime Ichinose, Tsubasa slowly begins to adjust to life as a defender of justice.  \n\nMeanwhile, the CROWDS technology, which enables users to manifest their consciousness' into a physical form, is spreading amongst the public, as well as being endorsed by Prime Minister Sugayama. However, a mysterious organization known as VAPE has gained notoriety by using unique red CROWDS to wreak havoc, shifting public opinion against the CROWDS technology. The Gatchaman, along with new recruit Tsubasa, must put a stop to their destructive activities before it's too late.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk5nte9z7dtiop",
@@ -5619,9 +5648,10 @@
       "duration": "26 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 8.06,
-      "rawUrl": "",
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
       "notes": "Ginga Eiyuu Densetsu Gaiden (1999) is the second of two OVA adaptations of side stories from the Ginga Eiyuu Densetsu novel series. This second adaptation follows the achievements of Yang Wen-li of the Free Planets Alliance before the fateful Battle of Astarte, and continues the tales of Reinhard von Müsel and Siegfried Kircheis of the Galactic Empire.\n\nSpiral Labyrinth\nYang is propelled to the spotlight after his famous evacuation of civilians from El Facil. Following an unofficial double promotion and a flurry of media attention, he chronicles his research of the Year 730 Mafia—a close-knit group of Alliance military officers centered around the famed tactician Bruce Ashbey. He investigates a startling claim by Ashbey's deceased widow that may have enormous political ramifications: that the great war hero was not killed in action but murdered.\n\nThe Mutineer\nReinhard and Kircheis are posted on the destroyer Hameln II, docked at Iserlohn Fortress. After gaining the respect of the crew, Reinhard's leadership is tested when the captain is severely wounded and passes command authority to Reinhard, the next-highest ranking officer on deck.\n\nThe Duelist\nWhile Reinhard and Kircheis are working in the Imperial capital Odin, Reinhard learns of a mining rights dispute involving Dorothea von Schaffhausen, a friend of his sister Annerose von Grünewald. Upon hearing that Count Herxheimer intends to settle the matter with a duel, Reinhard volunteers to represent the Schaffhausen family.\n\nThe Retriever\nAfter falling out of favor with the nobility, Count Herxheimer is trying to escape to the Free Planets Alliance with a stolen Seffle particle generator prototype. Reinhard is tasked with retrieving both the prototype and the defector, but is only assigned the cruiser Hässliche Entlein due to the confidential nature of the mission.\n\nThe Third Battle of Tiamat\nTo commemorate the 30th year of the reign of Kaiser Friedrich IV, the Empire announces a large-scale military campaign against the Free Planets Alliance. In the ensuing clash between the Imperial expeditionary force and three Alliance fleets, Reinhard's timely intervention shapes the tides of war.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk6rldlo9ldia",
@@ -5662,9 +5692,10 @@
       "duration": "26 min per ep",
       "rating": "R+ - Mild Nudity",
       "score": 8.14,
-      "rawUrl": "",
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
       "notes": "Ginga Eiyuu Densetsu Gaiden is the first of two OVA adaptations of side stories from the Ginga Eiyuu Densetsu novel series. This first adaptation follows the achievements of Reinhard von Müsel and Siegfried Kircheis of the Galactic Empire before the fateful Battle of Astarte.\n\nThe Silver-White Valley \nReinhard and Kircheis graduate from their military academy and are immediately sent to the frozen frontier planet Kapche-Lanka. Unbeknownst to them, their new superior schemes to kill Reinhard on behalf of a rival of Reinhard's sister Annerose von Grünewald.\n\nDreams of the Morning, Songs of the Night\nReinhard and Kircheis are assigned to the Imperial Military Police, where they uncover the corrupt and oppressive practices of the Empire's law enforcement. They are soon ordered to investigate the murder of a student at their alma mater.\n\nDishonor \nAs Reinhard awaits the bestowal of his new title of Count von Lohengramm, he sends Kircheis to the artificial resort satellite Kreuznach III for a vacation. Restless from the lack of work, Kircheis assists the local police with a drug trafficking case related to an attack on a disgraced former Vice Admiral.\n\nA Hundred Billion Stars, a Hundred Billion Lights \nWhile Reinhard is still a commodore in charge of only a single squadron, he laments the incompetence of his superiors during a battle against the Free Planets Alliance. Amassing military successes under the direct command of Vice Admiral Richard von Grimmelshausen, Reinhard repeatedly clashes with Hermann von Lüneburg, a commodore and former regimental commander of the Alliance's infamous Rosen Ritter.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk6q0de3uc3ayc",
@@ -5706,9 +5737,10 @@
       "duration": "59 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.28,
-      "rawUrl": "",
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
       "notes": "The Galactic Empire and the Free Planets Alliance have been locked in a seemingly endless war for more than a century and a half. In the Empire, a young Siegfried Kircheis meets Reinhard von Müsel and his older sister Annerose. Kircheis enjoys a happy friendship with the two beautiful blonde-haired siblings until the day that their alcoholic father, a lesser nobleman with low standing, accepts a request for Annerose to be sold as a concubine to the Kaiser. Although enraged, Reinhard is powerless to stop the whims of the Imperial Court. He and his father soon move away, leaving Kircheis behind.\n\nA few years later, Reinhard returns in a military uniform and declares his intent to rise through the ranks and free his sister from sexual servitude. Kircheis joins Reinhard on this daring journey to save Annerose, yearning to forever stay by the side of his friends.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk63yr4xy88dgu",
@@ -5749,9 +5781,10 @@
       "duration": "59 min",
       "rating": "R+ - Mild Nudity",
       "score": 7.86,
-      "rawUrl": "",
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
       "notes": "Four months before Count von Lohengramm of the Galactic Empire faced Yang Wen-li of the Free Planets Alliance at the Battle of Astarte, he was still just Reinhard von Müsel. The youngest admiral in the Empire's history, Reinhard was disdained and dismissed by his peers as the brother of the Kaiser's concubine. \n\nUpon arriving at Iserlohn Fortress with his expeditionary fleet, Reinhard immediately receives an order from the ambitious and cunning Fleet Admiral Gregor von Mückenberger: to intercept an Alliance fleet in a neighboring starzone. Despite recognizing this as a veiled attempt to get him killed in combat, Reinhard nevertheless orders his tired and weary men to engage the enemy in the atmosphere of the gas giant Legnica. But unbeknownst to him, this will mark the first of his many historic encounters with the Hero of El Facil.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk6fowghp2qcxo",
@@ -5793,9 +5826,10 @@
       "duration": "1 hr 29 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.08,
-      "rawUrl": "",
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
       "notes": "Led by Reinhard von Müsel, the Galactic Empire crushes the Free Planets Alliance in the Fourth Battle of Tiamat. Arriving in the Imperial capital of Odin to a hero's welcome, Reinhard's victory earns him a promotion to High Admiral and the distinguished title of Count von Lohengramm. On the other side, Yang Wen-li safely returns to the Alliance capital of Heinessen without fanfare and reunites with his dear friends.\n\nReinhard and Yang look forward to a long-awaited reprieve. However, at the request of the scheming Duke Otho von Braunschweig, the Imperial High Command orders the new High Admiral to invade the Alliance with a fleet of twenty thousand ships. After the Duke leaks the plan to the Alliance government, three fleets totalling forty thousand ships are sent to counter the incoming attack and recreate the famous Battle of Dagon. But even though Reinhard is outnumbered two to one, he has an ingenious plan—and Yang sees right through it. Will Yang's superiors heed his warning before it is too late?\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk64cm0lx88f8c",
@@ -5836,9 +5870,10 @@
       "duration": "26 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 9.01,
-      "rawUrl": "",
-      "notes": "The 150-year-long stalemate between the two interstellar superpowers, the Galactic Empire and the Free Planets Alliance, comes to an end when a new generation of leaders arises: the idealistic military genius Reinhard von Lohengramm, and the FPA's reserved historian, Yang Wenli.\n\nWhile Reinhard climbs the ranks of the Empire with the aid of his childhood friend, Siegfried Kircheis, he must fight not only the war, but also the remnants of the crumbling Goldenbaum Dynasty in order to free his sister from the Kaiser and unify humanity under one genuine ruler. Meanwhile, on the other side of the galaxy, Yang—a strong supporter of democratic ideals—has to stand firm in his beliefs, despite the struggles of the FPA, and show his pupil, Julian Mintz, that autocracy is not the solution.\n\nAs ideologies clash amidst the war's many casualties, the two strategic masterminds must ask themselves what the real reason behind their battle is.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "rawUrl": "https://mega.nz/folder/N7k2lajS#JoRSNdLVcbVuPqDqIfGmIg",
+      "notes": "العسكر\n\nSpaceman Second Class جندي\n\nSpaceman First Class جندي أول \n\nAble Spaceman عريف\n\nLeading Spaceman وكيل رقيب\n\nPetty Officer Second Class رقيب\n\nPetty Officer First Class رقيب أول \n\nWarrant Officer رئيس رقباء \n\n----------------------\nالضباط \nEnsign ملازم\n\nSub-lieutenant ملازم أول \n\nLieutenant نقيب\n\nLieutenant commander رائد\n\nCommander مقدم \n\nCaptain عقيد\n\nCommodore عميد\n\nRear admiral لواء\n\nVice admiral نائب قائد الأسطول\n\nAdmiral قائد الأسطول\n\nHigh admiral قائد الأسطول الأعلى \n\nFleet admiral قائد الأسطول البحري العسكري\n\nSpaceman Second Class جندي\n\nSpaceman First Class جندي أول \n\nAble Spaceman عريف\n\nLeading Spaceman وكيل رقيب\n\nPetty Officer Second Class رقيب\n\nPetty Officer First Class رقيب أول \n\nWarrant Officer رئيس رقباء \n\n----------------------\nالضباط \nEnsign ملازم\n\nSub-lieutenant ملازم أول \n\nLieutenant نقيب\n\nLieutenant commander رائد\n\nCommander مقدم \n\nCaptain عقيد\n\nCommodore عميد\n\nRear admiral لواء\n\nVice admiral نائب قائد الأسطول\n\nAdmiral قائد الأسطول\n\nHigh admiral قائد الأسطول الأعلى \n\nFleet admiral قائد الأسطول البحري",
+      "completionDate": null,
+      "synopsis": "The 150-year-long stalemate between the two interstellar superpowers, the Galactic Empire and the Free Planets Alliance, comes to an end when a new generation of leaders arises: the idealistic military genius Reinhard von Lohengramm, and the FPA's reserved historian, Yang Wenli.\n\nWhile Reinhard climbs the ranks of the Empire with the aid of his childhood friend, Siegfried Kircheis, he must fight not only the war, but also the remnants of the crumbling Goldenbaum Dynasty in order to free his sister from the Kaiser and unify humanity under one genuine ruler. Meanwhile, on the other side of the galaxy, Yang—a strong supporter of democratic ideals—has to stand firm in his beliefs, despite the struggles of the FPA, and show his pupil, Julian Mintz, that autocracy is not the solution.\n\nAs ideologies clash amidst the war's many casualties, the two strategic masterminds must ask themselves what the real reason behind their battle is.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "mbhnrbk69sx342jhxqg",
@@ -5876,10 +5911,11 @@
       ],
       "duration": "24 min per ep",
       "rating": "G - All Ages",
-      "score": 6.42,
-      "rawUrl": "",
-      "notes": "An alien woman named Maya crash-lands on Earth. Her homeworld was destroyed by the Blasters, a cruel alien race who steals the natural resources from other planets. She falls in love with a scientist and gives birth to a human boy named Kentaro. When the Blasters invade the Earth, Kentaro must defeat them by fighting with Astroganger, a robot made from living metal.\n\n(Source: Wikipedia)",
-      "completionDate": null
+      "score": 6.43,
+      "rawUrl": "https://nyaa.si/view/1360310",
+      "notes": "ملف الترجمة في جوجل درايف 00",
+      "completionDate": null,
+      "synopsis": "An alien woman named Maya crash-lands on Earth. Her homeworld was destroyed by the Blasters, a cruel alien race who steals the natural resources from other planets. She falls in love with a scientist and gives birth to a human boy named Kentaro. When the Blasters invade the Earth, Kentaro must defeat them by fighting with Astroganger, a robot made from living metal.\n\n(Source: Wikipedia)"
     },
     {
       "id": "mbhnrbk6wlbkfa2mnoj",
@@ -7319,15 +7355,15 @@
       "id": "mbhnrbk6frp6z1er96q",
       "createdDate": "2025-06-04T08:00:46.662Z",
       "name": "Igano Kabamaru",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 24,
       "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 6,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -7354,9 +7390,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.78,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/306468",
       "notes": "After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school—which turns out to have weird quirks of its own. \n\n(Source: ANN)",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk66lnke2is5w",
@@ -16359,9 +16396,10 @@
       "duration": "27 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.75,
-      "rawUrl": "",
-      "notes": "1532. Esteban, age 12 is a foundling from Barcelona, with a mysterious power of ordering the Sun to appear, for which he is called \"Child of the Sun.\" Upon the death of his adoptive father, Esteban learns he was rescued as a baby from a sinking ship in the ocean. The mysterious medallion that Esteban wears since ever has a trace somewhere in the New World, probably coming from the Mysterious Cities of Gold. Esteban leaves Spain to find his parents and find out who he is. On the way he meets Zia, an Inca girl who was kidnapped from her people years back and has exactly the same medallion as him. Later on, they are joined by Tao, a young Galapagos robinson, the last descendant of the Empire of Heva, an Empire said to have built the Cities of Gold. Following Coyolite, the shining star represented on their medallions, the three children travel through the unexplored New World, searching for the Cities of Gold, believing that this way is leading them to their lost parents.\n\n(Source: ANN)",
-      "completionDate": null
+      "rawUrl": "https://nyaa.si/view/600449",
+      "notes": "ملف الترجمة في جوجل درايف 00",
+      "completionDate": null,
+      "synopsis": "1532. Esteban, age 12 is a foundling from Barcelona, with a mysterious power of ordering the Sun to appear, for which he is called \"Child of the Sun.\" Upon the death of his adoptive father, Esteban learns he was rescued as a baby from a sinking ship in the ocean. The mysterious medallion that Esteban wears since ever has a trace somewhere in the New World, probably coming from the Mysterious Cities of Gold. Esteban leaves Spain to find his parents and find out who he is. On the way he meets Zia, an Inca girl who was kidnapped from her people years back and has exactly the same medallion as him. Later on, they are joined by Tao, a young Galapagos robinson, the last descendant of the Empire of Heva, an Empire said to have built the Cities of Gold. Following Coyolite, the shining star represented on their medallions, the three children travel through the unexplored New World, searching for the Cities of Gold, believing that this way is leading them to their lost parents.\n\n(Source: ANN)"
     },
     {
       "id": "mbhnrbka1m6e3gx4lzb",
@@ -19722,8 +19760,8 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
-      "notes": "Doumu Shinjou is the 10-year-old son of a legendary deceased player of the Yomiuri Giants. From his father he inherited a love of baseball and an incredible talent for the sport, although both his mother and his older sister try to get him to give it up. \nHowever, before dying, his father had the time to teach him one last trick- a magic shot. After his mother gives him the glove his father used, Doumu makes that shot in a training session of the Giants and is contracted immediately. With the support of the veteran players of the team, the Giants become unbeatable at home- none of the main batters of the Japanese professional league can overcome his magic shot. However, away games are another matter, as Doumu is just allowed to play at home, in the Tokyo Dome in which his father was consecrated.\n New rivals, but also friends (such as Melody Norman, an American girl who disguises herself as a boy because women aren't allowed to play baseball), step up to bat along the way during Doumu's journey. The Giants seem to winning the fight to conquer the league- until the arrival of the mysterious Don Carlos, a Spanish ex-bullfighter who plays for the Hiroshima Toyo Carp, and seems to have a past with Doumu's father. Will Doumu succeed in giving the league to the Giants? \n\n(Source: Wikipedia, edited)",
+      "rawUrl": "https://mega.nz/folder/F68VxIwR#3c_m66u6RTah4e6e12Jrcw",
+      "notes": "رابط الأصوات:\nhttps://mega.nz/folder/k60X2J7S#lijZ4BqmeSXLYnKNv6Emiw",
       "malId": "5273",
       "url": "https://myanimelist.net/anime/5273/Miracle_Giants_Doumu-kun",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/5/29829l.jpg",
@@ -19743,7 +19781,7 @@
       "totalCost": 0,
       "id": "mbhujhg7hp1mie7d7hw",
       "createdDate": "2025-06-04T11:10:38.359Z",
-      "synopsis": "",
+      "synopsis": "Doumu Shinjou is the 10-year-old son of a legendary deceased player of the Yomiuri Giants. From his father he inherited a love of baseball and an incredible talent for the sport, although both his mother and his older sister try to get him to give it up. \nHowever, before dying, his father had the time to teach him one last trick- a magic shot. After his mother gives him the glove his father used, Doumu makes that shot in a training session of the Giants and is contracted immediately. With the support of the veteran players of the team, the Giants become unbeatable at home- none of the main batters of the Japanese professional league can overcome his magic shot. However, away games are another matter, as Doumu is just allowed to play at home, in the Tokyo Dome in which his father was consecrated.\n New rivals, but also friends (such as Melody Norman, an American girl who disguises herself as a boy because women aren't allowed to play baseball), step up to bat along the way during Doumu's journey. The Giants seem to winning the fight to conquer the league- until the arrival of the mysterious Don Carlos, a Spanish ex-bullfighter who plays for the Hiroshima Toyo Carp, and seems to have a past with Doumu's father. Will Doumu succeed in giving the league to the Giants? \n\n(Source: Wikipedia, edited)",
       "completionDate": null
     },
     {
@@ -21236,9 +21274,9 @@
     },
     {
       "name": "The Middle",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 215,
-      "completedEpisodes": 191,
+      "completedEpisodes": 215,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -21268,11 +21306,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "22",
-      "totalCost": 382,
+      "totalCost": 430,
       "id": "mbh4slfybaswkzwl9rc",
       "createdDate": "2025-06-03T23:09:53.422Z",
       "seriesNameSearch": "The Middle",
-      "completionDate": null
+      "completionDate": "2025-07-09T07:11:09.617Z"
     },
     {
       "name": "Война и мир",
@@ -22063,6 +22101,411 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-09T20:18:48.663Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T20:17:22.216Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T20:15:01.015Z",
+      "message": "تعديل مشروع (anime): Viper's Creed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T20:14:46.550Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-09T20:14:45.414Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-09T20:14:44.998Z",
+      "message": "تحديث حلقات مشروع (anime) Viper's Creed: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxmfgolbtl0gggel",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-09T20:14:37.198Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (23 ← 24)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 24,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-09T20:14:36.286Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (22 ← 23)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 23,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-09T20:00:34.089Z",
+      "message": "تعديل مشروع (anime): 3x3 Eyes: Seima Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:52:21.624Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:42.008Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:39.625Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu: Arata naru Tatakai no Overture",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:36.897Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:34.071Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu Gaiden (1999)",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:22.408Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu Gaiden",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:49:18.535Z",
+      "message": "تعديل مشروع (anime): Ginga Eiyuu Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:47:45.647Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:46:54.312Z",
+      "message": "تعديل مشروع (anime): Miracle Giants Doumu-kun",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:44:33.319Z",
+      "message": "تعديل مشروع (anime): Miracle Giants Doumu-kun",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:39:26.991Z",
+      "message": "تعديل مشروع (anime): FLCL: Shoegaze",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:39:15.311Z",
+      "message": "تعديل مشروع (anime): FLCL: Grunge",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:39:05.880Z",
+      "message": "تعديل مشروع (anime): FLCL Alternative",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:38:56.497Z",
+      "message": "تعديل مشروع (anime): FLCL Progressive",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:38:27.455Z",
+      "message": "تعديل مشروع (anime): Onara Gorou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:38:15.535Z",
+      "message": "تعديل مشروع (anime): Genshiken Nidaime",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:38:00.311Z",
+      "message": "تعديل مشروع (anime): Nayuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:37:43.239Z",
+      "message": "تعديل مشروع (anime): Dragon Half",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:37:23.656Z",
+      "message": "تعديل مشروع (anime): Blue Thermal",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:37:10.359Z",
+      "message": "تعديل مشروع (anime): Petshop of Horrors",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:36:54.919Z",
+      "message": "تعديل مشروع (anime): Garou Densetsu: The Motion Picture",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:36:01.680Z",
+      "message": "تعديل مشروع (anime): Switch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:35:01.727Z",
+      "message": "تعديل مشروع (anime): Armed Blue Gunvolt",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:34:42.415Z",
+      "message": "تعديل مشروع (anime): Kyochuu Rettou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:34:32.831Z",
+      "message": "تعديل مشروع (anime): Kyochuu Rettou Movie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:34:05.623Z",
+      "message": "تعديل مشروع (anime): Kagerou Daze: In a Day's",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:33:44.960Z",
+      "message": "تعديل مشروع (anime): High School Agent",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:33:30.247Z",
+      "message": "تعديل مشروع (anime): Vassalord.",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:33:14.919Z",
+      "message": "تعديل مشروع (anime): Ankoku Shinwa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:33:00.167Z",
+      "message": "تعديل مشروع (anime): Greed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:32:38.671Z",
+      "message": "تعديل مشروع (anime): Ryokunohara Labyrinth: Sparkling Phantom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:31:35.568Z",
+      "message": "تعديل مشروع (anime): Fumoon",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:30:39.343Z",
+      "message": "تعديل مشروع (anime): Kamichu!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:30:05.407Z",
+      "message": "تعديل مشروع (anime): High School Jingi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:29:42.527Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds Insight",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:29:26.351Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:29:22.831Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds: Embrace",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:27:27.735Z",
+      "message": "تعديل مشروع (anime): Astroganger",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:26:24.977Z",
+      "message": "تعديل مشروع (anime): Taiyou no Ko Esteban",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T19:18:27.847Z",
+      "message": "تعديل مشروع (anime): Taiyou no Ko Esteban",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-09T07:11:09.617Z",
+      "message": "تعديل مشروع (series): The Middle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-08T19:30:01.289Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-07-08T08:41:01.072Z",
       "message": "تعديل مشروع (series): Six Feet Under",
@@ -27147,5 +27590,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-08T08:41:18.699Z"
+  "lastCloudExport": "2025-07-09T20:19:20.621Z"
 }
