@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-19T09:24:29.695Z",
+  "lastSaved": "2025-07-19T09:26:53.401Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 179,
+      "totalFee": 197,
       "lastDelivery": "2025-07-07T17:08:59.977Z",
-      "projectTranslatedEpisodes": 27,
+      "projectTranslatedEpisodes": 29,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 39
+      "remainingAmount": 57
     },
     {
       "name": "Dina El- Shrief",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 90,
+      "totalFee": 96,
       "lastDelivery": "2025-07-09T20:18:48.663Z",
-      "projectTranslatedEpisodes": 15,
+      "projectTranslatedEpisodes": 16,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 60
+      "remainingAmount": 66
     },
     {
       "name": "FREDOM",
@@ -116,13 +116,13 @@
       "notes": "",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 269,
+      "totalFee": 273,
       "lastDelivery": "2025-07-14T10:27:45.381Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 169,
+      "projectTimedEpisodes": 172,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 47
+      "remainingAmount": 51
     },
     {
       "name": "Madarame",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2466.5,
+      "totalFee": 2488.5,
       "lastDelivery": "2025-07-18T17:58:37.075Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 853,
+      "projectEditedEpisodes": 857,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 451.5,
+      "remainingAmount": 473.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -164,13 +164,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 486,
+      "totalFee": 493,
       "lastDelivery": "2025-07-14T10:27:45.381Z",
-      "projectTranslatedEpisodes": 80,
+      "projectTranslatedEpisodes": 81,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 71
+      "remainingAmount": 78
     },
     {
       "name": "MugiHimo",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 125,
+      "totalFee": 127,
       "lastDelivery": "2025-07-18T17:58:37.075Z",
       "projectTranslatedEpisodes": 13,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 50,
-      "remainingAmount": 20
+      "projectSubtitledEpisodes": 51,
+      "remainingAmount": 22
     },
     {
       "name": "NaNa",
@@ -7357,7 +7357,7 @@
       "name": "Igano Kabamaru",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 3,
+      "completedEpisodes": 4,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7370,7 +7370,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 30,
+      "totalCost": 40,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -20202,7 +20202,7 @@
       "name": "Yofukashi no Uta Season 2",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 1,
+      "completedEpisodes": 3,
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20235,7 +20235,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 16.5,
+      "totalCost": 49.5,
       "id": "mcdhyd2ppvffm5osogc",
       "createdDate": "2025-06-26T14:46:55.153Z",
       "completionDate": null
@@ -20995,7 +20995,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 2,
+      "completedEpisodes": 3,
       "notes": "",
       "translatorId": "mbfpow5fa4niiy1souq",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -21026,7 +21026,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 32,
+      "totalCost": 48,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -21788,46 +21788,6 @@
       "createdDate": "2025-06-04T11:26:01.160Z"
     },
     {
-      "name": "Chuck",
-      "status": "قريباً",
-      "totalEpisodes": 91,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "https://mega.nz/folder/d3FBHJRA#P-3GNYd4pb9AeWogC445ng",
-      "notes": "",
-      "url": "https://www.themoviedb.org/tv/1404",
-      "seriesYear": "2007",
-      "seriesNetwork": "NBC",
-      "seriesStatusTMDB": "Ended",
-      "seriesOverview": [],
-      "seriesGenres": [
-        "حركة ومغامرة",
-        "كوميديا",
-        "دراما"
-      ],
-      "seriesVoteAverage": 7.7,
-      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg",
-      "seriesOriginCountry": [
-        "US"
-      ],
-      "seriesOriginalLanguage": "en",
-      "seriesEpisodeRunTime": "43",
-      "totalCost": 0,
-      "id": "mbhv43m8fre3g8lvqh",
-      "createdDate": "2025-06-04T11:26:40.208Z"
-    },
-    {
       "name": "Happy Endings",
       "status": "قريباً",
       "totalEpisodes": 57,
@@ -22145,6 +22105,146 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-19T09:27:22.139Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-19T09:26:53.387Z",
+      "message": "حذف مشروع (series): Chuck",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-19T09:26:10.499Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 16,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-19T09:26:05.755Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 16.5,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1.5
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-19T09:26:04.715Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 16.5,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1.5
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-19T09:25:57.204Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-19T09:25:09.435Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-19T09:25:07.074Z",
+      "message": "تم تصدير البيانات بنجاح إلى GitHub.",
+      "details": null
+    },
     {
       "timestamp": "2025-07-19T09:24:29.683Z",
       "message": "حذف مشروع (anime): Cyborg 009 (1979)",
@@ -28594,5 +28694,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-19T09:24:51.853Z"
+  "lastCloudExport": "2025-07-19T09:27:26.231Z"
 }
