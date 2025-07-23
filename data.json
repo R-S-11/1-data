@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-22T10:25:26.515Z",
+  "lastSaved": "2025-07-23T08:13:19.971Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -45,14 +45,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 831,
-      "lastDelivery": "2025-07-20T07:08:42.769Z",
+      "totalFee": 850.5,
+      "lastDelivery": "2025-07-23T08:13:19.960Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 543,
+      "projectSubtitledEpisodes": 556,
       "manualOrder": 0,
-      "remainingAmount": 155.5,
+      "remainingAmount": 175,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 114,
+      "totalFee": 120,
       "lastDelivery": "2025-07-09T20:18:48.663Z",
-      "projectTranslatedEpisodes": 19,
+      "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 84
+      "remainingAmount": 90
     },
     {
       "name": "FREDOM",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2519.5,
-      "lastDelivery": "2025-07-21T13:34:18.077Z",
+      "totalFee": 2534,
+      "lastDelivery": "2025-07-23T08:13:19.960Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 877,
+      "projectEditedEpisodes": 892,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 504.5,
+      "remainingAmount": 519,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 255,
-      "lastDelivery": "2025-07-21T13:34:18.077Z",
-      "projectTranslatedEpisodes": 41,
+      "totalFee": 261,
+      "lastDelivery": "2025-07-22T17:50:24.263Z",
+      "projectTranslatedEpisodes": 42,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 78
+      "remainingAmount": 84
     },
     {
       "name": "Nouralhadi",
@@ -7358,7 +7358,7 @@
       "name": "Igano Kabamaru",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 7,
+      "completedEpisodes": 8,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7371,7 +7371,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 70,
+      "totalCost": 80,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -20405,23 +20405,23 @@
     },
     {
       "name": ".hack//Tasogare no Udewa Densetsu",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfq447udijq1mago58",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 6,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/1963260",
       "synopsis": "Winning the legendary characters \"Kite\" and \"Black Rose\" from an event held by the creators of the MMORPG \"The World,\" Shugo and his twin sister Rena step into \"The World.\" Together, they complete events and quests, along with their new friends Ouka, Mirelle, Hotaru, and Sanjuro. Soon after, mysterious monsters appear, and death by these monsters causes players to slip into a coma in the real world. Only Shugo and Rena can solve this problem, but why are they being targeted, and what secrets is the game hiding?\n\n[Written by MAL Rewrite]",
       "malId": "298",
       "url": "https://myanimelist.net/anime/298/hack__Tasogare_no_Udewa_Densetsu",
@@ -20441,9 +20441,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 0,
+      "totalCost": 10,
       "id": "mci8o7r36akgikqhy8x",
-      "createdDate": "2025-06-29T22:25:56.031Z"
+      "createdDate": "2025-06-29T22:25:56.031Z",
+      "completionDate": null
     },
     {
       "name": ".hack//Roots",
@@ -21713,7 +21714,7 @@
       "name": "Six Feet Under",
       "status": "جارٍ",
       "totalEpisodes": 63,
-      "completedEpisodes": 26,
+      "completedEpisodes": 39,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -21743,7 +21744,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 52,
+      "totalCost": 78,
       "id": "mbhv2o87fbwahznc1td",
       "createdDate": "2025-06-04T11:25:33.607Z",
       "seriesNameSearch": "Six Feet Under",
@@ -22106,6 +22107,46 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-07-23T08:13:19.960Z",
+      "message": "تعديل مشروع (series): Six Feet Under",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-23T08:08:22.087Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-22T17:50:24.263Z",
+      "message": "تعديل مشروع (anime): .hack//Tasogare no Udewa Densetsu",
+      "details": null
+    },
     {
       "timestamp": "2025-07-22T10:25:26.502Z",
       "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (12 ← 13)",
@@ -29075,5 +29116,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-22T10:25:31.265Z"
+  "lastCloudExport": "2025-07-23T10:07:36.020Z"
 }
