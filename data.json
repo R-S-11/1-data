@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-07-27T04:54:59.486Z",
+  "lastSaved": "2025-07-31T06:40:08.453Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -14,7 +14,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 130,
+      "amountReceived": 200,
       "paymentMethod": "Binance ID: 1109741850",
       "twitterHandle": "@Meer1185475",
       "discordHandle": "mera9764",
@@ -23,20 +23,20 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 230,
+      "totalFee": 242,
       "lastDelivery": "2025-07-07T17:08:59.977Z",
-      "projectTranslatedEpisodes": 34,
+      "projectTranslatedEpisodes": 36,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 100
+      "remainingAmount": 42
     },
     {
       "name": "Dina El- Shrief",
       "roles": [
         "subtitler"
       ],
-      "amountReceived": 675.5,
+      "amountReceived": 815.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
       "discordHandle": "",
@@ -52,7 +52,7 @@
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 568,
       "manualOrder": 0,
-      "remainingAmount": 193,
+      "remainingAmount": 53,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 20,
+      "amountReceived": 90,
       "paymentMethod": "أميرة تستلم أجرتها وتسلمها له",
       "twitterHandle": "",
       "discordHandle": "",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 132,
-      "lastDelivery": "2025-07-09T20:18:48.663Z",
-      "projectTranslatedEpisodes": 22,
+      "totalFee": 157,
+      "lastDelivery": "2025-07-31T06:38:51.307Z",
+      "projectTranslatedEpisodes": 28,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 112
+      "remainingAmount": 67
     },
     {
       "name": "FREDOM",
@@ -84,7 +84,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 109,
+      "amountReceived": 179,
       "paymentMethod": "عند الصراف",
       "twitterHandle": "@Fredom_fd",
       "discordHandle": "fredz2_",
@@ -93,13 +93,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 210,
+      "totalFee": 217,
       "lastDelivery": "2025-06-12T09:43:55.519Z",
-      "projectTranslatedEpisodes": 33,
+      "projectTranslatedEpisodes": 34,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 101
+      "remainingAmount": 38
     },
     {
       "name": "Goreme",
@@ -107,7 +107,7 @@
       "roles": [
         "timer"
       ],
-      "amountReceived": 222,
+      "amountReceived": 257,
       "paymentMethod": "Binance ID: 1088827928",
       "twitterHandle": "@Goreme6",
       "discordHandle": "goreme",
@@ -117,12 +117,12 @@
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
       "totalFee": 274.5,
-      "lastDelivery": "2025-07-14T10:27:45.381Z",
+      "lastDelivery": "2025-07-31T06:38:51.307Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 173,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 52.5
+      "remainingAmount": 17.5
     },
     {
       "name": "Madarame",
@@ -130,7 +130,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2015,
+      "amountReceived": 2612,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2612,
-      "lastDelivery": "2025-07-23T08:13:19.960Z",
+      "totalFee": 2648,
+      "lastDelivery": "2025-07-31T06:38:51.307Z",
       "projectTranslatedEpisodes": 85,
-      "projectEditedEpisodes": 921,
+      "projectEditedEpisodes": 930,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 597,
+      "remainingAmount": 36,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -155,7 +155,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 405,
+      "amountReceived": 437,
       "paymentMethod": "Binance ID: 979117505",
       "twitterHandle": "@MartinSubs",
       "discordHandle": "martinsubs",
@@ -164,13 +164,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 493,
+      "totalFee": 468,
       "lastDelivery": "2025-07-14T10:27:45.381Z",
-      "projectTranslatedEpisodes": 81,
+      "projectTranslatedEpisodes": 78,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 88
+      "remainingAmount": 31
     },
     {
       "name": "MugiHimo",
@@ -202,7 +202,7 @@
         "translator",
         "subtitler"
       ],
-      "amountReceived": 95,
+      "amountReceived": 135,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 143.5,
-      "lastDelivery": "2025-07-20T07:18:08.393Z",
-      "projectTranslatedEpisodes": 15,
+      "totalFee": 151,
+      "lastDelivery": "2025-07-31T06:38:51.307Z",
+      "projectTranslatedEpisodes": 16,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 56,
-      "remainingAmount": 48.5
+      "projectSubtitledEpisodes": 57,
+      "remainingAmount": 16
     },
     {
       "name": "NaNa",
@@ -225,7 +225,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 167,
+      "amountReceived": 237,
       "paymentMethod": "Binance ID: 505876679",
       "twitterHandle": "@Nawwar_Alhadi",
       "discordHandle": "nawwar_90",
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 273,
+      "totalFee": 285,
       "lastDelivery": "2025-07-22T17:50:24.263Z",
-      "projectTranslatedEpisodes": 44,
+      "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 106
+      "remainingAmount": 48
     },
     {
       "name": "Nouralhadi",
@@ -248,7 +248,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 357,
+      "amountReceived": 494,
       "paymentMethod": "Binance ID: 1123342849",
       "twitterHandle": "",
       "discordHandle": "nour059592",
@@ -263,7 +263,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 155
+      "remainingAmount": 18
     },
     {
       "name": "SHX",
@@ -294,7 +294,7 @@
       "roles": [
         "editor"
       ],
-      "amountReceived": 126,
+      "amountReceived": 247,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "",
       "discordHandle": "",
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 247,
+      "totalFee": 250.5,
       "lastDelivery": "2025-07-20T07:18:08.393Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 75,
+      "projectEditedEpisodes": 76,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 121
+      "remainingAmount": 3.5
     }
   ],
   "anime": [
@@ -2036,7 +2036,7 @@
       "name": "Blue Seed",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 17,
+      "completedEpisodes": 19,
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2073,7 +2073,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.98,
-      "totalCost": 146,
+      "totalCost": 166,
       "id": "mbgxf55zlvkad0iaep",
       "createdDate": "2025-06-03T19:43:28.487Z",
       "completionDate": null,
@@ -3308,7 +3308,7 @@
       "name": "Gatchaman Crowds Insight",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 1,
+      "completedEpisodes": 2,
       "translatorId": "mbfqj1wani0rnl0npq",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -3321,7 +3321,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 10,
+      "totalCost": 20,
       "malId": "21039",
       "url": "https://myanimelist.net/anime/21039/Gatchaman_Crowds_Insight",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/11/74978l.jpg",
@@ -7358,7 +7358,7 @@
       "name": "Igano Kabamaru",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 10,
+      "completedEpisodes": 13,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7371,7 +7371,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 100,
+      "totalCost": 130,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -19997,7 +19997,7 @@
       "name": "Wolf's Rain",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 17,
+      "completedEpisodes": 18,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20031,7 +20031,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 187,
+      "totalCost": 198,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
       "completionDate": null
@@ -20407,7 +20407,7 @@
       "name": ".hack//Tasogare no Udewa Densetsu",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 3,
+      "completedEpisodes": 5,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20441,7 +20441,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 30,
+      "totalCost": 50,
       "id": "mci8o7r36akgikqhy8x",
       "createdDate": "2025-06-29T22:25:56.031Z",
       "completionDate": null
@@ -20999,7 +20999,7 @@
       "totalEpisodes": 24,
       "completedEpisodes": 3,
       "notes": "",
-      "translatorId": "mbfpow5fa4niiy1souq",
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": "mbfqj1wani0rnl0npq",
@@ -21007,7 +21007,7 @@
       "editingPrice": 6,
       "timerPrice": 1,
       "subtitlerPrice": 2,
-      "translationBonus": 4,
+      "translationBonus": -14,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": -4,
@@ -21028,7 +21028,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 48,
+      "totalCost": 30,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -21153,6 +21153,49 @@
       "totalCost": 0,
       "id": "mcyfb0jjj6s1x6m42s8",
       "createdDate": "2025-07-11T06:15:56.287Z"
+    },
+    {
+      "name": "Ninja Senshi Tobikage",
+      "status": "قريباً",
+      "totalEpisodes": 43,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Ninja Senshi Tobikage tells the story of a boy named Joe Maya. One day, Joe, who lives on Mars, witnesses a battle between aliens. Those from Planet Zaboom are attacking the princess of Planet Radorio, she has escaped from the emperor of Zaboom who is scheming to conquer the universe and has crash landed on mars. \n\nJoe stumbles aboard the princesses ship, this starts a chain reaction of events that will alter their lives. Joe and his friends wield three powerful mecha beasts against the emperor of Zaboom and his forces, but the odds are stacked heavily against them. When all hope seems to be lost a mysterious ninja robot named Tobikage appears as if from nowhere to provide assitance, able to combine with the 3 mechanical beasts provides Tobikage with unmatched power, with his aide Joe fights the forces of Zaboom... \n\n(Source: ANN)",
+      "malId": "3059",
+      "url": "https://myanimelist.net/anime/3059/Ninja_Senshi_Tobikage",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/7/20897l.jpg",
+      "animeType": "TV",
+      "studio": "Pierrot",
+      "source": "Original",
+      "premiered": "1985-10-06",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "themes": [
+        "Mecha",
+        "Space"
+      ],
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.94,
+      "totalCost": 0,
+      "id": "mdqblybovd6epuuzq1d",
+      "createdDate": "2025-07-30T18:50:01.092Z"
     }
   ],
   "series": [
@@ -21280,7 +21323,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 38,
+      "completedEpisodes": 39,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21312,7 +21355,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 180,
+      "totalCost": 185,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22108,8 +22151,378 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-07-27T04:55:29.974Z",
+      "timestamp": "2025-07-31T06:40:42.537Z",
       "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-31T06:40:08.442Z",
+      "message": "تعديل عضو: Martin",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-31T06:38:51.307Z",
+      "message": "تعديل مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-31T06:34:21.993Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (38 ← 39)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 39,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-30T18:50:01.092Z",
+      "message": "إضافة مشروع (anime): Ninja Senshi Tobikage",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-30T15:06:37.397Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Tasogare no Udewa Densetsu: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8o7r36akgikqhy8x",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-30T15:06:23.989Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-30T15:06:23.405Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-30T15:06:06.221Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-28T14:17:15.897Z",
+      "message": "تحديث حلقات مشروع (anime) Gatchaman Crowds Insight: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk5r20a9rggri",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-28T14:16:55.065Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-28T14:16:26.561Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Tasogare no Udewa Densetsu: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8o7r36akgikqhy8x",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-28T04:25:56.740Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-27T13:00:00.735Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T12:56:18.055Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-07-27T12:54:58.638Z",
+      "message": "تعديل عضو: Martin",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T12:51:29.734Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T12:48:30.895Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T11:56:01.642Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T11:55:05.779Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T07:46:13.799Z",
+      "message": "تعديل عضو: FREDOM",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T07:24:14.894Z",
+      "message": "تعديل عضو: Nouralhadi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T07:03:56.301Z",
+      "message": "تعديل عضو: NaNa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T06:57:04.453Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-07-27T06:56:48.614Z",
+      "message": "تعديل عضو: Madarame",
       "details": null
     },
     {
@@ -30156,5 +30569,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-07-27T04:55:34.832Z"
+  "lastCloudExport": "2025-07-31T06:40:59.780Z"
 }
