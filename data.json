@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-17T07:58:09.653Z",
+  "lastSaved": "2025-08-19T18:17:18.953Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 269,
+      "totalFee": 275,
       "lastDelivery": "2025-07-07T17:08:59.977Z",
-      "projectTranslatedEpisodes": 39,
+      "projectTranslatedEpisodes": 40,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 69
+      "remainingAmount": 75
     },
     {
       "name": "Dina El- Shrief",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 220,
-      "lastDelivery": "2025-08-05T08:55:12.169Z",
-      "projectTranslatedEpisodes": 38,
+      "totalFee": 219,
+      "lastDelivery": "2025-08-18T09:44:15.359Z",
+      "projectTranslatedEpisodes": 39,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 130
+      "remainingAmount": 129
     },
     {
       "name": "FREDOM",
@@ -93,13 +93,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 217,
-      "lastDelivery": "2025-06-12T09:43:55.519Z",
-      "projectTranslatedEpisodes": 34,
+      "totalFee": 301,
+      "lastDelivery": "2025-08-18T16:08:36.735Z",
+      "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 38
+      "remainingAmount": 122
     },
     {
       "name": "Goreme",
@@ -116,13 +116,13 @@
       "notes": "",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 282,
-      "lastDelivery": "2025-08-05T08:55:12.169Z",
+      "totalFee": 280,
+      "lastDelivery": "2025-08-18T09:44:15.359Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 179,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 25
+      "remainingAmount": 23
     },
     {
       "name": "Madarame",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3007,
-      "lastDelivery": "2025-08-14T05:09:15.285Z",
+      "totalFee": 3080,
+      "lastDelivery": "2025-08-18T16:08:36.735Z",
       "projectTranslatedEpisodes": 130,
-      "projectEditedEpisodes": 965,
+      "projectEditedEpisodes": 981,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 395,
+      "remainingAmount": 468,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 188.5,
-      "lastDelivery": "2025-08-05T08:55:12.169Z",
+      "totalFee": 190,
+      "lastDelivery": "2025-08-18T09:44:15.359Z",
       "projectTranslatedEpisodes": 18,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 73,
-      "remainingAmount": 53.5
+      "projectSubtitledEpisodes": 74,
+      "remainingAmount": 55
     },
     {
       "name": "NaNa",
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 309,
+      "totalFee": 315,
       "lastDelivery": "2025-07-22T17:50:24.263Z",
-      "projectTranslatedEpisodes": 50,
+      "projectTranslatedEpisodes": 51,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 72
+      "remainingAmount": 78
     },
     {
       "name": "Nouralhadi",
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 536,
+      "totalFee": 542,
       "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 67,
+      "projectTranslatedEpisodes": 68,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 42
+      "remainingAmount": 48
     },
     {
       "name": "SHX",
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 321,
+      "totalFee": 324.5,
       "lastDelivery": "2025-08-16T07:04:21.505Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 99,
+      "projectEditedEpisodes": 100,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 74
+      "remainingAmount": 77.5
     }
   ],
   "anime": [
@@ -2036,7 +2036,7 @@
       "name": "Blue Seed",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 19,
+      "completedEpisodes": 20,
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2073,7 +2073,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.98,
-      "totalCost": 166,
+      "totalCost": 176,
       "id": "mbgxf55zlvkad0iaep",
       "createdDate": "2025-06-03T19:43:28.487Z",
       "completionDate": null,
@@ -2083,7 +2083,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 34,
+      "completedEpisodes": 35,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2114,7 +2114,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 340,
+      "totalCost": 350,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null
@@ -7315,7 +7315,7 @@
       "name": "Igano Kabamaru",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 20,
+      "completedEpisodes": 21,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7328,7 +7328,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 200,
+      "totalCost": 210,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -17282,15 +17282,15 @@
       "id": "mbhnrbkbwq0jt17lui",
       "createdDate": "2025-06-04T08:00:46.667Z",
       "name": "Fushigi no Umi no Nadia",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 39,
       "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 7,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -17319,7 +17319,8 @@
       "score": 7.5,
       "rawUrl": "",
       "notes": "In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Roque Lartigue, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.\n\n(Source: ANN)",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbkbqtksocl56u",
@@ -19703,48 +19704,6 @@
       "completionDate": null
     },
     {
-      "name": "Konjiki no Gash Bell!!",
-      "status": "قريباً",
-      "totalEpisodes": 150,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "",
-      "notes": "Takamine Kiyomaro, a depressed don't-care-about-the-world guy, was suddenly given a little demon named Gash Bell to take care of. Little does he know that Gash is embroiled into an intense fight to see who is the ruler of the demon world. All of the demons have to pick a master on Earth and duke it out with other demons until one survives. Needless to say, Kiyomaro becomes Gash's master, and through their many battles, Kiyomaro learns the importance of friendship and courage.",
-      "malId": "250",
-      "url": "https://myanimelist.net/anime/250/Konjiki_no_Gash_Bell",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1151/125951l.jpg",
-      "animeType": "TV",
-      "studio": "Toei Animation",
-      "source": "Manga",
-      "premiered": "2003-04-06",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Supernatural"
-      ],
-      "themes": [
-        "Mythology"
-      ],
-      "duration": "23 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 7.55,
-      "totalCost": 0,
-      "id": "mbhuk7zs3k5ye91wiql",
-      "createdDate": "2025-06-04T11:11:12.760Z"
-    },
-    {
       "name": "Ginga Tetsudou 999",
       "status": "قريباً",
       "totalEpisodes": 113,
@@ -19952,9 +19911,9 @@
     },
     {
       "name": "Wolf's Rain",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 26,
-      "completedEpisodes": 18,
+      "completedEpisodes": 26,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -19988,10 +19947,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 198,
+      "totalCost": 286,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
-      "completionDate": null
+      "completionDate": "2025-08-18T15:34:08.121Z"
     },
     {
       "name": "Elf 17",
@@ -20364,7 +20323,7 @@
       "name": ".hack//Tasogare no Udewa Densetsu",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 9,
+      "completedEpisodes": 10,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20398,7 +20357,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 90,
+      "totalCost": 100,
       "id": "mci8o7r36akgikqhy8x",
       "createdDate": "2025-06-29T22:25:56.031Z",
       "completionDate": null
@@ -20956,7 +20915,7 @@
       "status": "جارٍ",
       "totalEpisodes": 24,
       "completedEpisodes": 6,
-      "notes": "",
+      "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": "mbfqkz37wwc5wvr72qr",
@@ -20965,9 +20924,9 @@
       "editingPrice": 6,
       "timerPrice": 1,
       "subtitlerPrice": 2,
-      "translationBonus": -14,
-      "editingBonus": 0,
-      "timerBonus": 0,
+      "translationBonus": -21,
+      "editingBonus": 9,
+      "timerBonus": -2,
       "subtitlerBonus": -4,
       "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=%5BToonsHub%5D+Gachiakuta",
       "synopsis": "Living in the slums of a wealthy town, Rudo and his foster father Regto try to coexist with the rest of the town's residents, but Rudo despises the wastefulness of the upper class. Ignoring the warnings from those around him, Rudo regularly rummages through the town's garbage in search of anything useful or valuable to save from the \"Abyss\"—a massive hole where anything considered trash is dumped, including people. Rudo's biological father was one such person, having been thrown into the Abyss after he was accused of murder.\n\nOne day, after running into a mysterious figure on the way home, Rudo returns to find Regto's dying body on the floor. He is immediately found at the scene by the authorities and is charged with murder. No one believes his claims of innocence, and he is thrown into the Abyss. Instead of dying, however, he finds himself in a strange, foul-smelling place surrounded by monsters made out of trash.\n\nWhen Rudo is attacked by said monsters, he is saved by a man named Enjin, who reveals himself to be a \"Cleaner\"—someone who uses special weapons called Vital Instruments to combat these creatures. In order to get his revenge on the one who killed Regto, Rudo reluctantly becomes a Cleaner to fight his way back up and out of the Abyss.\n\n[Written by MAL Rewrite]",
@@ -21320,6 +21279,48 @@
       "totalCost": 0,
       "id": "me8ixrcaj3w21a9w4mq",
       "createdDate": "2025-08-12T12:35:00.394Z"
+    },
+    {
+      "name": "Wolf's Rain OVA",
+      "status": "مكتمل",
+      "totalEpisodes": 4,
+      "completedEpisodes": 4,
+      "notes": "",
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": "mbe8ktw6qz40f9qtp7",
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 7,
+      "editingPrice": 4,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "As the world accelerates toward its own destruction, Kiba and Cheza—with the help of Tsume, Hige, Toboe, and Blue—race to reach true paradise before the entire world is rendered uninhabitable. Now reunited, Cher and Hubb decide to accompany the wolves in hopes of seeing the journey through to its end, while a distraught and confused Quent wanders aimlessly into the wasteland with his mind fixated on revenge.\n\nMeanwhile, Lord Darcia the Third has finally put his plot into motion and pursues Cheza, pitting him against the pack. As everything falls apart yet simultaneously falls into place, the wolves struggle to survive in an increasingly dangerous environment. Though the end draws near, paradise seems further away than ever before.\n\n[Written by MAL Rewrite]",
+      "malId": "1023",
+      "url": "https://myanimelist.net/anime/1023/Wolfs_Rain_OVA",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1091/134883l.jpg",
+      "animeType": "OVA",
+      "studio": "Bones",
+      "source": "Original",
+      "premiered": "2004-01-23",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "themes": [],
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.98,
+      "totalCost": 44,
+      "id": "meh9zwe7g5f1jr3xctl",
+      "createdDate": "2025-08-18T15:34:39.295Z",
+      "completionDate": "2025-08-18T15:34:39.295Z"
     }
   ],
   "series": [
@@ -21447,7 +21448,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 42,
+      "completedEpisodes": 43,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21479,7 +21480,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 200,
+      "totalCost": 205,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -21741,7 +21742,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://1337x.to/search/Animal+kingdom+2016+qxr/1/",
       "notes": "",
       "url": "https://www.themoviedb.org/tv/66025",
       "seriesYear": "2016",
@@ -21761,7 +21762,9 @@
       "seriesEpisodeRunTime": "50",
       "totalCost": 0,
       "id": "mbhuzdgws1hc1ov7bbb",
-      "createdDate": "2025-06-04T11:22:59.696Z"
+      "createdDate": "2025-06-04T11:22:59.696Z",
+      "seriesNameSearch": "Animal Kingdom",
+      "completionDate": null
     },
     {
       "name": "The West Wing",
@@ -22233,9 +22236,9 @@
       "completionDate": null
     },
     {
-      "name": "Stargate SG-1",
+      "name": "Cheers",
       "status": "قريباً",
-      "totalEpisodes": 214,
+      "totalEpisodes": 269,
       "completedEpisodes": 0,
       "notes": "",
       "translatorId": null,
@@ -22250,32 +22253,719 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
-      "seriesOverview": "تبدأ قصة Stargate SG-1 بعد حوالي عام من أحداث الفيلم الروائي ، عندما علمت حكومة الولايات المتحدة أن جهازًا فضائيًا قديمًا يسمى Stargate يمكنه الوصول إلى شبكة من هذه الأجهزة على العديد من الكواكب. SG-1 هو فريق عمليات خاص من نخبة القوات الجوية ، وهو واحد من أكثر من عشرين فريقًا من الأرض يستكشفون المجرة ويدافعون ضد التهديدات الفضائية مثل Goa'uld و Replicators و Ori.",
-      "seriesNameSearch": "Stargate",
-      "url": "https://www.themoviedb.org/tv/4629",
-      "seriesYear": "1997",
-      "seriesNetwork": "Showtime, Syfy",
+      "rawUrl": "https://1337x.to/torrent/4543818/Cheers-1982-Season-1-11-S1-S11-1080p-AMZN-WEB-DL-x265-HEVC-10bit-EAC3-2-0-ImE-QxR-REPACK/",
+      "seriesOverview": "The story about a blue-collar Boston bar run by former sports star Sam Malone and the quirky and wonderful people who worked and drank there.",
+      "seriesNameSearch": "Cheers",
+      "url": "https://www.themoviedb.org/tv/141",
+      "seriesYear": "1982",
+      "seriesNetwork": "NBC",
       "seriesStatusTMDB": "Ended",
       "seriesGenres": [
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Mystery"
+        "Comedy"
       ],
-      "seriesVoteAverage": 8.3,
-      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+      "seriesVoteAverage": 7.6,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/nD1ZQBKbgKSmKcrAkWTofohsScj.jpg",
       "seriesOriginCountry": [
-        "CA",
         "US"
       ],
       "seriesOriginalLanguage": "en",
-      "seriesEpisodeRunTime": "42, 60, 43, 45",
+      "seriesEpisodeRunTime": "24, 30",
       "totalCost": 0,
-      "id": "mby310i2w4dmp84sa3b",
-      "createdDate": "2025-06-15T19:52:31.946Z"
+      "id": "mefjid1my4nc9hj27y",
+      "createdDate": "2025-08-17T10:25:24.874Z",
+      "completionDate": null
+    },
+    {
+      "name": "The Golden Girls",
+      "status": "قريباً",
+      "totalEpisodes": 180,
+      "completedEpisodes": 0,
+      "notes": "أول موسمين لهم ترجمة ديفيدي يحتاجوا توقيت وبعدين تتوقف الترجمة",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://1337x.to/torrent/4111593/The-Golden-Girls-1985-Season-1-7-S01-S07-480p-DVD-x265-HEVC-10bit-AAC-2-0-Silence-QxR/",
+      "seriesOverview": "Four Southern Florida seniors share a house, their dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless and hilarious, these lovely, mismatched ladies form the perfect circle of friends.",
+      "seriesNameSearch": "The Golden Girls",
+      "url": "https://www.themoviedb.org/tv/1678",
+      "seriesYear": "1985",
+      "seriesNetwork": "NBC",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Comedy"
+      ],
+      "seriesVoteAverage": 7.5,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/lJKAjneNGquVBmUqHY6ZFOFImfD.jpg",
+      "seriesOriginCountry": [
+        "US"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "24",
+      "totalCost": 0,
+      "id": "mefjnxkhghbc704ducj",
+      "createdDate": "2025-08-17T10:29:44.753Z",
+      "completionDate": null
+    },
+    {
+      "name": "Boy Meets World",
+      "status": "قريباً",
+      "totalEpisodes": 158,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://1337x.to/torrent/3528265/Boy-Meets-World-1993-Season-1-7-S01-S07-480p-DVD-x265-HEVC-10bit-AAC-2-0-Panda-QxR/",
+      "seriesOverview": "The coming of age events and everyday life-lessons of Cory Matthews, a Philadelphian who grows up from a young boy to a married man.",
+      "seriesNameSearch": "Boy Meets World",
+      "url": "https://www.themoviedb.org/tv/1777",
+      "seriesYear": "1993",
+      "seriesNetwork": "ABC",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Drama",
+        "Comedy",
+        "Family"
+      ],
+      "seriesVoteAverage": 8.2,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/ioIBfLdkp8HmE2HOJlkLKJGXXug.jpg",
+      "seriesOriginCountry": [
+        "US"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "24",
+      "totalCost": 0,
+      "id": "mefwmvm0e5wlikwf7qm",
+      "createdDate": "2025-08-17T16:32:50.568Z",
+      "completionDate": null
+    },
+    {
+      "name": "Nurse Jackie",
+      "status": "قريباً",
+      "totalEpisodes": 80,
+      "completedEpisodes": 0,
+      "notes": "موجود ترجمة لحد الموسم الثالث بس",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://1337x.to/torrent/3427167/Nurse-Jackie-2009-Season-1-7-S01-S07-1080p-BluRay-x265-HEVC-10bit-AAC-7-1-Panda-QxR/",
+      "seriesOverview": "Every day is a matter of life and death in a hectic New York City hospital, but for Nurse Jackie that's the easiest part. Between chronic back pain that won't quit, and a personal life on the constant edge of collapse, it's going to take a white lie here, a bent rule there, and a handful of secret strategies to relieve the pain, and stay one step ahead of total disaster.",
+      "seriesNameSearch": "Nurse Jackie",
+      "url": "https://www.themoviedb.org/tv/18053",
+      "seriesYear": "2009",
+      "seriesNetwork": "Showtime",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Drama",
+        "Comedy"
+      ],
+      "seriesVoteAverage": 7.1,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/efKrmVB9Jwmh6HxFjED6FyeOUpW.jpg",
+      "seriesOriginCountry": [
+        "US"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "30",
+      "totalCost": 0,
+      "id": "mefwy9gvx3zuvt53ila",
+      "createdDate": "2025-08-17T16:41:41.743Z",
+      "completionDate": null
+    },
+    {
+      "name": "Keeping Up Appearances",
+      "status": "قريباً",
+      "totalEpisodes": 40,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://1337x.to/torrent/4952831/Keeping-Up-Appearances-1990-Season-1-5-S01-S05-Specials-576p-DVD-x265-HEVC-10bit-AAC-2-0-Ghost-QxR/",
+      "seriesOverview": "Hyacinth Bucket (whose name, she insists, is pronounced \"Bouquet\") is a suburban housewife in the West Midlands. She would be the first to tell you that she is a gracious hostess, a respected citizen, and a well-connected member of high society. If you don't believe that, just ask her best friend Elizabeth, held captive in Hyacinth's kitchen; or the postmen and neighbours who bristle at the sound of her voice; or Richard, her weary and compliant husband.\n\nIn fact, Hyacinth's reputation could be as perfect as her new lounge set, if not for her senile father's love of running wild in the nip. Oh, and she would prefer it if her brother-in-law was a sharper dresser. And that her husband was more ambitious. And that her sisters were more presentable. And do take your shoes off before you come in the house, dear. Mind that you don't brush against the wallpaper.",
+      "seriesNameSearch": "Keeping Up Appearances",
+      "url": "https://www.themoviedb.org/tv/34",
+      "seriesYear": "1990",
+      "seriesNetwork": "BBC One",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Comedy"
+      ],
+      "seriesVoteAverage": 7.6,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/5dwn4Lfav9mXfJmYhHNeMLWhuZj.jpg",
+      "seriesOriginCountry": [
+        "GB"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "30",
+      "totalCost": 0,
+      "id": "mefx7htr81clozl346o",
+      "createdDate": "2025-08-17T16:48:52.479Z",
+      "completionDate": null
+    },
+    {
+      "name": "Rake",
+      "status": "قريباً",
+      "totalEpisodes": 40,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://1337x.to/search/Rake+yawnix/1/",
+      "seriesOverview": "Cleaver Greene is not about politics or morality or even justice. Cleaver Greene is about the law. And it is his passion for the law that drives him to use his formidable intelligence to defend people whom society and the justice system might otherwise convict without a fair trial. He uses his encyclopaedic knowledge of human nature and the Byzantine intricacies of our legal codes to guarantee that his clients get what is theirs by the law; the right to a diligent defence.",
+      "seriesNameSearch": "Rake",
+      "url": "https://www.themoviedb.org/tv/34379",
+      "seriesYear": "2010",
+      "seriesNetwork": "ABC TV",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Drama",
+        "Comedy"
+      ],
+      "seriesVoteAverage": 7.5,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/fEZ7l6pKP0ORZ26VsBjeEnRPKG5.jpg",
+      "seriesOriginCountry": [
+        "AU"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "55",
+      "totalCost": 0,
+      "id": "mefxa9m74udsvzuip13",
+      "createdDate": "2025-08-17T16:51:01.807Z",
+      "completionDate": null
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-08-19T18:17:18.939Z",
+      "message": "حذف مشروع (anime): Konjiki no Gash Bell!!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T14:55:21.345Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Tasogare no Udewa Densetsu: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8o7r36akgikqhy8x",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T11:23:32.715Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:23:10.628Z",
+      "message": "تعديل مشروع (series): Keeping Up Appearances",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:22:51.243Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:22:31.788Z",
+      "message": "تعديل مشروع (series): Nurse Jackie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:22:13.844Z",
+      "message": "تعديل مشروع (series): Boy Meets World",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:21:58.347Z",
+      "message": "تعديل مشروع (series): The Golden Girls",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T11:21:22.878Z",
+      "message": "تعديل مشروع (series): Cheers",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-19T05:25:30.679Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T05:25:18.311Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (34 ← 35)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 35,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T16:08:36.735Z",
+      "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-18T15:34:39.296Z",
+      "message": "إضافة مشروع (anime): Wolf's Rain OVA",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-18T15:34:08.121Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-18T15:33:43.912Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (25 ← 26)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 26,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:42.279Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (24 ← 25)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 25,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:41.183Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (23 ← 24)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 24,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:40.703Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (22 ← 23)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 23,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:40.247Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (21 ← 22)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 22,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:39.863Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:39.495Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:33:39.256Z",
+      "message": "تحديث حلقات مشروع (anime) Wolf's Rain: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbt6weeo47ndt7wdozu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T15:29:27.752Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-18T09:44:15.359Z",
+      "message": "تعديل مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T21:28:59.489Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (42 ← 43)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 43,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-17T16:51:01.807Z",
+      "message": "إضافة مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T16:48:52.479Z",
+      "message": "إضافة مشروع (series): Keeping Up Appearances",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T16:41:41.743Z",
+      "message": "إضافة مشروع (series): Nurse Jackie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T16:32:50.568Z",
+      "message": "إضافة مشروع (series): Boy Meets World",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T10:29:44.753Z",
+      "message": "إضافة مشروع (series): The Golden Girls",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T10:25:24.874Z",
+      "message": "إضافة مشروع (series): Cheers",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-17T10:13:46.689Z",
+      "message": "حذف مشروع (series): Stargate SG-1",
+      "details": null
+    },
     {
       "timestamp": "2025-08-17T07:58:09.640Z",
       "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (5 ← 6)",
@@ -31850,5 +32540,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-17T09:00:48.564Z"
+  "lastCloudExport": "2025-08-19T18:17:30.213Z"
 }
