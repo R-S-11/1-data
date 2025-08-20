@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-19T18:17:18.953Z",
+  "lastSaved": "2025-08-20T22:18:13.113Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 219,
+      "totalFee": 231,
       "lastDelivery": "2025-08-18T09:44:15.359Z",
-      "projectTranslatedEpisodes": 39,
+      "projectTranslatedEpisodes": 41,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 129
+      "remainingAmount": 141
     },
     {
       "name": "FREDOM",
@@ -130,7 +130,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2612,
+      "amountReceived": 2660,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3080,
+      "totalFee": 3108,
       "lastDelivery": "2025-08-18T16:08:36.735Z",
       "projectTranslatedEpisodes": 130,
-      "projectEditedEpisodes": 981,
+      "projectEditedEpisodes": 989,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 468,
+      "remainingAmount": 448,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -187,13 +187,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 134,
+      "totalFee": 150,
       "lastDelivery": "2025-06-26T05:48:37.319Z",
-      "projectTranslatedEpisodes": 24,
+      "projectTranslatedEpisodes": 28,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 14
+      "remainingAmount": 30
     },
     {
       "name": "N_Angle",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 190,
+      "totalFee": 191.5,
       "lastDelivery": "2025-08-18T09:44:15.359Z",
       "projectTranslatedEpisodes": 18,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 74,
-      "remainingAmount": 55
+      "projectSubtitledEpisodes": 75,
+      "remainingAmount": 56.5
     },
     {
       "name": "NaNa",
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 542,
+      "totalFee": 554,
       "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 68,
+      "projectTranslatedEpisodes": 70,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 48
+      "remainingAmount": 60
     },
     {
       "name": "SHX",
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 324.5,
+      "totalFee": 328,
       "lastDelivery": "2025-08-16T07:04:21.505Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 100,
+      "projectEditedEpisodes": 101,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 77.5
+      "remainingAmount": 81
     }
   ],
   "anime": [
@@ -1950,7 +1950,7 @@
       "name": "Adventure Time",
       "status": "جارٍ",
       "totalEpisodes": 283,
-      "completedEpisodes": 13,
+      "completedEpisodes": 17,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -1985,7 +1985,7 @@
       "duration": "10 min per ep",
       "rating": "PG - Children",
       "score": 7.4,
-      "totalCost": 91,
+      "totalCost": 119,
       "id": "mbgxb74wb6ro9nba8w6",
       "createdDate": "2025-06-03T19:40:24.416Z"
     },
@@ -2083,7 +2083,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 35,
+      "completedEpisodes": 37,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2114,7 +2114,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 350,
+      "totalCost": 370,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null
@@ -7315,7 +7315,7 @@
       "name": "Igano Kabamaru",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 21,
+      "completedEpisodes": 23,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7328,7 +7328,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 210,
+      "totalCost": 230,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -21448,7 +21448,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 43,
+      "completedEpisodes": 44,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21480,7 +21480,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 205,
+      "totalCost": 210,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22481,6 +22481,341 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-08-20T22:18:13.108Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (36 ← 37)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 37,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T22:18:12.693Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (35 ← 36)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 36,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T17:28:31.546Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-20T15:48:02.679Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T15:48:01.799Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T15:48:00.991Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (14 ← 15)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 15,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T15:47:59.919Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (13 ← 14)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 14,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-20T11:53:17.618Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (22 ← 23)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 23,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T21:02:15.320Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (43 ← 44)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 44,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T19:48:23.295Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (21 ← 22)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 22,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T19:48:22.703Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-19T19:48:20.599Z",
+      "message": "تحديث حلقات مشروع (anime) Igano Kabamaru: نقص حلقة (21 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6frp6z1er96q",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 20,
+        "costChange": -10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-08-19T18:17:18.939Z",
       "message": "حذف مشروع (anime): Konjiki no Gash Bell!!",
@@ -32540,5 +32875,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-19T18:17:30.213Z"
+  "lastCloudExport": "2025-08-20T22:18:26.590Z"
 }
