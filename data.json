@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-23T20:06:31.721Z",
+  "lastSaved": "2025-08-25T06:07:01.764Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 244,
+      "totalFee": 250,
       "lastDelivery": "2025-08-21T19:40:07.906Z",
-      "projectTranslatedEpisodes": 43,
+      "projectTranslatedEpisodes": 44,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 154
+      "remainingAmount": 160
     },
     {
       "name": "FREDOM",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3148,
+      "totalFee": 3156,
       "lastDelivery": "2025-08-23T10:42:29.458Z",
       "projectTranslatedEpisodes": 130,
-      "projectEditedEpisodes": 999,
+      "projectEditedEpisodes": 1001,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 488,
+      "remainingAmount": 496,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 201,
+      "totalFee": 207,
       "lastDelivery": "2025-08-18T09:44:15.359Z",
-      "projectTranslatedEpisodes": 19,
+      "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 77,
-      "remainingAmount": 66
+      "remainingAmount": 72
     },
     {
       "name": "NaNa",
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 340.5,
-      "lastDelivery": "2025-08-21T19:58:44.163Z",
+      "totalFee": 346.5,
+      "lastDelivery": "2025-08-25T06:06:30.122Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 105,
+      "projectEditedEpisodes": 107,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 93.5
+      "remainingAmount": 99.5
     }
   ],
   "anime": [
@@ -3308,7 +3308,7 @@
       "name": "Gatchaman Crowds Insight",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 5,
+      "completedEpisodes": 6,
       "translatorId": "mbfqj1wani0rnl0npq",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -3321,7 +3321,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 50,
+      "totalCost": 60,
       "malId": "21039",
       "url": "https://myanimelist.net/anime/21039/Gatchaman_Crowds_Insight",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/11/74978l.jpg",
@@ -15566,7 +15566,7 @@
       "name": "Clannad",
       "status": "جارٍ",
       "totalEpisodes": 23,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -15579,7 +15579,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 0,
+      "totalCost": 10,
       "malId": "2167",
       "url": "https://myanimelist.net/anime/2167/Clannad",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
@@ -22198,7 +22198,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 59,
+      "completedEpisodes": 60,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22212,7 +22212,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 12 من الموسم الثالث",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 13 من الموسم الثالث",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -22231,7 +22231,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 180,
+      "totalCost": 183,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -22443,7 +22443,7 @@
       "name": "Rake",
       "status": "جارٍ",
       "totalEpisodes": 40,
-      "completedEpisodes": 1,
+      "completedEpisodes": 2,
       "notes": "ترجمة أول موسمين فقط",
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
@@ -22475,13 +22475,138 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "55",
-      "totalCost": 3,
+      "totalCost": 6,
       "id": "mefxa9m74udsvzuip13",
       "createdDate": "2025-08-17T16:51:01.807Z",
       "completionDate": null
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-08-25T06:07:01.753Z",
+      "message": "تحديث حلقات مشروع (anime) Gatchaman Crowds Insight: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk5r20a9rggri",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-25T06:06:30.122Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-25T06:06:23.657Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (59 ← 60)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 60,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-25T06:06:22.250Z",
+      "message": "تحديث حلقات مشروع (series) Rake: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefxa9m74udsvzuip13",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-24T08:51:13.992Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-08-23T20:06:31.704Z",
       "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (6 ← 7)",
@@ -33296,5 +33421,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-24T08:29:47.924Z"
+  "lastCloudExport": "2025-08-25T06:07:55.185Z"
 }
