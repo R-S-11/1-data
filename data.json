@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-25T21:21:53.615Z",
+  "lastSaved": "2025-08-26T06:25:16.559Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 207,
+      "totalFee": 208.5,
       "lastDelivery": "2025-08-18T09:44:15.359Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 77,
-      "remainingAmount": 72
+      "projectSubtitledEpisodes": 78,
+      "remainingAmount": 73.5
     },
     {
       "name": "NaNa",
@@ -303,13 +303,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 346.5,
+      "totalFee": 350,
       "lastDelivery": "2025-08-25T06:06:30.122Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 107,
+      "projectEditedEpisodes": 108,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 99.5
+      "remainingAmount": 103
     }
   ],
   "anime": [
@@ -21367,7 +21367,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 45,
+      "completedEpisodes": 46,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21399,7 +21399,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 215,
+      "totalCost": 220,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22400,6 +22400,36 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-08-26T06:25:16.545Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (45 ← 46)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 46,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-08-25T21:21:53.588Z",
       "message": "تعديل مشروع (series): Halt and Catch Fire",
@@ -33549,5 +33579,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-25T21:39:22.794Z"
+  "lastCloudExport": "2025-08-26T06:25:21.464Z"
 }
