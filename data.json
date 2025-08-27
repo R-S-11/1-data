@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-26T16:35:16.191Z",
+  "lastSaved": "2025-08-27T10:53:44.500Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 308,
-      "lastDelivery": "2025-07-07T17:08:59.977Z",
-      "projectTranslatedEpisodes": 45,
+      "totalFee": 320,
+      "lastDelivery": "2025-08-27T10:53:27.159Z",
+      "projectTranslatedEpisodes": 47,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 108
+      "remainingAmount": 120
     },
     {
       "name": "Dina El- Shrief",
@@ -113,7 +113,7 @@
       "discordHandle": "goreme",
       "telegramHandle": "https://t.me/Goreme639",
       "blog": "",
-      "notes": "",
+      "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
       "totalFee": 287.5,
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3200,
-      "lastDelivery": "2025-08-25T21:21:53.588Z",
+      "totalFee": 3212,
+      "lastDelivery": "2025-08-27T10:53:27.159Z",
       "projectTranslatedEpisodes": 130,
-      "projectEditedEpisodes": 1021,
+      "projectEditedEpisodes": 1024,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 540,
+      "remainingAmount": 552,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 332,
-      "lastDelivery": "2025-08-25T13:42:18.675Z",
-      "projectTranslatedEpisodes": 55,
+      "totalFee": 338,
+      "lastDelivery": "2025-08-27T10:52:50.784Z",
+      "projectTranslatedEpisodes": 56,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 95
+      "remainingAmount": 101
     },
     {
       "name": "Nouralhadi",
@@ -2034,9 +2034,9 @@
     },
     {
       "name": "Blue Seed",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 26,
-      "completedEpisodes": 24,
+      "completedEpisodes": 26,
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2073,10 +2073,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.98,
-      "totalCost": 216,
+      "totalCost": 236,
       "id": "mbgxf55zlvkad0iaep",
       "createdDate": "2025-06-03T19:43:28.487Z",
-      "completionDate": null,
+      "completionDate": "2025-08-27T10:53:27.159Z",
       "synopsis": ""
     },
     {
@@ -20282,16 +20282,16 @@
     },
     {
       "name": ".hack//Roots",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfq447udijq1mago58",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 6,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -20318,9 +20318,10 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 0,
+      "totalCost": 10,
       "id": "mci8oll3jzorwtp2su",
-      "createdDate": "2025-06-29T22:26:13.959Z"
+      "createdDate": "2025-06-29T22:26:13.959Z",
+      "completionDate": null
     },
     {
       "name": ".hack//Gift",
@@ -22401,8 +22402,138 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-08-26T16:35:18.218Z",
-      "message": "تصدير البيانات إلى الجهاز",
+      "timestamp": "2025-08-27T10:53:44.479Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-27T10:53:27.159Z",
+      "message": "تعديل مشروع (anime): Blue Seed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T10:52:50.784Z",
+      "message": "تعديل مشروع (anime): .hack//Roots",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T06:32:38.798Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (24 ← 25)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 25,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-27T06:32:33.182Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: نقص حلقة (25 ← 24)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 24,
+        "costChange": -10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-27T06:32:10.230Z",
+      "message": "تحديث حلقات مشروع (anime) Blue Seed: زيادة حلقة (24 ← 25)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxf55zlvkad0iaep",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 25,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-27T06:31:59.975Z",
+      "message": "تعديل عضو: Goreme",
       "details": null
     },
     {
@@ -33674,5 +33805,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-26T16:35:27.825Z"
+  "lastCloudExport": "2025-08-27T10:54:57.034Z"
 }
