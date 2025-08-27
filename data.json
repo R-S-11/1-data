@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-27T10:53:44.500Z",
+  "lastSaved": "2025-08-27T16:40:56.563Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -14,7 +14,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 200,
+      "amountReceived": 320,
       "paymentMethod": "Binance ID: 1109741850",
       "twitterHandle": "@Meer1185475",
       "discordHandle": "mera9764",
@@ -24,19 +24,19 @@
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
       "totalFee": 320,
-      "lastDelivery": "2025-08-27T10:53:27.159Z",
+      "lastDelivery": "2025-08-27T15:19:37.865Z",
       "projectTranslatedEpisodes": 47,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 120
+      "remainingAmount": 0
     },
     {
       "name": "Dina El- Shrief",
       "roles": [
         "subtitler"
       ],
-      "amountReceived": 815.5,
+      "amountReceived": 901.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
       "discordHandle": "",
@@ -52,7 +52,7 @@
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 590,
       "manualOrder": 0,
-      "remainingAmount": 86,
+      "remainingAmount": 0,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -61,7 +61,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 90,
+      "amountReceived": 256,
       "paymentMethod": "أميرة تستلم أجرتها وتسلمها له",
       "twitterHandle": "",
       "discordHandle": "",
@@ -71,12 +71,12 @@
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
       "totalFee": 256,
-      "lastDelivery": "2025-08-21T19:40:07.906Z",
+      "lastDelivery": "2025-08-27T15:19:28.329Z",
       "projectTranslatedEpisodes": 45,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 166
+      "remainingAmount": 0
     },
     {
       "name": "FREDOM",
@@ -84,7 +84,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 179,
+      "amountReceived": 301,
       "paymentMethod": "عند الصراف",
       "twitterHandle": "@Fredom_fd",
       "discordHandle": "fredz2_",
@@ -99,7 +99,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 122
+      "remainingAmount": 0
     },
     {
       "name": "Goreme",
@@ -107,7 +107,7 @@
       "roles": [
         "timer"
       ],
-      "amountReceived": 257,
+      "amountReceived": 270.5,
       "paymentMethod": "Binance ID: 1088827928",
       "twitterHandle": "@Goreme6",
       "discordHandle": "goreme",
@@ -116,13 +116,13 @@
       "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 287.5,
+      "totalFee": 270.5,
       "lastDelivery": "2025-08-18T09:44:15.359Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 186,
+      "projectTimedEpisodes": 171,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 30.5
+      "remainingAmount": 0
     },
     {
       "name": "Madarame",
@@ -130,7 +130,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2660,
+      "amountReceived": 3312,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -140,13 +140,13 @@
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
       "totalFee": 3212,
-      "lastDelivery": "2025-08-27T10:53:27.159Z",
+      "lastDelivery": "2025-08-27T15:19:37.865Z",
       "projectTranslatedEpisodes": 130,
       "projectEditedEpisodes": 1024,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 552,
+      "remainingAmount": -100,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -155,7 +155,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 437,
+      "amountReceived": 498,
       "paymentMethod": "Binance ID: 979117505",
       "twitterHandle": "@MartinSubs",
       "discordHandle": "martinsubs",
@@ -170,7 +170,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 61
+      "remainingAmount": 0
     },
     {
       "name": "MugiHimo",
@@ -178,7 +178,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 120,
+      "amountReceived": 150,
       "paymentMethod": "Binance ID: 1016377551",
       "twitterHandle": "@MugiHimo_22",
       "discordHandle": "mugiwara0896",
@@ -193,7 +193,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 30
+      "remainingAmount": 0
     },
     {
       "name": "N_Angle",
@@ -202,7 +202,7 @@
         "translator",
         "subtitler"
       ],
-      "amountReceived": 135,
+      "amountReceived": 208.5,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -212,12 +212,12 @@
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
       "totalFee": 208.5,
-      "lastDelivery": "2025-08-18T09:44:15.359Z",
+      "lastDelivery": "2025-08-27T15:19:28.329Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 78,
-      "remainingAmount": 73.5
+      "remainingAmount": 0
     },
     {
       "name": "NaNa",
@@ -225,7 +225,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 237,
+      "amountReceived": 338,
       "paymentMethod": "Binance ID: 505876679",
       "twitterHandle": "@Nawwar_Alhadi",
       "discordHandle": "nawwar_90",
@@ -240,7 +240,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 101
+      "remainingAmount": 0
     },
     {
       "name": "Nouralhadi",
@@ -248,7 +248,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 494,
+      "amountReceived": 566,
       "paymentMethod": "Binance ID: 1123342849",
       "twitterHandle": "",
       "discordHandle": "nour059592",
@@ -263,7 +263,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 72
+      "remainingAmount": 0
     },
     {
       "name": "SHX",
@@ -294,7 +294,7 @@
       "roles": [
         "editor"
       ],
-      "amountReceived": 247,
+      "amountReceived": 350,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "",
       "discordHandle": "",
@@ -309,7 +309,7 @@
       "projectEditedEpisodes": 108,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 103
+      "remainingAmount": 0
     }
   ],
   "anime": [
@@ -20041,11 +20041,11 @@
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
-      "timerPrice": 1.5,
+      "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -20070,7 +20070,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 132,
+      "totalCost": 120,
       "id": "mcdhyd2ppvffm5osogc",
       "createdDate": "2025-06-26T14:46:55.153Z",
       "completionDate": null
@@ -20838,15 +20838,15 @@
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 7,
       "editingPrice": 6,
-      "timerPrice": 1,
+      "timerPrice": 0,
       "subtitlerPrice": 2,
       "translationBonus": -21,
       "editingBonus": 9,
-      "timerBonus": -2,
+      "timerBonus": 0,
       "subtitlerBonus": -4,
       "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=%5BToonsHub%5D+Gachiakuta",
       "synopsis": "Living in the slums of a wealthy town, Rudo and his foster father Regto try to coexist with the rest of the town's residents, but Rudo despises the wastefulness of the upper class. Ignoring the warnings from those around him, Rudo regularly rummages through the town's garbage in search of anything useful or valuable to save from the \"Abyss\"—a massive hole where anything considered trash is dumped, including people. Rudo's biological father was one such person, having been thrown into the Abyss after he was accused of murder.\n\nOne day, after running into a mysterious figure on the way home, Rudo returns to find Regto's dying body on the floor. He is immediately found at the scene by the authorities and is charged with murder. No one believes his claims of innocence, and he is thrown into the Abyss. Instead of dying, however, he finds himself in a strange, foul-smelling place surrounded by monsters made out of trash.\n\nWhen Rudo is attacked by said monsters, he is saved by a man named Enjin, who reveals himself to be a \"Cleaner\"—someone who uses special weapons called Vital Instruments to combat these creatures. In order to get his revenge on the one who killed Regto, Rudo reluctantly becomes a Cleaner to fight his way back up and out of the Abyss.\n\n[Written by MAL Rewrite]",
@@ -20865,7 +20865,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 94,
+      "totalCost": 89,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -22401,6 +22401,116 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-08-27T16:41:08.367Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T16:40:56.552Z",
+      "message": "تعديل عضو: FREDOM",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:20:26.657Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:19:55.649Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:19:37.865Z",
+      "message": "تعديل مشروع (anime): Yofukashi no Uta Season 2",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:19:28.329Z",
+      "message": "تعديل مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:19:21.786Z",
+      "message": "تعديل مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T15:00:06.130Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:59:27.497Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:59:13.737Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:58:49.401Z",
+      "message": "تعديل عضو: Nouralhadi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:58:33.177Z",
+      "message": "تعديل عضو: NaNa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:58:22.249Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:57:42.465Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:56:50.034Z",
+      "message": "تعديل عضو: Martin",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:56:28.585Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:56:10.841Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:56:02.577Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:55:42.617Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:08:44.802Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:08:17.931Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-27T14:05:22.626Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
     {
       "timestamp": "2025-08-27T10:53:44.479Z",
       "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (0 ← 1)",
@@ -33805,5 +33915,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-27T10:54:57.034Z"
+  "lastCloudExport": "2025-08-27T16:41:12.844Z"
 }
