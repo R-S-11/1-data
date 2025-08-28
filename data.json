@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-27T16:40:56.563Z",
+  "lastSaved": "2025-08-28T06:30:20.742Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -94,7 +94,7 @@
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
       "totalFee": 301,
-      "lastDelivery": "2025-08-18T16:08:36.735Z",
+      "lastDelivery": "2025-08-28T06:28:45.184Z",
       "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -140,7 +140,7 @@
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
       "totalFee": 3212,
-      "lastDelivery": "2025-08-27T15:19:37.865Z",
+      "lastDelivery": "2025-08-28T06:30:20.728Z",
       "projectTranslatedEpisodes": 130,
       "projectEditedEpisodes": 1024,
       "projectTimedEpisodes": 0,
@@ -7650,15 +7650,15 @@
       "id": "mbhnrbk6l4v1ji500we",
       "createdDate": "2025-06-04T08:00:46.662Z",
       "name": "Densetsu no Yuusha no Densetsu",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 24,
       "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 7,
+      "editingPrice": 4,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -7686,7 +7686,8 @@
       "score": 7.49,
       "rawUrl": "",
       "notes": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "id": "mbhnrbk600woq9exa0ggc",
@@ -15903,14 +15904,14 @@
       "id": "mbhnrbkaggsyslz4ml",
       "createdDate": "2025-06-04T08:00:46.666Z",
       "name": "Serial Experiments Lain",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 13,
       "completedEpisodes": 0,
-      "translatorId": null,
+      "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 15,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -15941,9 +15942,10 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 8.09,
-      "rawUrl": "",
-      "notes": "Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda—the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.\n\nWritten by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
+      "rawUrl": "https://nyaa.si/view/1935425",
+      "notes": "ترجمة معتمدة على الياباني",
+      "completionDate": null,
+      "synopsis": "Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda—the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.\n\nWritten by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "mbhnrbkau82ogyaeicj",
@@ -17200,15 +17202,15 @@
       "id": "mbhnrbkbwq0jt17lui",
       "createdDate": "2025-06-04T08:00:46.667Z",
       "name": "Fushigi no Umi no Nadia",
-      "status": "جارٍ",
+      "status": "قريباً",
       "totalEpisodes": 39,
       "completedEpisodes": 0,
-      "translatorId": "mbfq93ux1wi2l0jm7f2",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "translatorId": null,
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 7,
-      "editingPrice": 4,
+      "translationPrice": 0,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -22402,8 +22404,23 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-08-27T16:41:08.367Z",
+      "timestamp": "2025-08-28T06:31:13.343Z",
       "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-28T06:30:20.728Z",
+      "message": "تعديل مشروع (anime): Serial Experiments Lain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-28T06:28:45.184Z",
+      "message": "تعديل مشروع (anime): Densetsu no Yuusha no Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-28T06:26:59.561Z",
+      "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia",
       "details": null
     },
     {
@@ -33915,5 +33932,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-27T16:41:12.844Z"
+  "lastCloudExport": "2025-08-28T06:31:16.785Z"
 }
