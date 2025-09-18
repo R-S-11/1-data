@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-08-28T06:30:20.742Z",
+  "lastSaved": "2025-09-18T14:21:38.143Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 320,
+      "totalFee": 347,
       "lastDelivery": "2025-08-27T15:19:37.865Z",
-      "projectTranslatedEpisodes": 47,
+      "projectTranslatedEpisodes": 50,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 27
     },
     {
       "name": "Dina El- Shrief",
@@ -45,14 +45,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 901.5,
-      "lastDelivery": "2025-08-25T21:21:53.588Z",
+      "totalFee": 916.5,
+      "lastDelivery": "2025-09-13T12:22:27.105Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 590,
+      "projectSubtitledEpisodes": 600,
       "manualOrder": 0,
-      "remainingAmount": 0,
+      "remainingAmount": 15,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 256,
-      "lastDelivery": "2025-08-27T15:19:28.329Z",
-      "projectTranslatedEpisodes": 45,
+      "totalFee": 319,
+      "lastDelivery": "2025-09-18T14:18:16.043Z",
+      "projectTranslatedEpisodes": 55,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 63
     },
     {
       "name": "FREDOM",
@@ -94,7 +94,7 @@
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
       "totalFee": 301,
-      "lastDelivery": "2025-08-28T06:28:45.184Z",
+      "lastDelivery": "2025-09-18T14:20:12.411Z",
       "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -130,7 +130,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 3312,
+      "amountReceived": 3212,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -139,14 +139,14 @@
       "notes": "",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3212,
-      "lastDelivery": "2025-08-28T06:30:20.728Z",
-      "projectTranslatedEpisodes": 130,
-      "projectEditedEpisodes": 1024,
+      "totalFee": 3529.5,
+      "lastDelivery": "2025-09-18T14:21:38.131Z",
+      "projectTranslatedEpisodes": 144,
+      "projectEditedEpisodes": 1060,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": -100,
+      "remainingAmount": 317.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 208.5,
+      "totalFee": 219,
       "lastDelivery": "2025-08-27T15:19:28.329Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 78,
-      "remainingAmount": 0
+      "projectSubtitledEpisodes": 84,
+      "remainingAmount": 10.5
     },
     {
       "name": "NaNa",
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 338,
+      "totalFee": 386,
       "lastDelivery": "2025-08-27T10:52:50.784Z",
-      "projectTranslatedEpisodes": 56,
+      "projectTranslatedEpisodes": 64,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 48
     },
     {
       "name": "Nouralhadi",
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 566,
-      "lastDelivery": "2025-06-04T07:39:43.403Z",
-      "projectTranslatedEpisodes": 72,
+      "totalFee": 596,
+      "lastDelivery": "2025-09-05T16:14:26.391Z",
+      "projectTranslatedEpisodes": 77,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 30
     },
     {
       "name": "SHX",
@@ -303,13 +303,59 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 350,
-      "lastDelivery": "2025-08-25T06:06:30.122Z",
+      "totalFee": 378.5,
+      "lastDelivery": "2025-09-17T10:43:28.260Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 108,
+      "projectEditedEpisodes": 117,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 28.5
+    },
+    {
+      "name": "Hacker-Kun",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1661537797906522113/sFNfgPQS_400x400.jpg",
+      "roles": [
+        "timer"
+      ],
+      "amountReceived": 0,
+      "paymentMethod": "",
+      "twitterHandle": "Mainak0009",
+      "discordHandle": "hacker0009__62660",
+      "telegramHandle": "hackerkun",
+      "blog": "https://kawa.toonshub.my.id/browse",
+      "notes": "",
+      "id": "mfphs1lzh0khptpzly9",
+      "createdDate": "2025-09-18T14:14:21.479Z",
+      "totalFee": 8,
+      "lastDelivery": "2025-09-18T14:18:16.043Z",
+      "projectTranslatedEpisodes": 0,
+      "projectEditedEpisodes": 0,
+      "projectTimedEpisodes": 24,
+      "projectSubtitledEpisodes": 0,
+      "remainingAmount": 8
+    },
+    {
+      "name": "Abo ymano",
+      "avatarUrl": "data:image/jpeg;base64,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",
+      "roles": [
+        "timer"
+      ],
+      "amountReceived": 0,
+      "paymentMethod": "",
+      "twitterHandle": "",
+      "discordHandle": "aboymano_14298",
+      "telegramHandle": "",
+      "blog": "",
+      "notes": "",
+      "id": "mfphust6wk7uuqpxac",
+      "createdDate": "2025-09-18T14:16:30.042Z",
+      "totalFee": 3,
+      "lastDelivery": "2025-09-18T14:21:38.131Z",
+      "projectTranslatedEpisodes": 0,
+      "projectEditedEpisodes": 0,
+      "projectTimedEpisodes": 27,
+      "projectSubtitledEpisodes": 0,
+      "remainingAmount": 3
     }
   ],
   "anime": [
@@ -2083,7 +2129,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 39,
+      "completedEpisodes": 44,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2096,7 +2142,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1368781",
+      "rawUrl": "https://nyaa.si/view/646950",
       "notes": "After becoming an orphan, Heidi is forced to live with her grandfather Öhi, who lives in the Alps. She learns he's a very bitter man who only accepted by force to take her in. But Heidi's kindness may be able to open his heart. Together with the shepherd Peter and invalid Clara, she has lots of adventures.\n\n(Source: adapted from ANN)",
       "malId": "2225",
       "url": "https://myanimelist.net/anime/2225/Alps_no_Shoujo_Heidi",
@@ -2114,10 +2160,11 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 390,
+      "totalCost": 440,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "name": "Viper's Creed",
@@ -7313,22 +7360,22 @@
       "id": "mbhnrbk6frp6z1er96q",
       "createdDate": "2025-06-04T08:00:46.662Z",
       "name": "Igano Kabamaru",
-      "status": "مكتمل",
+      "status": "جارٍ",
       "totalEpisodes": 24,
       "completedEpisodes": 24,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "timerId": "mfphs1lzh0khptpzly9",
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 0,
+      "timerBonus": -40,
       "subtitlerBonus": 0,
-      "totalCost": 240,
+      "totalCost": 248,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -7350,7 +7397,7 @@
       "score": 7.78,
       "rawUrl": "https://nyaa.si/view/306468",
       "notes": "After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school—which turns out to have weird quirks of its own. \n\n(Source: ANN)",
-      "completionDate": "2025-08-21T19:38:46.626Z",
+      "completionDate": null,
       "synopsis": ""
     },
     {
@@ -15525,7 +15572,7 @@
       "name": "Clannad",
       "status": "جارٍ",
       "totalEpisodes": 23,
-      "completedEpisodes": 2,
+      "completedEpisodes": 9,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -15538,7 +15585,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 20,
+      "totalCost": 90,
       "malId": "2167",
       "url": "https://myanimelist.net/anime/2167/Clannad",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
@@ -15904,9 +15951,9 @@
       "id": "mbhnrbkaggsyslz4ml",
       "createdDate": "2025-06-04T08:00:46.666Z",
       "name": "Serial Experiments Lain",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 13,
-      "completedEpisodes": 0,
+      "completedEpisodes": 13,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": null,
@@ -15919,7 +15966,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 0,
+      "totalCost": 195,
       "malId": "339",
       "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg",
@@ -15944,7 +15991,7 @@
       "score": 8.09,
       "rawUrl": "https://nyaa.si/view/1935425",
       "notes": "ترجمة معتمدة على الياباني",
-      "completionDate": null,
+      "completionDate": "2025-09-17T06:28:42.261Z",
       "synopsis": "Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda—the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.\n\nWritten by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.\n\n[Written by MAL Rewrite]"
     },
     {
@@ -19831,21 +19878,21 @@
     },
     {
       "name": "Wolf's Rain",
-      "status": "مكتمل",
+      "status": "جارٍ",
       "totalEpisodes": 26,
       "completedEpisodes": 26,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 0,
+      "timerBonus": -37.5,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/1046491",
       "synopsis": "In a dying world, there exists an ancient legend: when the world ends, the gateway to paradise will be opened. This utopia is the sole salvation for the remnants of life in this barren land, but the legend also dictates that only wolves can find their way to this mythical realm. Though long thought to be extinct, wolves still exist and live amongst humans, disguising themselves through elaborate illusions. \n\nA lone wolf named Kiba finds himself drawn by an intoxicating scent to Freeze City, an impoverished town under the rule of the callous Lord Orkham. Here, Kiba discovers that wolves Hige, Tsume, and Toboe have been drawn in by the same aroma. By following the fragrance of \"Lunar Flowers,\" said to be the key to opening the door to their ideal world, the wolves set off on a journey across desolate landscapes and crumbling cities to find their legendary promised land. However, they are not the only ones seeking paradise, and those with more sinister intentions will do anything in their power to reach it first.\n\n[Written by MAL Rewrite]",
@@ -19867,10 +19914,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 286,
+      "totalCost": 287.5,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
-      "completionDate": "2025-08-18T15:34:08.121Z"
+      "completionDate": null
     },
     {
       "name": "Elf 17",
@@ -20039,7 +20086,7 @@
       "name": "Yofukashi no Uta Season 2",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 8,
+      "completedEpisodes": 11,
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20072,7 +20119,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 120,
+      "totalCost": 165,
       "id": "mcdhyd2ppvffm5osogc",
       "createdDate": "2025-06-26T14:46:55.153Z",
       "completionDate": null
@@ -20286,7 +20333,7 @@
       "name": ".hack//Roots",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 1,
+      "completedEpisodes": 9,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20320,7 +20367,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 10,
+      "totalCost": 90,
       "id": "mci8oll3jzorwtp2su",
       "createdDate": "2025-06-29T22:26:13.959Z",
       "completionDate": null
@@ -20836,7 +20883,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 7,
+      "completedEpisodes": 10,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20867,7 +20914,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 89,
+      "totalCost": 134,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -21243,6 +21290,663 @@
       "id": "meh9zwe7g5f1jr3xctl",
       "createdDate": "2025-08-18T15:34:39.295Z",
       "completionDate": "2025-08-18T15:34:39.295Z"
+    },
+    {
+      "name": "D.N.Angel",
+      "status": "قريباً",
+      "totalEpisodes": 26,
+      "completedEpisodes": 0,
+      "notes": "تمويل ناصر",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Daisuke Niwa is a clumsy, block-headed, and wimpy middle school student who has few redeeming qualities. On his 14th birthday, he finally decides to confess his love to his longtime crush Risa Harada, but is rejected. \n\nIn an unexpected turn of events, however, Daisuke finds himself transforming into Dark Mousy, the infamous phantom thief, whenever his mind is set on Risa. Though Daisuke is unaware of this strange heritage, his mother is certainly not: since before the boy was born, his mother had been planning for him to steal valuable works of art and let the name of the elusive art thief be known.\n\nWith doubt and confusion constantly clouding his mind, Daisuke finds himself struggling in his relationships with classmates and family. And it is not long before Daisuke realizes that he is not the only one with a fated family legacy—his greatest adversary could be the one classmate he is most unwilling to fight. \n\n[Written by MAL Rewrite]",
+      "malId": "61",
+      "url": "https://myanimelist.net/anime/61/DNAngel",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1126/98904l.jpg",
+      "animeType": "TV",
+      "studio": "Xebec",
+      "source": "Manga",
+      "premiered": "2003-04-03",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.16,
+      "totalCost": 0,
+      "id": "meyvjzw4i2375f9ozr",
+      "createdDate": "2025-08-30T23:10:13.876Z"
+    },
+    {
+      "name": "Redline",
+      "status": "قريباً",
+      "totalEpisodes": 1,
+      "completedEpisodes": 0,
+      "notes": "تمويل ناصر",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Every five years, an exhilarating race called Redline is held, and the universe's most anticipated competition has only one rule: that there are none. Racers are pushed to their absolute limit—a feeling that daredevil driver JP knows all too well. Having just qualified to participate in Redline, he is eager to battle against the other highly skilled drivers, particularly the beautiful rising star and the only other human that qualified, Sonoshee McLaren.\n\nBut this year's Redline may be far more dangerous than usual—it has been announced to take place on the planet Roboworld with its trigger-happy military and criminals who look to turn the race to their own advantage. However, the potential danger doesn't stop the racers; in fact, it only adds to the thrill. Relying solely on his vehicle's speed, JP prepares for the event to come, aiming to take first place in the biggest race of his life.\n\n[Written by MAL Rewrite]",
+      "malId": "6675",
+      "url": "https://myanimelist.net/anime/6675/Redline",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/12/28553l.jpg",
+      "animeType": "Movie",
+      "studio": "Madhouse",
+      "source": "Original",
+      "premiered": "2009-08-14",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "themes": [
+        "Adult Cast",
+        "Racing"
+      ],
+      "duration": "1 hr 42 min",
+      "rating": "R+ - Mild Nudity",
+      "score": 8.29,
+      "totalCost": 0,
+      "id": "meyvldjfndvow81dn3e",
+      "createdDate": "2025-08-30T23:11:18.219Z"
+    },
+    {
+      "name": "Bayonetta: Bloody Fate",
+      "status": "قريباً",
+      "totalEpisodes": 1,
+      "completedEpisodes": 0,
+      "notes": "تمويل ناصر",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Driven to recover her memories after waking in a coffin at the bottom of a lake 20 years ago, Bayonetta hunts down the forces of Heaven day and night in search of clues to her forgotten past, and to uphold her pact with the demonic forces she draws her powers from as an Umbra Witch. She is armed and guided by the mysterious bartender and weapon-smith, Rodin, and following her every footstep is the intrepid journalist, Luka Redgrave, who believes that she has something to do with the death of his father and will stop at nothing to get the truth. Her quest takes a promising turn when she encounters a little girl named Cereza, but standing in her way is a rival Umbra Witch named Jeanne, who works for the very forces that she should be opposing.\n\nBayonetta: Bloody Fate is an action-packed anime film that explores the connection between all of characters and works to unravel just how they are seemingly entwined in a conspiracy that eclipses them all.",
+      "malId": "20543",
+      "url": "https://myanimelist.net/anime/20543/Bayonetta__Bloody_Fate",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1243/113390l.jpg",
+      "animeType": "Movie",
+      "studio": "Gonzo",
+      "source": "Game",
+      "premiered": "2013-11-23",
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "themes": [
+        "Mythology",
+        "Super Power"
+      ],
+      "duration": "1 hr 30 min",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 6.64,
+      "totalCost": 0,
+      "id": "meyvm0cz26briw5s236",
+      "createdDate": "2025-08-30T23:11:47.795Z"
+    },
+    {
+      "name": "Tailenders",
+      "status": "قريباً",
+      "totalEpisodes": 1,
+      "completedEpisodes": 0,
+      "notes": "تمويل ناصر",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Tomoe Shiro, a formidable racer with a very promising career, experiments a U-turn when a serious accident puts his life at stake. He recovers miraculously though when his heart is replaced with the engine of his own racing car. However, because of that very reason, race regulations demote him to the category of a mere mechanical part of the vehicle and is deprived from the right to participate as a pilot in regular races. Only in a far away colonial planet, along with a multitude of other charismatic pilots also vetoed from participating in regular competitions, will he be given the opportunity to race for his pride and the money of the prize. And so this exciting rally starts!!\n\n(Source: Official website)",
+      "malId": "6162",
+      "url": "https://myanimelist.net/anime/6162/Tailenders",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1485/99932l.jpg",
+      "animeType": "Movie",
+      "studio": "Picograph",
+      "source": "Original",
+      "premiered": "2009-10-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "themes": [
+        "Racing"
+      ],
+      "duration": "27 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.68,
+      "totalCost": 0,
+      "id": "meyvmu83gsvic4s7fie",
+      "createdDate": "2025-08-30T23:12:26.499Z"
+    },
+    {
+      "name": "Crayon Shin-chan",
+      "status": "قريباً",
+      "totalEpisodes": 0,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "There is no such thing as an uneventful day in the life of kindergartener Shinnosuke \"Shin-chan\" Nohara. The five-year-old is a cut above the most troublesome, perverted, and shameless kid one can imagine. Shin-chan is almost always engaged in questionable activities such as forgetting about a friend during hide and seek, sumo wrestling for love, performing various gags including the notorious \"elephant\" in public, and flirting with college girls. The exemplary troublemaker has done it all and has no plans to stop anytime soon.\n\nCrayon Shin-chan follows the daily shenanigans of Shin-chan with his group of friends, parading around as the self-proclaimed \"Kasukabe Defense Force.\" The adults witnessing these shenanigans unfold can't help but adore Shin-chan, as he keeps them entertained while unintentionally solving their daily troubles through his mindless antics—leaving himself as the only problem they do not know what to do with.\n\n[Written by MAL Rewrite]",
+      "malId": "966",
+      "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/59897l.jpg",
+      "animeType": "TV",
+      "studio": "Shin-Ei Animation",
+      "source": "Manga",
+      "premiered": "1992-04-13",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "21 min",
+      "rating": "G - All Ages",
+      "score": 7.81,
+      "totalCost": 0,
+      "id": "mf1l6ooaq8ihh1b4b4",
+      "createdDate": "2025-09-01T20:43:15.178Z"
+    },
+    {
+      "name": "Samurai Champloo",
+      "status": "قريباً",
+      "totalEpisodes": 26,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop, Mugen, who quickly defeats them with his wild fighting technique, utilizing movements reminiscent to that of breakdancing. Unfortunately, Mugen decides to pick a fight with the unwilling ronin Jin, who wields a more precise and traditional style of swordfighting, and the latter proves to be a formidable opponent. The only problem is, they end up destroying the entire shop as well as accidentally killing the local magistrate's son.\n\nFor their crime, the two samurai are captured and set to be executed. However, they are rescued by Fuu, who hires the duo as her bodyguards. Though she no longer has a place to return to, the former waitress wishes to find a certain samurai who smells of sunflowers and enlists the help of the now exonerated pair to do so. Despite initially disapproving of this idea, the two eventually agree to assist the girl in her quest; thus, the trio embark upon an adventure to find this mysterious warrior—that is, if Fuu can keep Mugen and Jin from killing each other.\n\nSet in an alternate Edo Period of Japan, Samurai Champloo follows the journey of these three eccentric individuals in an epic quest full of action, comedy, and dynamic sword fighting, all set to the beat of a unique hip-hop infused soundtrack.\n\n[Written by MAL Rewrite]",
+      "malId": "205",
+      "url": "https://myanimelist.net/anime/205/Samurai_Champloo",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1370/135212l.jpg",
+      "animeType": "TV",
+      "studio": "Manglobe",
+      "source": "Original",
+      "premiered": "2004-05-20",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "themes": [
+        "Historical",
+        "Samurai"
+      ],
+      "duration": "24 min per ep",
+      "rating": "R - 17+ (violence & profanity)",
+      "score": 8.52,
+      "totalCost": 0,
+      "id": "mf273rk4qnxvi4hdssr",
+      "createdDate": "2025-09-02T06:56:50.500Z"
+    },
+    {
+      "name": "Zenmai Zamurai",
+      "status": "قريباً",
+      "totalEpisodes": 215,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/view/1428808",
+      "synopsis": "200 years ago, Zenmai Zamurai was a thief by profession. While stealing from a house one night, he fell down a well and died. He was then resurrected by Daifukunokami and a wind-up key was placed on his head. If the key wound down, Zennosuke would die. The only way the key can be wound is by Zennosuke doing good deeds. In order to achieve this end, he is given the Dango-ken, which is a sword with Japanese Dumplings skewered onto it. Whenever Zenmai Zamurai sees people doing injustice or generally being out of control, he uses his sword to shoot the dumplings into their mouths. When the dumplings are eaten, the people suddenly become happy and realize the error of their ways. He helps out the people of his village in many ways, big and small. Whenever he has done well, a rainbow comes out of the sky to wind up his key.\n\n-Wikipedia",
+      "malId": "5821",
+      "url": "https://myanimelist.net/anime/5821/Zenmai_Zamurai",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/88766l.jpg",
+      "animeType": "TV",
+      "studio": "A-1 Pictures, No Side",
+      "source": "Original",
+      "premiered": "2006-04-03",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [],
+      "duration": "5 min per ep",
+      "rating": "G - All Ages",
+      "score": 5.84,
+      "totalCost": 0,
+      "id": "mf2d1x9jrxxh0n8gsr",
+      "createdDate": "2025-09-02T09:43:22.279Z"
+    },
+    {
+      "name": "Aggressive Retsuko",
+      "status": "قريباً",
+      "totalEpisodes": 100,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/view/1039117",
+      "synopsis": "Whether it be facing misogynistic remarks from her boss or being pressured by condescending co-workers, stress is just another part of the job for 25-year-old red panda Retsuko. Despite being one of the most diligent workers at her office, her diminutiveness and modesty often lead her to be exploited by her colleagues. However, when her irritation hits the limit, Retsuko brings forth her unique brand of letting off steam: aggressive death metal karaoke bashing the idiocy and hypocrisy of her co-workers' actions and work life. Although this venting only takes place in her mind, it gives her an outlet to counter her frustration in a world where hierarchy and appearances reign supreme.\n\n[Written by MAL Rewrite]",
+      "malId": "32977",
+      "url": "https://myanimelist.net/anime/32977/Aggressive_Retsuko",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/84193l.jpg",
+      "animeType": "TV",
+      "studio": "Fanworks",
+      "source": "Other",
+      "premiered": "2016-04-02",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [
+        "Anthropomorphic",
+        "Music",
+        "Workplace"
+      ],
+      "duration": "1 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.62,
+      "totalCost": 0,
+      "id": "mf2d2izznt03d6ijlhf",
+      "createdDate": "2025-09-02T09:43:50.447Z"
+    },
+    {
+      "name": "Charady no Joke na Mainichi",
+      "status": "قريباً",
+      "totalEpisodes": 365,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://nyaa.si/?f=0&c=0_0&q=Charady+",
+      "synopsis": "A gravure idol, Asada Misako, plays the main character Charady. Other characters are played by the students of Kyoto University of Art and Design Department of Character Designing. It is a short comedy animation about jokes from all parts of the world.",
+      "malId": "6131",
+      "url": "https://myanimelist.net/anime/6131/Charady_no_Joke_na_Mainichi",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/13420l.jpg",
+      "animeType": "TV",
+      "studio": [],
+      "source": "Original",
+      "premiered": "2009-04-01",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [],
+      "duration": "3 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.14,
+      "totalCost": 0,
+      "id": "mf2d3m9jirqjbs9md7",
+      "createdDate": "2025-09-02T09:44:41.335Z"
+    },
+    {
+      "name": "Morita-san wa Mukuchi.",
+      "status": "قريباً",
+      "totalEpisodes": 13,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Morita Mayu, a high school girl. She is extremely reticent and her silence and habit of looking at people's eyes straightly sometimes cause misunderstanding. The reason behind it is not because she doesn’t like to talk nor because she has nothing to say. The reason she rarely speaks is due to the fact she thinks too much before speaking, thus losing the timing to speak altogether. But she lives a happy school life with her classmates.",
+      "malId": "10671",
+      "url": "https://myanimelist.net/anime/10671/Morita-san_wa_Mukuchi",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/13/30166l.jpg",
+      "animeType": "TV",
+      "studio": "Seven",
+      "source": "4-koma manga",
+      "premiered": "2011-07-06",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "3 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.49,
+      "totalCost": 0,
+      "id": "mf2d4ipis5q8koes4s",
+      "createdDate": "2025-09-02T09:45:23.382Z"
+    },
+    {
+      "name": "Ketsuekigata-kun!",
+      "status": "قريباً",
+      "totalEpisodes": 12,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Are all A Types kind yet indecisive? Does being a B Type imply the opposite? Are O Types more passionate and childish than others? How would one even get along with AB Types? Ketsuekigata-kun! explores Japanese and Korean cultural stereotypes associated with blood types in romantic and leisurely situations.\n\n[Written by MAL Rewrite]",
+      "malId": "17731",
+      "url": "https://myanimelist.net/anime/17731/Ketsuekigata-kun",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1741/91386l.jpg",
+      "animeType": "TV",
+      "studio": "feel., Assez Finaud Fabric",
+      "source": "Web manga",
+      "premiered": "2013-04-07",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [
+        "Anthropomorphic"
+      ],
+      "duration": "2 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.48,
+      "totalCost": 0,
+      "id": "mf2d4z8ukubfbvtatt",
+      "createdDate": "2025-09-02T09:45:44.814Z"
+    },
+    {
+      "name": "Teekyuu",
+      "status": "قريباً",
+      "totalEpisodes": 12,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Teekyuu is all about the wacky antics of four schoolgirls—Kanae Shinjou gets bored easily and often breaks the laws of physics to get what she wants; Nasuno Takamiya is incredibly rich and knows how to make things go her way; Marimo Bandou would probably get arrested from her actions like eating panties or kidnapping children; and Yuri Oshimoto, their ordinary junior, rounds out the eccentric bunch that forms the sole members of their school's tennis club. \n\nDespite their interest in learning the sport, the older girls prefer messing around, while Yuri, being the only one who actually knows how to play and the most mature in spite of being younger, has to deal with her seniors' out of control behavior. \n\nWhen these four girls come together, insanity ensues in this lightning-paced comedy about a tennis club that doesn't really play tennis. \n\n[Written by MAL Rewrite]",
+      "malId": "15125",
+      "url": "https://myanimelist.net/anime/15125/Teekyuu",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1703/98658l.jpg",
+      "animeType": "TV",
+      "studio": "MAPPA",
+      "source": "Manga",
+      "premiered": "2012-10-07",
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "2 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.55,
+      "totalCost": 0,
+      "id": "mf2d5fjqeqncazesepa",
+      "createdDate": "2025-09-02T09:46:05.942Z"
+    },
+    {
+      "name": "Gakkatsu!",
+      "status": "قريباً",
+      "totalEpisodes": 25,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "In a fictional school, \"Tender Tank\" Rareko is constantly opening absurd yet strangely enthusiastic debates, this way creating a lively classroom life. Bringing up tremendous themes, she and her classmates exchange words like sword-strokes, and here and there even a profound remark is slipped in. \n\nA fun and informative debate comedy, packed into only five minutes each time. \n\n(Source: AniDB)",
+      "malId": "13139",
+      "url": "https://myanimelist.net/anime/13139/Gakkatsu",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/8/62295l.jpg",
+      "animeType": "TV",
+      "studio": "NHK",
+      "source": "Original",
+      "premiered": "2012-04-03",
+      "genres": [
+        "Comedy"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "5 min per ep",
+      "rating": "G - All Ages",
+      "score": 6.43,
+      "totalCost": 0,
+      "id": "mf2d619ioexqfigpkk",
+      "createdDate": "2025-09-02T09:46:34.086Z"
+    },
+    {
+      "name": "Poyopoyo Kansatsu Nikki",
+      "status": "قريباً",
+      "totalEpisodes": 52,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Moe Sato is a young lady who finds a cat and starts taking care of him. Named Poyo due to his round shape, he quickly becomes a dear member of the Sato family. \n\n(Source: ANN)",
+      "malId": "12021",
+      "url": "https://myanimelist.net/anime/12021/Poyopoyo_Kansatsu_Nikki",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/11/35455l.jpg",
+      "animeType": "TV",
+      "studio": "Studio Deen",
+      "source": "4-koma manga",
+      "premiered": "2012-01-08",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "themes": [
+        "Pets"
+      ],
+      "duration": "3 min per ep",
+      "rating": "PG - Children",
+      "score": 7.63,
+      "totalCost": 0,
+      "id": "mf2d6g1qig8hzk8bjz",
+      "createdDate": "2025-09-02T09:46:53.246Z"
+    },
+    {
+      "name": "Chuunibyou demo Koi ga Shitai!",
+      "status": "قريباً",
+      "totalEpisodes": 12,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers, or maybe even believe themselves to have descended from a fantasy realm. This \"disease\" is known as \"chuunibyou\" and is often the source of some of the most embarrassing moments of a person's life.\n\nFor Yuuta Togashi, the scars that his chuunibyou has left behind are still fresh. Having posed as the \"Dark Flame Master\" during his middle school years, he looks back at those times with extreme embarrassment, so much so that he decides to attend a high school far away where nobody will recognize him. Putting his dark history behind him, he longs to live a normal high school life.\n\nUnfortunately, he hasn't escaped his past yet: enter Rikka Takanashi, Yuuta's new classmate and self-declared vessel of the \"Wicked Eye.\" As this eccentric young girl crashes into Yuuta's life, his dream of an ordinary, chuunibyou-free life quickly crumbles away. In this hilarious and heartwarming story of a boy who just wants to leave his embarrassing memories behind, the delusions of old are far from a thing of the past.\n\n[Written by MAL Rewrite]",
+      "malId": "14741",
+      "url": "https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1905/142840l.jpg",
+      "animeType": "TV",
+      "studio": "Kyoto Animation",
+      "source": "Light novel",
+      "premiered": "2012-10-04",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.7,
+      "totalCost": 0,
+      "id": "mfn1ly275ci4xkw18hr",
+      "createdDate": "2025-09-16T21:06:10.735Z"
+    },
+    {
+      "name": "Furiko",
+      "status": "مكتمل",
+      "totalEpisodes": 1,
+      "completedEpisodes": 1,
+      "notes": "",
+      "translatorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
+      "timerId": "mfphust6wk7uuqpxac",
+      "subtitlerId": null,
+      "translationPrice": 1.5,
+      "editingPrice": 0,
+      "timerPrice": 1.5,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://www.youtube.com/watch?v=d1lmCdabZws",
+      "synopsis": "Furiko, meaning \"pendulum,\" shows the highs and lows of a family of two—a high schooler, and his future wife, whom he rescues from delinquents. From the brilliant mind of comedian Tekken, comes a heartwarming story of a couple overcoming their differences even as they struggle through life. Not a moment goes by without meaning or expression in these four and a half minutes.\n\n[Written by MAL Rewrite]",
+      "malId": "13629",
+      "url": "https://myanimelist.net/anime/13629/Furiko",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/2/68985l.jpg",
+      "animeType": "Special",
+      "studio": [],
+      "source": "Original",
+      "premiered": "2012-03-16",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "themes": [
+        "Music"
+      ],
+      "duration": "4 min",
+      "rating": "G - All Ages",
+      "score": 7.46,
+      "totalCost": 3,
+      "id": "mfpi1ej74fdqvhd15a4",
+      "createdDate": "2025-09-18T14:21:38.131Z",
+      "completionDate": "2025-09-18T14:21:38.131Z"
     }
   ],
   "series": [
@@ -21370,7 +22074,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 46,
+      "completedEpisodes": 49,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -21402,7 +22106,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 220,
+      "totalCost": 235,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22000,9 +22704,9 @@
     },
     {
       "name": "Halt and Catch Fire",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 20,
-      "completedEpisodes": 10,
+      "completedEpisodes": 20,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -22032,11 +22736,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "43",
-      "totalCost": 20,
+      "totalCost": 40,
       "id": "mbhv7700ebpafe3ua5p",
       "createdDate": "2025-06-04T11:29:04.560Z",
       "seriesNameSearch": "Halt and Catch Fire",
-      "completionDate": null
+      "completionDate": "2025-09-13T12:22:27.105Z"
     },
     {
       "name": "South Park",
@@ -22119,7 +22823,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 60,
+      "completedEpisodes": 62,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22133,7 +22837,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 13 من الموسم الثالث",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 15 من الموسم الثالث",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -22152,7 +22856,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 183,
+      "totalCost": 189,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -22364,7 +23068,7 @@
       "name": "Rake",
       "status": "جارٍ",
       "totalEpisodes": 40,
-      "completedEpisodes": 2,
+      "completedEpisodes": 6,
       "notes": "ترجمة أول موسمين فقط",
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
@@ -22396,7 +23100,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "55",
-      "totalCost": 6,
+      "totalCost": 18,
       "id": "mefxa9m74udsvzuip13",
       "createdDate": "2025-08-17T16:51:01.807Z",
       "completionDate": null
@@ -22404,9 +23108,1489 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-08-28T06:31:13.343Z",
+      "timestamp": "2025-09-18T14:22:06.544Z",
       "message": "تصدير البيانات إلى الجهاز",
       "details": null
+    },
+    {
+      "timestamp": "2025-09-18T14:21:38.131Z",
+      "message": "إضافة مشروع (anime): Furiko",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T14:20:12.411Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T14:18:16.043Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T14:16:30.043Z",
+      "message": "إضافة عضو: Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T14:14:21.480Z",
+      "message": "إضافة عضو: Hacker-Kun",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T08:12:41.859Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-17T10:43:28.260Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-17T10:43:21.755Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (61 ← 62)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 62,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-17T10:43:13.356Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-17T06:28:42.261Z",
+      "message": "تعديل مشروع (anime): Serial Experiments Lain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-17T06:26:52.356Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (48 ← 49)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 49,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-16T21:06:19.678Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-16T21:06:10.735Z",
+      "message": "إضافة مشروع (anime): Chuunibyou demo Koi ga Shitai!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-16T06:43:02.251Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-16T06:42:51.299Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (43 ← 44)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 44,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-15T12:33:26.823Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-14T00:00:37.864Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-14T00:00:35.312Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:22:27.105Z",
+      "message": "تعديل مشروع (series): Halt and Catch Fire",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-13T12:22:06.127Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:22:04.935Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:22:04.727Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:22:04.503Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:53.487Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:53.263Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (14 ← 15)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 15,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:52.935Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (13 ← 14)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 14,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:49.967Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:48.927Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:48.511Z",
+      "message": "تحديث حلقات مشروع (series) Halt and Catch Fire: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhv7700ebpafe3ua5p",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbeqdjpbgrqvyuj7jp",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:21:20.855Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:19:08.240Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:18:52.599Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-13T12:18:42.672Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (42 ← 43)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 43,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T19:22:15.500Z",
+      "message": "تحديث حلقات مشروع (series) Rake: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefxa9m74udsvzuip13",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T19:22:15.132Z",
+      "message": "تحديث حلقات مشروع (series) Rake: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefxa9m74udsvzuip13",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T19:22:14.748Z",
+      "message": "تحديث حلقات مشروع (series) Rake: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefxa9m74udsvzuip13",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T19:22:14.365Z",
+      "message": "تحديث حلقات مشروع (series) Rake: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefxa9m74udsvzuip13",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T19:21:48.478Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-11T19:21:41.925Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (60 ← 61)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 61,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-11T07:18:25.041Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-08T21:50:02.195Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-08T20:41:49.868Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (47 ← 48)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 48,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-08T20:14:52.915Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-07T22:42:39.330Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (41 ← 42)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 42,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-07T06:58:30.921Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (46 ← 47)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 47,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-06T12:42:25.319Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-06T12:41:55.896Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-06T12:29:52.563Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-06T07:47:04.634Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-05T16:14:26.391Z",
+      "message": "تعديل مشروع (anime): Alps no Shoujo Heidi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-05T14:49:29.355Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-05T14:48:49.059Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (40 ← 41)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 41,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-03T11:19:40.828Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-02T09:46:53.246Z",
+      "message": "إضافة مشروع (anime): Poyopoyo Kansatsu Nikki",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:46:34.086Z",
+      "message": "إضافة مشروع (anime): Gakkatsu!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:46:05.942Z",
+      "message": "إضافة مشروع (anime): Teekyuu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:45:44.814Z",
+      "message": "إضافة مشروع (anime): Ketsuekigata-kun!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:45:23.382Z",
+      "message": "إضافة مشروع (anime): Morita-san wa Mukuchi.",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:44:41.335Z",
+      "message": "إضافة مشروع (anime): Charady no Joke na Mainichi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:43:50.447Z",
+      "message": "إضافة مشروع (anime): Aggressive Retsuko",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T09:43:22.279Z",
+      "message": "إضافة مشروع (anime): Zenmai Zamurai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-02T06:56:50.500Z",
+      "message": "إضافة مشروع (anime): Samurai Champloo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-01T20:43:15.178Z",
+      "message": "إضافة مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-01T12:50:20.188Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-30T23:12:26.499Z",
+      "message": "إضافة مشروع (anime): Tailenders",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-30T23:11:47.795Z",
+      "message": "إضافة مشروع (anime): Bayonetta: Bloody Fate",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-30T23:11:18.219Z",
+      "message": "إضافة مشروع (anime): Redline",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-30T23:10:13.876Z",
+      "message": "إضافة مشروع (anime): D.N.Angel",
+      "details": null
+    },
+    {
+      "timestamp": "2025-08-30T19:16:28.313Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (39 ← 40)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 40,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-29T21:19:46.105Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-08-29T11:28:58.065Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
     },
     {
       "timestamp": "2025-08-28T06:30:20.728Z",
@@ -33932,5 +36116,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-08-28T06:31:16.785Z"
+  "lastCloudExport": "2025-09-18T14:22:19.262Z"
 }
