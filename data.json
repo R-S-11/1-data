@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-09-18T14:21:38.143Z",
+  "lastSaved": "2025-09-21T15:45:17.042Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -8,6 +8,29 @@
     "headerLinkDriveUrl": "https://drive.google.com/drive/folders/1MUM7NMtiHxi__MDNBwKAuTzTU1dT-LXR"
   },
   "members": [
+    {
+      "name": "Abo ymano",
+      "avatarUrl": "data:image/jpeg;base64,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",
+      "roles": [
+        "timer"
+      ],
+      "amountReceived": 0,
+      "paymentMethod": "",
+      "twitterHandle": "",
+      "discordHandle": "aboymano_14298",
+      "telegramHandle": "",
+      "blog": "",
+      "notes": "",
+      "id": "mfphust6wk7uuqpxac",
+      "createdDate": "2025-09-18T14:16:30.042Z",
+      "totalFee": 46.5,
+      "lastDelivery": "2025-09-21T14:31:13.488Z",
+      "projectTranslatedEpisodes": 0,
+      "projectEditedEpisodes": 0,
+      "projectTimedEpisodes": 31,
+      "projectSubtitledEpisodes": 0,
+      "remainingAmount": 46.5
+    },
     {
       "name": "Amira",
       "avatarUrl": "data:image/png;base64,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",
@@ -23,13 +46,13 @@
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
-      "totalFee": 347,
-      "lastDelivery": "2025-08-27T15:19:37.865Z",
-      "projectTranslatedEpisodes": 50,
+      "totalFee": 356,
+      "lastDelivery": "2025-09-19T17:58:43.207Z",
+      "projectTranslatedEpisodes": 51,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 27
+      "remainingAmount": 36
     },
     {
       "name": "Dina El- Shrief",
@@ -70,13 +93,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 319,
-      "lastDelivery": "2025-09-18T14:18:16.043Z",
-      "projectTranslatedEpisodes": 55,
+      "totalFee": 332,
+      "lastDelivery": "2025-09-21T14:30:10.040Z",
+      "projectTranslatedEpisodes": 57,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 63
+      "remainingAmount": 76
     },
     {
       "name": "FREDOM",
@@ -94,7 +117,7 @@
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
       "totalFee": 301,
-      "lastDelivery": "2025-09-18T14:20:12.411Z",
+      "lastDelivery": "2025-09-21T14:31:13.488Z",
       "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -116,13 +139,36 @@
       "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 270.5,
-      "lastDelivery": "2025-08-18T09:44:15.359Z",
+      "totalFee": 294.5,
+      "lastDelivery": "2025-09-21T14:31:04.520Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 171,
+      "projectTimedEpisodes": 183,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 24
+    },
+    {
+      "name": "Hacker-Kun",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1661537797906522113/sFNfgPQS_400x400.jpg",
+      "roles": [
+        "timer"
+      ],
+      "amountReceived": 0,
+      "paymentMethod": "",
+      "twitterHandle": "Mainak0009",
+      "discordHandle": "hacker0009__62660",
+      "telegramHandle": "hackerkun",
+      "blog": "https://kawa.toonshub.my.id/browse",
+      "notes": "",
+      "id": "mfphs1lzh0khptpzly9",
+      "createdDate": "2025-09-18T14:14:21.479Z",
+      "totalFee": 10,
+      "lastDelivery": "2025-09-21T14:30:10.040Z",
+      "projectTranslatedEpisodes": 0,
+      "projectEditedEpisodes": 0,
+      "projectTimedEpisodes": 24,
+      "projectSubtitledEpisodes": 0,
+      "remainingAmount": 10
     },
     {
       "name": "Madarame",
@@ -136,17 +182,17 @@
       "discordHandle": "madarame0",
       "telegramHandle": "https://t.me/absfmhmmod",
       "blog": "https://madaramesub.vercel.app/",
-      "notes": "",
+      "notes": "يُزاد له راتب 100 دولار إشراف على الفريق\nعليه دين 1000 دولار سيتم دفعها عن طريق تقسيط راتب الإشراف 10 أشهر من الشهر 9\\2025 إلى الشهر 6\\2027",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 3529.5,
-      "lastDelivery": "2025-09-18T14:21:38.131Z",
-      "projectTranslatedEpisodes": 144,
-      "projectEditedEpisodes": 1060,
+      "totalFee": 2073.5,
+      "lastDelivery": "2025-09-21T15:14:41.296Z",
+      "projectTranslatedEpisodes": 136,
+      "projectEditedEpisodes": 868,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 317.5,
+      "remainingAmount": -1138.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -165,7 +211,7 @@
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
       "totalFee": 498,
-      "lastDelivery": "2025-07-14T10:27:45.381Z",
+      "lastDelivery": "2025-09-21T14:31:04.520Z",
       "projectTranslatedEpisodes": 83,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -187,13 +233,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 150,
-      "lastDelivery": "2025-06-26T05:48:37.319Z",
-      "projectTranslatedEpisodes": 28,
+      "totalFee": 174,
+      "lastDelivery": "2025-09-21T14:29:47.744Z",
+      "projectTranslatedEpisodes": 34,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 24
     },
     {
       "name": "N_Angle",
@@ -211,13 +257,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 219,
-      "lastDelivery": "2025-08-27T15:19:28.329Z",
+      "totalFee": 222.5,
+      "lastDelivery": "2025-09-21T14:29:25.777Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 84,
-      "remainingAmount": 10.5
+      "projectSubtitledEpisodes": 86,
+      "remainingAmount": 14
     },
     {
       "name": "NaNa",
@@ -234,13 +280,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 386,
-      "lastDelivery": "2025-08-27T10:52:50.784Z",
-      "projectTranslatedEpisodes": 64,
+      "totalFee": 398,
+      "lastDelivery": "2025-09-21T14:29:13.344Z",
+      "projectTranslatedEpisodes": 66,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 48
+      "remainingAmount": 60
     },
     {
       "name": "Nouralhadi",
@@ -257,13 +303,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 596,
-      "lastDelivery": "2025-09-05T16:14:26.391Z",
-      "projectTranslatedEpisodes": 77,
+      "totalFee": 602,
+      "lastDelivery": "2025-09-21T14:28:48.024Z",
+      "projectTranslatedEpisodes": 78,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 30
+      "remainingAmount": 36
     },
     {
       "name": "SHX",
@@ -281,10 +327,10 @@
       "id": "mbfqpfs19f4wc16830s",
       "createdDate": "2025-06-02T23:47:45.313Z",
       "totalFee": 0,
-      "lastDelivery": "2025-07-05T22:30:54.757Z",
+      "lastDelivery": "2025-09-19T17:58:43.207Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 90,
+      "projectTimedEpisodes": 102,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -303,59 +349,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 378.5,
-      "lastDelivery": "2025-09-17T10:43:28.260Z",
+      "totalFee": 403,
+      "lastDelivery": "2025-09-20T09:00:12.894Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 117,
+      "projectEditedEpisodes": 125,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 28.5
-    },
-    {
-      "name": "Hacker-Kun",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1661537797906522113/sFNfgPQS_400x400.jpg",
-      "roles": [
-        "timer"
-      ],
-      "amountReceived": 0,
-      "paymentMethod": "",
-      "twitterHandle": "Mainak0009",
-      "discordHandle": "hacker0009__62660",
-      "telegramHandle": "hackerkun",
-      "blog": "https://kawa.toonshub.my.id/browse",
-      "notes": "",
-      "id": "mfphs1lzh0khptpzly9",
-      "createdDate": "2025-09-18T14:14:21.479Z",
-      "totalFee": 8,
-      "lastDelivery": "2025-09-18T14:18:16.043Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 24,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 8
-    },
-    {
-      "name": "Abo ymano",
-      "avatarUrl": "data:image/jpeg;base64,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",
-      "roles": [
-        "timer"
-      ],
-      "amountReceived": 0,
-      "paymentMethod": "",
-      "twitterHandle": "",
-      "discordHandle": "aboymano_14298",
-      "telegramHandle": "",
-      "blog": "",
-      "notes": "",
-      "id": "mfphust6wk7uuqpxac",
-      "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 3,
-      "lastDelivery": "2025-09-18T14:21:38.131Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 27,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 3
+      "remainingAmount": 53
     }
   ],
   "anime": [
@@ -373,7 +373,7 @@
       "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
+      "editingBonus": -256,
       "timerBonus": 3,
       "subtitlerBonus": 0,
       "rawUrl": "",
@@ -398,7 +398,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 883,
+      "totalCost": 627,
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
@@ -627,7 +627,7 @@
       "totalEpisodes": 9,
       "completedEpisodes": 9,
       "translatorId": "mbfpvk75gpl17avaz7",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 6,
@@ -760,7 +760,7 @@
       "totalEpisodes": 2,
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 6,
@@ -802,7 +802,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 18,
@@ -842,7 +842,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 24,
@@ -881,7 +881,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 24,
@@ -925,7 +925,7 @@
       "totalEpisodes": 4,
       "completedEpisodes": 4,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 6,
@@ -968,7 +968,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 18,
@@ -1011,7 +1011,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 6,
@@ -1054,7 +1054,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 5.5,
@@ -1096,7 +1096,7 @@
       "totalEpisodes": 2,
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 7,
@@ -1139,7 +1139,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 6.5,
@@ -1226,7 +1226,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 6,
@@ -1268,7 +1268,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 9,
@@ -1312,7 +1312,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 15,
@@ -1352,7 +1352,7 @@
       "totalEpisodes": 2,
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 12,
@@ -1397,7 +1397,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 22,
@@ -1436,7 +1436,7 @@
       "totalEpisodes": 3,
       "completedEpisodes": 3,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 9,
@@ -1468,7 +1468,8 @@
       "totalCost": 48,
       "id": "mbfsh1c33hhdjr0vcl1",
       "createdDate": "2025-06-03T00:37:12.579Z",
-      "completionDate": "2025-06-03T00:37:12.579Z"
+      "completionDate": "2025-06-03T00:37:12.579Z",
+      "synopsis": ""
     },
     {
       "name": "FLCL: Grunge",
@@ -1476,7 +1477,7 @@
       "totalEpisodes": 3,
       "completedEpisodes": 3,
       "translatorId": null,
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 0,
@@ -1664,7 +1665,7 @@
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": -21,
-      "editingBonus": -12,
+      "editingBonus": -28,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/798177",
@@ -1689,7 +1690,7 @@
       "duration": "26 min per ep",
       "rating": "G - All Ages",
       "score": 7.35,
-      "totalCost": 99,
+      "totalCost": 83,
       "id": "mbfszhycvvna5ukt04",
       "createdDate": "2025-06-03T00:51:33.924Z",
       "completionDate": "2025-06-03T00:51:33.924Z",
@@ -1701,7 +1702,7 @@
       "totalEpisodes": 4,
       "completedEpisodes": 4,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
@@ -1736,7 +1737,8 @@
       "totalCost": 44,
       "id": "mbft0zolnpnse195jns",
       "createdDate": "2025-06-03T00:52:43.557Z",
-      "completionDate": "2025-06-03T00:52:43.557Z"
+      "completionDate": "2025-06-03T00:52:43.557Z",
+      "synopsis": ""
     },
     {
       "name": "Gatchaman Crowds",
@@ -1996,7 +1998,7 @@
       "name": "Adventure Time",
       "status": "جارٍ",
       "totalEpisodes": 283,
-      "completedEpisodes": 17,
+      "completedEpisodes": 23,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -2006,7 +2008,7 @@
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
+      "editingBonus": -60,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/torrent/4243725/Adventure-Time-2010-Season-1-10-S01-S10-Extras-1080p-BluRay-x265-HEVC-10bit-AAC-2-0-ImE-QxR/",
@@ -2031,9 +2033,11 @@
       "duration": "10 min per ep",
       "rating": "PG - Children",
       "score": 7.4,
-      "totalCost": 119,
+      "totalCost": 101,
       "id": "mbgxb74wb6ro9nba8w6",
-      "createdDate": "2025-06-03T19:40:24.416Z"
+      "createdDate": "2025-06-03T19:40:24.416Z",
+      "synopsis": "",
+      "completionDate": null
     },
     {
       "name": ".hack//Sign",
@@ -2049,7 +2053,7 @@
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": -3,
-      "editingBonus": -2,
+      "editingBonus": -76,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/1389514",
@@ -2072,7 +2076,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.94,
-      "totalCost": 255,
+      "totalCost": 181,
       "id": "mbgxd00f45hpg30quw",
       "createdDate": "2025-06-03T19:41:48.495Z",
       "completionDate": "2025-06-30T11:44:32.267Z",
@@ -2084,7 +2088,7 @@
       "totalEpisodes": 26,
       "completedEpisodes": 26,
       "translatorId": "mbfqdp5u97tgnv1ryv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -2092,7 +2096,7 @@
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": -12,
-      "editingBonus": -12,
+      "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/1293484",
@@ -2119,7 +2123,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.98,
-      "totalCost": 236,
+      "totalCost": 248,
       "id": "mbgxf55zlvkad0iaep",
       "createdDate": "2025-06-03T19:43:28.487Z",
       "completionDate": "2025-08-27T10:53:27.159Z",
@@ -2129,9 +2133,9 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 44,
+      "completedEpisodes": 45,
       "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -2160,7 +2164,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 440,
+      "totalCost": 450,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null,
@@ -2172,12 +2176,12 @@
       "totalEpisodes": 12,
       "completedEpisodes": 12,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
-      "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "editorId": null,
+      "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -2202,7 +2206,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.68,
-      "totalCost": 120,
+      "totalCost": 144,
       "id": "mbgxmfgolbtl0gggel",
       "createdDate": "2025-06-03T19:49:08.424Z",
       "completionDate": "2025-07-09T20:15:01.015Z",
@@ -2291,7 +2295,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": null,
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 0,
@@ -3315,7 +3319,7 @@
       "totalEpisodes": 1,
       "completedEpisodes": 1,
       "translatorId": "mbfqj1wani0rnl0npq",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 3,
@@ -3357,7 +3361,7 @@
       "totalEpisodes": 12,
       "completedEpisodes": 6,
       "translatorId": "mbfqj1wani0rnl0npq",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -7372,10 +7376,10 @@
       "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": -40,
+      "editingBonus": -68,
+      "timerBonus": -38,
       "subtitlerBonus": 0,
-      "totalCost": 248,
+      "totalCost": 182,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -7731,7 +7735,7 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 7.49,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/1496967",
       "notes": "\"Alpha Stigma\" are known to be eyes that can analyze all types of magic. However, they are more infamously known as cursed eyes that can only bring destruction and death to others.\n\nRyner Lute, a talented mage and also an Alpha Stigma bearer, was once a student of the Roland Empire's Magician Academy, an elite school dedicated to training magicians for military purposes. However, after many of his classmates died in a war, he makes an oath to make the nation a more orderly and peaceful place, with fellow survivor and best friend, Sion Astal.\n\nNow that Sion is the king of Roland, he orders Ryner to search for useful relics that will aid the nation. Together with Ferris Eris, a beautiful and highly skilled swordswoman, Ryner goes on a journey to search for relics of legendary heroes from the past, and also uncover the secrets behind his cursed eyes.\n\n[Written by MAL Rewrite]",
       "completionDate": null,
       "synopsis": ""
@@ -15572,9 +15576,9 @@
       "name": "Clannad",
       "status": "جارٍ",
       "totalEpisodes": 23,
-      "completedEpisodes": 9,
+      "completedEpisodes": 10,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -15585,7 +15589,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 90,
+      "totalCost": 100,
       "malId": "2167",
       "url": "https://myanimelist.net/anime/2167/Clannad",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
@@ -15951,9 +15955,9 @@
       "id": "mbhnrbkaggsyslz4ml",
       "createdDate": "2025-06-04T08:00:46.666Z",
       "name": "Serial Experiments Lain",
-      "status": "مكتمل",
+      "status": "جارٍ",
       "totalEpisodes": 13,
-      "completedEpisodes": 13,
+      "completedEpisodes": 4,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": null,
@@ -15966,7 +15970,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 195,
+      "totalCost": 60,
       "malId": "339",
       "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg",
@@ -15991,7 +15995,7 @@
       "score": 8.09,
       "rawUrl": "https://nyaa.si/view/1935425",
       "notes": "ترجمة معتمدة على الياباني",
-      "completionDate": "2025-09-17T06:28:42.261Z",
+      "completionDate": null,
       "synopsis": "Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda—the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.\n\nWritten by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.\n\n[Written by MAL Rewrite]"
     },
     {
@@ -19883,7 +19887,7 @@
       "completedEpisodes": 26,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 7,
@@ -19892,7 +19896,7 @@
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": -37.5,
+      "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://nyaa.si/view/1046491",
       "synopsis": "In a dying world, there exists an ancient legend: when the world ends, the gateway to paradise will be opened. This utopia is the sole salvation for the remnants of life in this barren land, but the legend also dictates that only wolves can find their way to this mythical realm. Though long thought to be extinct, wolves still exist and live amongst humans, disguising themselves through elaborate illusions. \n\nA lone wolf named Kiba finds himself drawn by an intoxicating scent to Freeze City, an impoverished town under the rule of the callous Lord Orkham. Here, Kiba discovers that wolves Hige, Tsume, and Toboe have been drawn in by the same aroma. By following the fragrance of \"Lunar Flowers,\" said to be the key to opening the door to their ideal world, the wolves set off on a journey across desolate landscapes and crumbling cities to find their legendary promised land. However, they are not the only ones seeking paradise, and those with more sinister intentions will do anything in their power to reach it first.\n\n[Written by MAL Rewrite]",
@@ -19914,7 +19918,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 287.5,
+      "totalCost": 325,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
       "completionDate": null
@@ -20007,7 +20011,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 13,
@@ -20047,7 +20051,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 15,
@@ -20084,13 +20088,13 @@
     },
     {
       "name": "Yofukashi no Uta Season 2",
-      "status": "جارٍ",
-      "totalEpisodes": 0,
-      "completedEpisodes": 11,
+      "status": "مكتمل",
+      "totalEpisodes": 12,
+      "completedEpisodes": 12,
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
@@ -20101,7 +20105,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "synopsis": "Second season of Yofukashi no Uta",
+      "synopsis": "Second season of Yofukashi no Uta.",
       "malId": "58390",
       "url": "https://myanimelist.net/anime/58390/Yofukashi_no_Uta_Season_2",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1509/148453l.jpg",
@@ -20116,13 +20120,13 @@
       "themes": [
         "Vampire"
       ],
-      "duration": "Unknown",
+      "duration": "22 min per ep",
       "rating": "PG-13 - Teens 13 or older",
-      "score": [],
-      "totalCost": 165,
+      "score": 8.39,
+      "totalCost": 180,
       "id": "mcdhyd2ppvffm5osogc",
       "createdDate": "2025-06-26T14:46:55.153Z",
-      "completionDate": null
+      "completionDate": "2025-09-19T17:58:43.207Z"
     },
     {
       "name": "Kyousou Giga (TV) Recaps",
@@ -20293,7 +20297,7 @@
       "completedEpisodes": 12,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -20333,10 +20337,10 @@
       "name": ".hack//Roots",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 9,
+      "completedEpisodes": 11,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -20367,7 +20371,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 90,
+      "totalCost": 110,
       "id": "mci8oll3jzorwtp2su",
       "createdDate": "2025-06-29T22:26:13.959Z",
       "completionDate": null
@@ -20379,7 +20383,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -20421,7 +20425,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -20507,7 +20511,7 @@
       "completedEpisodes": 4,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7.5,
@@ -20591,7 +20595,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -20763,7 +20767,7 @@
       "completedEpisodes": 1,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 5,
@@ -20883,7 +20887,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 10,
+      "completedEpisodes": 11,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20914,7 +20918,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 134,
+      "totalCost": 149,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -21256,12 +21260,12 @@
       "completedEpisodes": 4,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
-      "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "editorId": null,
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 4,
-      "timerPrice": 0,
+      "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -21286,7 +21290,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 44,
+      "totalCost": 50,
       "id": "meh9zwe7g5f1jr3xctl",
       "createdDate": "2025-08-18T15:34:39.295Z",
       "completionDate": "2025-08-18T15:34:39.295Z"
@@ -21947,6 +21951,47 @@
       "id": "mfpi1ej74fdqvhd15a4",
       "createdDate": "2025-09-18T14:21:38.131Z",
       "completionDate": "2025-09-18T14:21:38.131Z"
+    },
+    {
+      "name": "Bâan: Otona no Kyoukai",
+      "status": "مكتمل",
+      "totalEpisodes": 1,
+      "completedEpisodes": 1,
+      "notes": "",
+      "translatorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 9,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "https://www.youtube.com/watch?v=V-P3HWXGYm4",
+      "synopsis": "The story follows two individuals who leave their birthplaces behind in search of a new life, traveling through a mysterious warp gate that connects Japan to the world of Euthania. There, in a land rich in nature and home to magical races inspired by South East Asian mythology, they embark on a journey to find a place where they truly belong.\n\n(Source: GeeXPlus, edited)",
+      "malId": "61984",
+      "url": "https://myanimelist.net/anime/61984/Bâan__Otona_no_Kyoukai",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1879/150911l.jpg",
+      "animeType": "Movie",
+      "studio": "Studio Daisy",
+      "source": "Original",
+      "premiered": "2025-08-24",
+      "genres": [
+        "Fantasy"
+      ],
+      "themes": [
+        "Isekai"
+      ],
+      "duration": "18 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": [],
+      "totalCost": 9,
+      "id": "mfs1b9tx856n41ionqr",
+      "createdDate": "2025-09-20T08:56:43.653Z",
+      "completionDate": "2025-09-20T08:56:43.653Z"
     }
   ],
   "series": [
@@ -22074,7 +22119,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 49,
+      "completedEpisodes": 50,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22106,7 +22151,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 235,
+      "totalCost": 240,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22823,7 +22868,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 62,
+      "completedEpisodes": 69,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22837,7 +22882,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 15 من الموسم الثالث",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 0 من الموسم الرابع",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -22856,7 +22901,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 189,
+      "totalCost": 210,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -23108,8 +23153,983 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-09-18T14:22:06.544Z",
+      "timestamp": "2025-09-21T15:46:12.736Z",
       "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T15:45:17.030Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T15:40:28.414Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T15:14:41.296Z",
+      "message": "تعديل مشروع (anime): Serial Experiments Lain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:31:13.488Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:31:04.520Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:30:10.040Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:29:47.744Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:29:25.777Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds Insight",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:29:21.064Z",
+      "message": "تعديل مشروع (anime): Clannad",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:29:13.344Z",
+      "message": "تعديل مشروع (anime): .hack//Roots",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:28:48.024Z",
+      "message": "تعديل مشروع (anime): Alps no Shoujo Heidi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:28:42.089Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:28:21.512Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:27:55.560Z",
+      "message": "تعديل مشروع (anime): Alps no Shoujo Heidi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:27:07.096Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:59.329Z",
+      "message": "تعديل مشروع (anime): Dragon Half",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:54.392Z",
+      "message": "تعديل مشروع (anime): Nayuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:49.921Z",
+      "message": "تعديل مشروع (anime): Petshop of Horrors",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:45.888Z",
+      "message": "تعديل مشروع (anime): Garou Densetsu: The Motion Picture",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:42.065Z",
+      "message": "تعديل مشروع (anime): Blue Thermal",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:37.297Z",
+      "message": "تعديل مشروع (anime): Kyochuu Rettou Movie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:32.528Z",
+      "message": "تعديل مشروع (anime): Kyochuu Rettou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:28.105Z",
+      "message": "تعديل مشروع (anime): Armed Blue Gunvolt",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:23.328Z",
+      "message": "تعديل مشروع (anime): Vassalord.",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:19.001Z",
+      "message": "تعديل مشروع (anime): Switch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:13.456Z",
+      "message": "تعديل مشروع (anime): Kagerou Daze: In a Day's",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:09.032Z",
+      "message": "تعديل مشروع (anime): Ryokunohara Labyrinth: Sparkling Phantom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:26:04.336Z",
+      "message": "تعديل مشروع (anime): Greed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:25:48.488Z",
+      "message": "تعديل مشروع (anime): Cleopatra D.C.",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:25:44.360Z",
+      "message": "تعديل مشروع (anime): Fumoon",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:25:10.112Z",
+      "message": "تعديل مشروع (anime): Ankoku Shinwa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:25:03.193Z",
+      "message": "تعديل مشروع (anime): FLCL: Grunge",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:24:48.384Z",
+      "message": "تعديل مشروع (anime): Kamichu!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:24:02.312Z",
+      "message": "تعديل مشروع (anime): Kamichu! Specials",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:23:49.264Z",
+      "message": "تعديل مشروع (anime): High School Jingi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:23:45.192Z",
+      "message": "تعديل مشروع (anime): Munto",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:23:34.000Z",
+      "message": "تعديل مشروع (anime): .hack//Intermezzo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:20:58.329Z",
+      "message": "تعديل مشروع (anime): .hack//Sign",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:19:57.225Z",
+      "message": "تعديل مشروع (anime): Munto: Toki no Kabe wo Koete",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:19:33.000Z",
+      "message": "تعديل مشروع (anime): .hack//Unison",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:19:16.153Z",
+      "message": "تعديل مشروع (anime): Viper's Creed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:19:09.688Z",
+      "message": "تعديل مشروع (anime): .hack//Liminality",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:19:03.960Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds Insight: Inbound",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:18:45.561Z",
+      "message": "تعديل مشروع (anime): .hack//Gift",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:17:53.865Z",
+      "message": "تعديل مشروع (anime): .hack//Tasogare no Udewa Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:17:42.953Z",
+      "message": "تعديل مشروع (anime): .hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:17:01.081Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain OVA",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:15:47.224Z",
+      "message": "تعديل مشروع (anime): Blue Seed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:14:54.041Z",
+      "message": "تعديل مشروع (anime): Blue Seed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:14:21.250Z",
+      "message": "تعديل مشروع (anime): Blue Seed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T14:13:06.471Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (22 ← 23)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 23,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T14:13:05.791Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (21 ← 22)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 22,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T14:13:05.088Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T14:13:04.391Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T14:13:03.640Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T14:13:03.000Z",
+      "message": "تحديث حلقات مشروع (anime) Adventure Time: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxb74wb6ro9nba8w6",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 4
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T22:59:19.008Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (44 ← 45)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 45,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T22:58:58.161Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain OVA",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T22:58:40.590Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T15:16:57.783Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T15:00:53.265Z",
+      "message": "تعديل مشروع (anime): Viper's Creed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T09:00:21.709Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: نقص حلقة (70 ← 69)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": -1,
+        "episodeNumber": 69,
+        "costChange": -3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T09:00:14.941Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (69 ← 70)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 70,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T09:00:12.894Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:59:29.621Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (68 ← 69)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 69,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-20T08:59:26.085Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:57:32.205Z",
+      "message": "تعديل مشروع (anime): Bâan: Otona no Kyoukai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:56:59.637Z",
+      "message": "تعديل مشروع (anime): Bâan: Otona no Kyoukai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:56:43.654Z",
+      "message": "إضافة مشروع (anime): Bâan: Otona no Kyoukai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:53:23.967Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-20T08:51:28.765Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (67 ← 68)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 68,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T18:36:54.511Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (49 ← 50)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 50,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T17:58:43.208Z",
+      "message": "تعديل مشروع (anime): Yofukashi no Uta Season 2",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-19T17:58:01.190Z",
+      "message": "تحديث حلقات مشروع (anime) Yofukashi no Uta Season 2: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mcdhyd2ppvffm5osogc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqdp5u97tgnv1ryv",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T17:57:56.126Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T14:57:03.414Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T07:24:46.917Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-19T07:24:37.563Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (66 ← 67)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 67,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T07:24:36.859Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (65 ← 66)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 66,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T07:24:36.011Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (64 ← 65)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 65,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T07:24:35.156Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (63 ← 64)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 64,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T07:24:33.220Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (62 ← 63)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 63,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-19T06:28:31.020Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-18T18:41:00.397Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-18T18:40:25.510Z",
+      "message": "تعديل مشروع (anime): Densetsu no Yuusha no Densetsu",
       "details": null
     },
     {
@@ -36116,5 +37136,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-09-18T14:22:19.262Z"
+  "lastCloudExport": "2025-09-21T15:47:46.268Z"
 }
