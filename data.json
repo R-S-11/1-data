@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-09-21T15:45:17.042Z",
+  "lastSaved": "2025-09-24T11:53:20.849Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -23,13 +23,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 46.5,
-      "lastDelivery": "2025-09-21T14:31:13.488Z",
+      "totalFee": 16,
+      "lastDelivery": "2025-09-21T21:23:46.693Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 31,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 46.5
+      "remainingAmount": 16
     },
     {
       "name": "Amira",
@@ -68,14 +68,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 916.5,
-      "lastDelivery": "2025-09-13T12:22:27.105Z",
+      "totalFee": 928.5,
+      "lastDelivery": "2025-09-24T11:42:05.866Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 600,
+      "projectSubtitledEpisodes": 608,
       "manualOrder": 0,
-      "remainingAmount": 15,
+      "remainingAmount": 27,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -93,13 +93,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 332,
-      "lastDelivery": "2025-09-21T14:30:10.040Z",
-      "projectTranslatedEpisodes": 57,
+      "totalFee": 344,
+      "lastDelivery": "2025-09-24T11:48:16.770Z",
+      "projectTranslatedEpisodes": 59,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 76
+      "remainingAmount": 88
     },
     {
       "name": "FREDOM",
@@ -117,7 +117,7 @@
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
       "totalFee": 301,
-      "lastDelivery": "2025-09-21T14:31:13.488Z",
+      "lastDelivery": "2025-09-24T11:48:06.234Z",
       "projectTranslatedEpisodes": 46,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -140,7 +140,7 @@
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
       "totalFee": 294.5,
-      "lastDelivery": "2025-09-21T14:31:04.520Z",
+      "lastDelivery": "2025-09-24T11:46:21.530Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 183,
@@ -163,7 +163,7 @@
       "id": "mfphs1lzh0khptpzly9",
       "createdDate": "2025-09-18T14:14:21.479Z",
       "totalFee": 10,
-      "lastDelivery": "2025-09-21T14:30:10.040Z",
+      "lastDelivery": "2025-09-24T11:44:32.930Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 24,
@@ -176,23 +176,23 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 3212,
+      "amountReceived": 1441.5,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
       "telegramHandle": "https://t.me/absfmhmmod",
       "blog": "https://madaramesub.vercel.app/",
-      "notes": "يُزاد له راتب 100 دولار إشراف على الفريق\nعليه دين 1000 دولار سيتم دفعها عن طريق تقسيط راتب الإشراف 10 أشهر من الشهر 9\\2025 إلى الشهر 6\\2027",
+      "notes": "آلية الراتب:\nمحمد يقبض راتب 500 دولار على الترجمة والتدقيق بشكل ثابت على شرط الالتزام بتسليم يومي\nيضاف عليها 100 دولار إشراف\nيخصم منه 100 دولار لإحدى عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 7\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2073.5,
-      "lastDelivery": "2025-09-21T15:14:41.296Z",
-      "projectTranslatedEpisodes": 136,
-      "projectEditedEpisodes": 868,
+      "totalFee": 1441.5,
+      "lastDelivery": "2025-09-24T11:48:30.691Z",
+      "projectTranslatedEpisodes": 147,
+      "projectEditedEpisodes": 835,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": -1138.5,
+      "remainingAmount": 0,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -211,7 +211,7 @@
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
       "totalFee": 498,
-      "lastDelivery": "2025-09-21T14:31:04.520Z",
+      "lastDelivery": "2025-09-24T11:46:21.530Z",
       "projectTranslatedEpisodes": 83,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -234,7 +234,7 @@
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
       "totalFee": 174,
-      "lastDelivery": "2025-09-21T14:29:47.744Z",
+      "lastDelivery": "2025-09-24T11:48:30.691Z",
       "projectTranslatedEpisodes": 34,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -257,13 +257,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 222.5,
-      "lastDelivery": "2025-09-21T14:29:25.777Z",
+      "totalFee": 240.5,
+      "lastDelivery": "2025-09-24T11:45:49.555Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 86,
-      "remainingAmount": 14
+      "projectSubtitledEpisodes": 98,
+      "remainingAmount": 32
     },
     {
       "name": "NaNa",
@@ -280,13 +280,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 398,
-      "lastDelivery": "2025-09-21T14:29:13.344Z",
-      "projectTranslatedEpisodes": 66,
+      "totalFee": 410,
+      "lastDelivery": "2025-09-24T11:48:26.594Z",
+      "projectTranslatedEpisodes": 68,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 60
+      "remainingAmount": 72
     },
     {
       "name": "Nouralhadi",
@@ -304,7 +304,7 @@
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
       "totalFee": 602,
-      "lastDelivery": "2025-09-21T14:28:48.024Z",
+      "lastDelivery": "2025-09-24T11:48:36.754Z",
       "projectTranslatedEpisodes": 78,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -327,10 +327,10 @@
       "id": "mbfqpfs19f4wc16830s",
       "createdDate": "2025-06-02T23:47:45.313Z",
       "totalFee": 0,
-      "lastDelivery": "2025-09-19T17:58:43.207Z",
+      "lastDelivery": "2025-09-24T11:45:58.922Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 102,
+      "projectTimedEpisodes": 113,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -340,7 +340,7 @@
       "roles": [
         "editor"
       ],
-      "amountReceived": 350,
+      "amountReceived": 341.5,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "",
       "discordHandle": "",
@@ -349,13 +349,13 @@
       "notes": "",
       "id": "mcivqds8i8y6g787pjf",
       "createdDate": "2025-06-30T09:11:28.328Z",
-      "totalFee": 403,
-      "lastDelivery": "2025-09-20T09:00:12.894Z",
+      "totalFee": 446.5,
+      "lastDelivery": "2025-09-24T11:53:20.834Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 125,
+      "projectEditedEpisodes": 146,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 53
+      "remainingAmount": 105
     }
   ],
   "anime": [
@@ -369,11 +369,11 @@
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": -256,
+      "editingBonus": 0,
       "timerBonus": 3,
       "subtitlerBonus": 0,
       "rawUrl": "",
@@ -398,7 +398,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 627,
+      "totalCost": 563,
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
@@ -1874,7 +1874,7 @@
       "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": null,
-      "translationPrice": 8,
+      "translationPrice": 0,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -1903,21 +1903,22 @@
       "duration": "11 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.88,
-      "totalCost": 16,
+      "totalCost": 0,
       "id": "mbft85abvbjq4y5j9qd",
       "createdDate": "2025-06-03T00:58:17.411Z",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "name": "Jungle Book Shounen Mowgli",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 25,
+      "completedEpisodes": 36,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": "mbfqpfs19f4wc16830s",
       "subtitlerId": "mbfqj1wani0rnl0npq",
-      "translationPrice": 15,
+      "translationPrice": 0,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 1.5,
@@ -1926,7 +1927,7 @@
       "timerBonus": 0,
       "subtitlerBonus": -15,
       "rawUrl": "https://nyaa.si/view/926039",
-      "notes": "ترجمة Ribaibu-sama\nخصم 10 حلقات من التوقيت لأنها أخذت أجرة ترجمة على حلقات لم نستعملها وبالتالي التوقيت موجود",
+      "notes": "",
       "malId": "2569",
       "url": "https://myanimelist.net/anime/2569/Jungle_Book_Shounen_Mowgli",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/5/12752l.jpg",
@@ -1944,10 +1945,11 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 6.99,
-      "totalCost": 397.5,
+      "totalCost": 39,
       "id": "mbftaq90xvwmxb5liu9",
       "createdDate": "2025-06-03T01:00:17.892Z",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "name": "Jackie Chan Adventures",
@@ -2004,11 +2006,11 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 4,
-      "editingPrice": 3,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": -60,
+      "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/torrent/4243725/Adventure-Time-2010-Season-1-10-S01-S10-Extras-1080p-BluRay-x265-HEVC-10bit-AAC-2-0-ImE-QxR/",
@@ -2033,7 +2035,7 @@
       "duration": "10 min per ep",
       "rating": "PG - Children",
       "score": 7.4,
-      "totalCost": 101,
+      "totalCost": 92,
       "id": "mbgxb74wb6ro9nba8w6",
       "createdDate": "2025-06-03T19:40:24.416Z",
       "synopsis": "",
@@ -2139,7 +2141,7 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -2164,7 +2166,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 450,
+      "totalCost": 270,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null,
@@ -3365,14 +3367,14 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 60,
+      "totalCost": 36,
       "malId": "21039",
       "url": "https://myanimelist.net/anime/21039/Gatchaman_Crowds_Insight",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/11/74978l.jpg",
@@ -7364,22 +7366,22 @@
       "id": "mbhnrbk6frp6z1er96q",
       "createdDate": "2025-06-04T08:00:46.662Z",
       "name": "Igano Kabamaru",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 24,
       "completedEpisodes": 24,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": "mfphs1lzh0khptpzly9",
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": -68,
+      "editingBonus": 0,
       "timerBonus": -38,
       "subtitlerBonus": 0,
-      "totalCost": 182,
+      "totalCost": 154,
       "malId": "2762",
       "url": "https://myanimelist.net/anime/2762/Igano_Kabamaru",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/9/62909l.jpg",
@@ -7401,7 +7403,7 @@
       "score": 7.78,
       "rawUrl": "https://nyaa.si/view/306468",
       "notes": "After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school—which turns out to have weird quirks of its own. \n\n(Source: ANN)",
-      "completionDate": null,
+      "completionDate": "2025-09-24T11:44:32.930Z",
       "synopsis": ""
     },
     {
@@ -7709,7 +7711,7 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -15576,20 +15578,20 @@
       "name": "Clannad",
       "status": "جارٍ",
       "totalEpisodes": 23,
-      "completedEpisodes": 10,
+      "completedEpisodes": 12,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 100,
+      "totalCost": 72,
       "malId": "2167",
       "url": "https://myanimelist.net/anime/2167/Clannad",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
@@ -15962,7 +15964,7 @@
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 15,
+      "translationPrice": 0,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -15970,7 +15972,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 60,
+      "totalCost": 0,
       "malId": "339",
       "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg",
@@ -19882,7 +19884,7 @@
     },
     {
       "name": "Wolf's Rain",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 26,
       "completedEpisodes": 26,
       "notes": "",
@@ -19892,7 +19894,7 @@
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 4,
-      "timerPrice": 1.5,
+      "timerPrice": 0.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -19918,10 +19920,10 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.79,
-      "totalCost": 325,
+      "totalCost": 299,
       "id": "mbt6weeo47ndt7wdozu",
       "createdDate": "2025-06-12T09:42:04.272Z",
-      "completionDate": null
+      "completionDate": "2025-09-21T21:23:46.693Z"
     },
     {
       "name": "Elf 17",
@@ -20337,14 +20339,14 @@
       "name": ".hack//Roots",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 11,
+      "completedEpisodes": 13,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 4,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -20371,7 +20373,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 110,
+      "totalCost": 78,
       "id": "mci8oll3jzorwtp2su",
       "createdDate": "2025-06-29T22:26:13.959Z",
       "completionDate": null
@@ -20890,11 +20892,11 @@
       "completedEpisodes": 11,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 7,
-      "editingPrice": 6,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 2,
       "translationBonus": -21,
@@ -20918,7 +20920,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 149,
+      "totalCost": 83,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -21265,7 +21267,7 @@
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 4,
-      "timerPrice": 1.5,
+      "timerPrice": 0.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -21290,7 +21292,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 50,
+      "totalCost": 46,
       "id": "meh9zwe7g5f1jr3xctl",
       "createdDate": "2025-08-18T15:34:39.295Z",
       "completionDate": "2025-08-18T15:34:39.295Z"
@@ -21920,9 +21922,9 @@
       "editorId": null,
       "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
-      "translationPrice": 1.5,
+      "translationPrice": 1,
       "editingPrice": 0,
-      "timerPrice": 1.5,
+      "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -21947,7 +21949,7 @@
       "duration": "4 min",
       "rating": "G - All Ages",
       "score": 7.46,
-      "totalCost": 3,
+      "totalCost": 2,
       "id": "mfpi1ej74fdqvhd15a4",
       "createdDate": "2025-09-18T14:21:38.131Z",
       "completionDate": "2025-09-18T14:21:38.131Z"
@@ -21957,12 +21959,12 @@
       "status": "مكتمل",
       "totalEpisodes": 1,
       "completedEpisodes": 1,
-      "notes": "",
+      "notes": "ترجمة اللوحات فقط من قبل مادرامي والحلقة من ترجمة عمر",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 9,
+      "translationPrice": 4.5,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -21988,10 +21990,52 @@
       "duration": "18 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 9,
+      "totalCost": 4.5,
       "id": "mfs1b9tx856n41ionqr",
       "createdDate": "2025-09-20T08:56:43.653Z",
       "completionDate": "2025-09-20T08:56:43.653Z"
+    },
+    {
+      "name": "Crayon Shin-chan",
+      "status": "جارٍ",
+      "totalEpisodes": 0,
+      "completedEpisodes": 2,
+      "notes": "",
+      "translatorId": null,
+      "editorId": "mbe8ktw6qz40f9qtp7",
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "There is no such thing as an uneventful day in the life of kindergartener Shinnosuke \"Shin-chan\" Nohara. The five-year-old is a cut above the most troublesome, perverted, and shameless kid one can imagine. Shin-chan is almost always engaged in questionable activities such as forgetting about a friend during hide and seek, sumo wrestling for love, performing various gags including the notorious \"elephant\" in public, and flirting with college girls. The exemplary troublemaker has done it all and has no plans to stop anytime soon.\n\nCrayon Shin-chan follows the daily shenanigans of Shin-chan with his group of friends, parading around as the self-proclaimed \"Kasukabe Defense Force.\" The adults witnessing these shenanigans unfold can't help but adore Shin-chan, as he keeps them entertained while unintentionally solving their daily troubles through his mindless antics—leaving himself as the only problem they do not know what to do with.\n\n[Written by MAL Rewrite]",
+      "malId": "966",
+      "url": "https://myanimelist.net/anime/966/Crayon_Shin-chan",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/10/59897l.jpg",
+      "animeType": "TV",
+      "studio": "Shin-Ei Animation",
+      "source": "Manga",
+      "premiered": "1992-04-13",
+      "genres": [
+        "Comedy",
+        "Ecchi"
+      ],
+      "themes": [
+        "School"
+      ],
+      "duration": "21 min",
+      "rating": "G - All Ages",
+      "score": 7.81,
+      "totalCost": 0,
+      "id": "mfua59z0r9bfzght3c",
+      "createdDate": "2025-09-21T22:39:32.796Z",
+      "completionDate": null
     }
   ],
   "series": [
@@ -22119,7 +22163,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 50,
+      "completedEpisodes": 51,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22151,7 +22195,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 240,
+      "totalCost": 245,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -22868,7 +22912,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 69,
+      "completedEpisodes": 87,
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
@@ -22882,7 +22926,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 0 من الموسم الرابع",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 18 من الموسم الرابع",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -22901,7 +22945,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 210,
+      "totalCost": 264,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -23113,16 +23157,16 @@
       "name": "Rake",
       "status": "جارٍ",
       "totalEpisodes": 40,
-      "completedEpisodes": 6,
+      "completedEpisodes": 8,
       "notes": "ترجمة أول موسمين فقط",
       "translatorId": null,
       "editorId": "mcivqds8i8y6g787pjf",
       "timerId": null,
-      "subtitlerId": null,
+      "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
-      "editingPrice": 3,
+      "editingPrice": 0.5,
       "timerPrice": 0,
-      "subtitlerPrice": 0,
+      "subtitlerPrice": 1.5,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
@@ -23145,7 +23189,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "55",
-      "totalCost": 18,
+      "totalCost": 16,
       "id": "mefxa9m74udsvzuip13",
       "createdDate": "2025-08-17T16:51:01.807Z",
       "completionDate": null
@@ -23153,8 +23197,798 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-09-21T15:46:12.736Z",
+      "timestamp": "2025-09-24T11:54:14.683Z",
       "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:53:20.834Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:52:49.914Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:49:23.242Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:36.754Z",
+      "message": "تعديل مشروع (anime): Alps no Shoujo Heidi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:30.691Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:26.594Z",
+      "message": "تعديل مشروع (anime): .hack//Roots",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:16.770Z",
+      "message": "تعديل مشروع (anime): Clannad",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:09.762Z",
+      "message": "تعديل مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:06.234Z",
+      "message": "تعديل مشروع (anime): Densetsu no Yuusha no Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:48:02.178Z",
+      "message": "تعديل مشروع (anime): Densetsu no Yuusha no Densetsu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:46:38.226Z",
+      "message": "تعديل مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:46:29.106Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:46:21.530Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:46:18.123Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:46:05.010Z",
+      "message": "تعديل مشروع (anime): Serial Experiments Lain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:45:58.922Z",
+      "message": "تعديل مشروع (anime): Sakigake!! Cromartie Koukou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:45:49.555Z",
+      "message": "تعديل مشروع (anime): Jungle Book Shounen Mowgli",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:45:45.353Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (35 ← 36)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 36,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:44.673Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (34 ← 35)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 35,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:44.369Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (33 ← 34)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 34,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:44.185Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (32 ← 33)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 33,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:43.713Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (31 ← 32)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 32,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:43.233Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (30 ← 31)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 31,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:42.889Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (29 ← 30)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 30,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:42.705Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (28 ← 29)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 29,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:42.521Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (27 ← 28)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 28,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:42.337Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (26 ← 27)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 27,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:42.129Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (25 ← 26)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 26,
+        "costChange": 1.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T11:45:22.058Z",
+      "message": "تعديل مشروع (anime): Jungle Book Shounen Mowgli",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:45:04.442Z",
+      "message": "تعديل مشروع (anime): Jungle Book Shounen Mowgli",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:44:32.930Z",
+      "message": "تعديل مشروع (anime): Igano Kabamaru",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:44:15.994Z",
+      "message": "تعديل مشروع (anime): Gatchaman Crowds Insight",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:44:05.690Z",
+      "message": "تعديل مشروع (anime): Gachiakuta",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:43:49.259Z",
+      "message": "تعديل مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:43:38.490Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:42:23.945Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:42:13.578Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:42:05.866Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:40:28.737Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:39:58.426Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:39:45.929Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:39:10.353Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:38:46.089Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:37:42.225Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:37:12.793Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:36:56.466Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:36:07.761Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:35:46.681Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:33:40.194Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:33:04.201Z",
+      "message": "تعديل عضو: بلال وسعيد",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:32:21.746Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:32:00.034Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:30:16.955Z",
+      "message": "تعديل مشروع (series): Rake",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T11:28:35.354Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-24T10:59:44.057Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-24T07:43:45.008Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (50 ← 51)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 51,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mcivqds8i8y6g787pjf",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-23T19:16:27.397Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-23T13:31:06.551Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-23T12:06:55.289Z",
+      "message": "تعديل مشروع (anime): Bâan: Otona no Kyoukai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-22T10:04:57.328Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-22T10:03:53.257Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T22:41:43.915Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 4,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T22:41:36.755Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: نقص حلقة (2 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 1,
+        "costChange": -4,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 4
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-21T22:39:32.796Z",
+      "message": "إضافة مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T21:24:26.390Z",
+      "message": "تعديل مشروع (anime): Furiko",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T21:24:03.614Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain OVA",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T21:23:46.694Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
+      "details": null
+    },
+    {
+      "timestamp": "2025-09-21T21:23:36.911Z",
+      "message": "تعديل مشروع (anime): Wolf's Rain",
       "details": null
     },
     {
@@ -37136,5 +37970,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-09-21T15:47:46.268Z"
+  "lastCloudExport": "2025-09-24T11:54:18.859Z"
 }
