@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-09-30T11:21:23.526Z",
+  "lastSaved": "2025-10-04T08:28:32.511Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 17.5,
+      "totalFee": 46.5,
       "lastDelivery": "2025-09-21T21:23:46.693Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 31,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "projectTimedEpisodes": 42,
+      "projectSubtitledEpisodes": 9,
+      "remainingAmount": 29
     },
     {
       "name": "Amira",
@@ -56,11 +56,34 @@
       "remainingAmount": 0
     },
     {
+      "name": "Carla",
+      "avatarUrl": "https://www.shutterstock.com/image-illustration/name-carla-made-shiny-diamonds-260nw-151960733.jpg",
+      "roles": [
+        "translator"
+      ],
+      "amountReceived": 0,
+      "paymentMethod": "",
+      "twitterHandle": "",
+      "discordHandle": "carla024407",
+      "telegramHandle": "",
+      "blog": "",
+      "notes": "",
+      "id": "mg93ntisd2e0004kvt",
+      "createdDate": "2025-10-02T07:34:33.268Z",
+      "totalFee": 12,
+      "lastDelivery": "2025-10-03T11:14:19.396Z",
+      "projectTranslatedEpisodes": 2,
+      "projectEditedEpisodes": 0,
+      "projectTimedEpisodes": 0,
+      "projectSubtitledEpisodes": 0,
+      "remainingAmount": 12
+    },
+    {
       "name": "Dina El- Shrief",
       "roles": [
         "subtitler"
       ],
-      "amountReceived": 901.5,
+      "amountReceived": 952.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
       "discordHandle": "",
@@ -76,7 +99,7 @@
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 624,
       "manualOrder": 0,
-      "remainingAmount": 51,
+      "remainingAmount": 0,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -94,13 +117,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 369,
+      "totalFee": 381,
       "lastDelivery": "2025-09-24T11:48:16.770Z",
-      "projectTranslatedEpisodes": 63,
+      "projectTranslatedEpisodes": 65,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 6
+      "remainingAmount": 18
     },
     {
       "name": "FREDOM",
@@ -117,13 +140,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 423,
+      "totalFee": 458,
       "lastDelivery": "2025-09-25T17:55:13.731Z",
-      "projectTranslatedEpisodes": 64,
+      "projectTranslatedEpisodes": 69,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 122
+      "remainingAmount": 157
     },
     {
       "name": "Goreme",
@@ -140,13 +163,13 @@
       "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 303.5,
+      "totalFee": 290.5,
       "lastDelivery": "2025-09-24T11:46:21.530Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 192,
+      "projectTimedEpisodes": 181,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 33
+      "remainingAmount": 20
     },
     {
       "name": "Hacker-Kun",
@@ -189,7 +212,7 @@
       "totalFee": 1441.5,
       "lastDelivery": "2025-09-25T10:40:41.884Z",
       "projectTranslatedEpisodes": 148,
-      "projectEditedEpisodes": 866,
+      "projectEditedEpisodes": 871,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
@@ -258,13 +281,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 253,
+      "totalFee": 254.5,
       "lastDelivery": "2025-09-28T20:24:01.404Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 106,
-      "remainingAmount": 44.5
+      "projectSubtitledEpisodes": 107,
+      "remainingAmount": 46
     },
     {
       "name": "NaNa",
@@ -281,13 +304,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 422,
+      "totalFee": 434,
       "lastDelivery": "2025-09-24T11:48:26.594Z",
-      "projectTranslatedEpisodes": 70,
+      "projectTranslatedEpisodes": 72,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 12
     },
     {
       "name": "Nouralhadi",
@@ -304,13 +327,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 614,
+      "totalFee": 620,
       "lastDelivery": "2025-09-24T11:48:36.754Z",
-      "projectTranslatedEpisodes": 80,
+      "projectTranslatedEpisodes": 81,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 6
+      "remainingAmount": 12
     },
     {
       "name": "SHX",
@@ -350,13 +373,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 194,
+      "totalFee": 197.5,
       "lastDelivery": "2025-09-28T20:24:01.404Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 76,
+      "projectEditedEpisodes": 77,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 3.5
     },
     {
       "name": "مدقق س",
@@ -652,12 +675,12 @@
       "completedEpisodes": 9,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
-      "subtitlerId": null,
+      "timerId": "mfphust6wk7uuqpxac",
+      "subtitlerId": "mfphust6wk7uuqpxac",
       "translationPrice": 6,
       "editingPrice": 4,
-      "timerPrice": 1,
-      "subtitlerPrice": 0,
+      "timerPrice": 1.5,
+      "subtitlerPrice": 1.5,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
@@ -682,7 +705,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.07,
-      "totalCost": 99,
+      "totalCost": 117,
       "id": "mbfr7l8bgozfopiywhv",
       "createdDate": "2025-06-03T00:01:52.187Z",
       "completionDate": "2025-06-03T00:01:52.187Z",
@@ -2159,7 +2182,7 @@
       "name": "Alps no Shoujo Heidi",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 47,
+      "completedEpisodes": 48,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
       "timerId": null,
@@ -2190,7 +2213,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 7.41,
-      "totalCost": 282,
+      "totalCost": 288,
       "id": "mbgxkk14cdl8i6cj44",
       "createdDate": "2025-06-03T19:47:41.032Z",
       "completionDate": null,
@@ -7652,7 +7675,7 @@
       "name": "Densetsu no Yuusha no Densetsu",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 17,
+      "completedEpisodes": 22,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
@@ -7665,7 +7688,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 119,
+      "totalCost": 154,
       "malId": "8086",
       "url": "https://myanimelist.net/anime/8086/Densetsu_no_Yuusha_no_Densetsu",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/8/73651l.jpg",
@@ -9780,14 +9803,14 @@
       "id": "mbhnrbk74l5gpv3eiov",
       "createdDate": "2025-06-04T08:00:46.663Z",
       "name": "Oira Uchuu no Tankoufu",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 2,
-      "completedEpisodes": 0,
-      "translatorId": null,
+      "completedEpisodes": 2,
+      "translatorId": "mg93ntisd2e0004kvt",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -9795,7 +9818,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 0,
+      "totalCost": 12,
       "malId": "1867",
       "url": "https://myanimelist.net/anime/1867/Oira_Uchuu_no_Tankoufu",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/3/75572l.jpg",
@@ -9812,10 +9835,11 @@
       ],
       "duration": "25 min per ep",
       "rating": "R - 17+ (violence & profanity)",
-      "score": 6.35,
-      "rawUrl": "",
-      "notes": "In the mid-21st century, mankind has begun the exploration of space, and one company, Planet Catcher Corporation, has pioneered capturing asteroids and comets to mine the resources within them for use on Earth. On one such asteroid, Tortatis, lives 12-year-old Nanbu Ushiwaka - the only child ever to be born in space and survive.\n\nBut survival itself is no longer guaranteed - a military satellite triggers a disaster during a operation to capture Halley's Comet, and Ushiwaka and his fellow colonists must find a way to survive when both their country and their company abandon them. Can they escape before the nuclear reactor on the asteroid melts down? Or are they doomed to die as they lived, among the stars?\n\n(Source: AniDB)",
-      "completionDate": null
+      "score": 6.34,
+      "rawUrl": "https://nyaa.si/view/1791403",
+      "notes": "",
+      "completionDate": "2025-10-03T11:14:19.396Z",
+      "synopsis": "In the mid-21st century, mankind has begun the exploration of space, and one company, Planet Catcher Corporation, has pioneered capturing asteroids and comets to mine the resources within them for use on Earth. On one such asteroid, Tortatis, lives 12-year-old Nanbu Ushiwaka - the only child ever to be born in space and survive.\n\nBut survival itself is no longer guaranteed - a military satellite triggers a disaster during a operation to capture Halley's Comet, and Ushiwaka and his fellow colonists must find a way to survive when both their country and their company abandon them. Can they escape before the nuclear reactor on the asteroid melts down? Or are they doomed to die as they lived, among the stars?\n\n(Source: AniDB)"
     },
     {
       "id": "mbhnrbk7mtgin9ilgp",
@@ -15525,7 +15549,7 @@
       "name": "Clannad",
       "status": "جارٍ",
       "totalEpisodes": 23,
-      "completedEpisodes": 15,
+      "completedEpisodes": 17,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
       "timerId": null,
@@ -15538,7 +15562,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 90,
+      "totalCost": 102,
       "malId": "2167",
       "url": "https://myanimelist.net/anime/2167/Clannad",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
@@ -19961,11 +19985,11 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 13,
       "editingPrice": 9,
-      "timerPrice": 2,
+      "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -19988,7 +20012,7 @@
       "duration": "54 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.73,
-      "totalCost": 24,
+      "totalCost": 23,
       "id": "mby2vffujbw87qhormq",
       "createdDate": "2025-06-15T19:48:11.370Z",
       "completionDate": "2025-06-17T13:35:34.186Z"
@@ -20001,11 +20025,11 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 15,
       "editingPrice": 10,
-      "timerPrice": 2,
+      "timerPrice": 1,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -20030,7 +20054,7 @@
       "duration": "1 hr",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.92,
-      "totalCost": 27,
+      "totalCost": 26,
       "id": "mby2wzv5mdogbljkqyn",
       "createdDate": "2025-06-15T19:49:24.497Z",
       "completionDate": "2025-06-26T05:48:37.319Z"
@@ -20286,7 +20310,7 @@
       "name": ".hack//Roots",
       "status": "جارٍ",
       "totalEpisodes": 26,
-      "completedEpisodes": 15,
+      "completedEpisodes": 17,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
@@ -20320,7 +20344,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 90,
+      "totalCost": 102,
       "id": "mci8oll3jzorwtp2su",
       "createdDate": "2025-06-29T22:26:13.959Z",
       "completionDate": null
@@ -22153,7 +22177,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 52,
+      "completedEpisodes": 53,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -22185,7 +22209,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 250,
+      "totalCost": 255,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -23186,6 +23210,401 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-10-04T08:28:32.500Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-04T07:15:47.339Z",
+      "message": "تحديث حلقات مشروع (anime) Densetsu no Yuusha no Densetsu: زيادة حلقة (21 ← 22)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6l4v1ji500we",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 22,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:15:46.379Z",
+      "message": "تحديث حلقات مشروع (anime) Densetsu no Yuusha no Densetsu: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6l4v1ji500we",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:15:46.195Z",
+      "message": "تحديث حلقات مشروع (anime) Densetsu no Yuusha no Densetsu: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6l4v1ji500we",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:15:46.027Z",
+      "message": "تحديث حلقات مشروع (anime) Densetsu no Yuusha no Densetsu: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6l4v1ji500we",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-04T07:03:54.829Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-03T17:56:04.004Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (52 ← 53)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 53,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-03T12:33:46.401Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:33:37.034Z",
+      "message": "تعديل مشروع (anime): Munto: Toki no Kabe wo Koete",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:32:30.025Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:30:00.169Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:29:57.226Z",
+      "message": "تعديل مشروع (anime): Munto",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:22:14.178Z",
+      "message": "تعديل مشروع (anime): Munto",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:22:08.067Z",
+      "message": "تعديل مشروع (anime): Munto: Toki no Kabe wo Koete",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T12:21:23.275Z",
+      "message": "تعديل مشروع (anime): Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T11:14:19.397Z",
+      "message": "تعديل مشروع (anime): Oira Uchuu no Tankoufu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-03T10:36:31.932Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-02T08:09:26.962Z",
+      "message": "تعديل مشروع (anime): Oira Uchuu no Tankoufu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-02T08:09:04.995Z",
+      "message": "تعديل مشروع (anime): Oira Uchuu no Tankoufu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-02T07:34:33.268Z",
+      "message": "إضافة عضو: Carla",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-02T05:46:28.447Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaekhjalfe14k",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-01T17:47:09.351Z",
+      "message": "تحديث حلقات مشروع (anime) Alps no Shoujo Heidi: زيادة حلقة (47 ← 48)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbgxkk14cdl8i6cj44",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 48,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-30T14:40:59.894Z",
+      "message": "تحديث حلقات مشروع (anime) Densetsu no Yuusha no Densetsu: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk6l4v1ji500we",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-09-30T14:40:45.238Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-09-30T11:21:23.515Z",
       "message": "تعديل عضو: MugiHimo",
@@ -39860,5 +40279,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-09-30T11:21:48.950Z"
+  "lastCloudExport": "2025-10-04T08:28:55.683Z"
 }
