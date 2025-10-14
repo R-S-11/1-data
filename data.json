@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-10-13T12:25:58.167Z",
+  "lastSaved": "2025-10-14T22:39:48.279Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 81,
-      "lastDelivery": "2025-10-13T12:10:21.531Z",
+      "totalFee": 88,
+      "lastDelivery": "2025-10-14T22:16:40.859Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 54,
+      "projectTimedEpisodes": 58,
       "projectSubtitledEpisodes": 9,
-      "remainingAmount": 63.5
+      "remainingAmount": 70.5
     },
     {
       "name": "Amira",
@@ -70,13 +70,13 @@
       "notes": "",
       "id": "mg93ntisd2e0004kvt",
       "createdDate": "2025-10-02T07:34:33.268Z",
-      "totalFee": 98,
+      "totalFee": 119,
       "lastDelivery": "2025-10-13T12:10:21.531Z",
-      "projectTranslatedEpisodes": 12,
+      "projectTranslatedEpisodes": 15,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 98
+      "remainingAmount": 119
     },
     {
       "name": "Dina El- Shrief",
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 354,
-      "lastDelivery": "2025-10-12T20:03:37.162Z",
-      "projectTranslatedEpisodes": 59,
+      "totalFee": 366,
+      "lastDelivery": "2025-10-14T22:35:09.667Z",
+      "projectTranslatedEpisodes": 61,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 54
+      "remainingAmount": 66
     },
     {
       "name": "FREDOM",
@@ -154,7 +154,7 @@
       "roles": [
         "timer"
       ],
-      "amountReceived": 270.5,
+      "amountReceived": 198.5,
       "paymentMethod": "Binance ID: 1088827928",
       "twitterHandle": "@Goreme6",
       "discordHandle": "goreme",
@@ -163,13 +163,13 @@
       "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
       "id": "mbfqkz37wwc5wvr72qr",
       "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 290.5,
+      "totalFee": 198.5,
       "lastDelivery": "2025-09-24T11:46:21.530Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 181,
+      "projectTimedEpisodes": 92,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 20
+      "remainingAmount": 0
     },
     {
       "name": "Hacker-Kun",
@@ -210,9 +210,9 @@
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
       "totalFee": 1441.5,
-      "lastDelivery": "2025-10-13T04:05:20.294Z",
-      "projectTranslatedEpisodes": 153,
-      "projectEditedEpisodes": 873,
+      "lastDelivery": "2025-10-14T22:38:22.955Z",
+      "projectTranslatedEpisodes": 154,
+      "projectEditedEpisodes": 885,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
@@ -234,13 +234,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 552,
-      "lastDelivery": "2025-09-24T11:46:21.530Z",
-      "projectTranslatedEpisodes": 92,
+      "totalFee": 624,
+      "lastDelivery": "2025-10-14T22:39:48.268Z",
+      "projectTranslatedEpisodes": 104,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 54
+      "remainingAmount": 126
     },
     {
       "name": "MugiHimo",
@@ -249,7 +249,7 @@
         "translator",
         "subtitler"
       ],
-      "amountReceived": 191,
+      "amountReceived": 195,
       "paymentMethod": "Binance ID: 1016377551",
       "twitterHandle": "@MugiHimo_22",
       "discordHandle": "mugiwara0896",
@@ -259,21 +259,22 @@
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
       "totalFee": 255,
-      "lastDelivery": "2025-10-13T12:10:17.507Z",
+      "lastDelivery": "2025-10-14T22:16:40.859Z",
       "projectTranslatedEpisodes": 56,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 14,
-      "remainingAmount": 64
+      "remainingAmount": 60
     },
     {
       "name": "N_Angle",
       "avatarUrl": "https://pbs.twimg.com/profile_images/1712866505770106883/9NqtSD-9_400x400.jpg",
       "roles": [
         "translator",
+        "timer",
         "subtitler"
       ],
-      "amountReceived": 188.5,
+      "amountReceived": 186.5,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -282,13 +283,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 238,
-      "lastDelivery": "2025-10-04T15:34:24.039Z",
+      "totalFee": 240.5,
+      "lastDelivery": "2025-10-14T22:18:16.476Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 98,
-      "remainingAmount": 49.5
+      "projectTimedEpisodes": 2,
+      "projectSubtitledEpisodes": 99,
+      "remainingAmount": 54
     },
     {
       "name": "NaNa",
@@ -296,7 +297,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 416,
+      "amountReceived": 414,
       "paymentMethod": "Binance ID: 505876679",
       "twitterHandle": "@Nawwar_Alhadi",
       "discordHandle": "nawwar_90",
@@ -311,7 +312,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 36
+      "remainingAmount": 38
     },
     {
       "name": "Nouralhadi",
@@ -355,7 +356,7 @@
       "lastDelivery": "2025-10-13T12:09:54.291Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 111,
+      "projectTimedEpisodes": 109,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -374,13 +375,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 205,
+      "totalFee": 208.5,
       "lastDelivery": "2025-10-09T19:10:23.887Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 86,
+      "projectEditedEpisodes": 87,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 11
+      "remainingAmount": 14.5
     },
     {
       "name": "مدقق س",
@@ -411,21 +412,21 @@
       "name": "Touch",
       "status": "جارٍ",
       "totalEpisodes": 101,
-      "completedEpisodes": 89,
+      "completedEpisodes": 101,
       "translatorId": "mbfpow5fa4niiy1souq",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 0,
-      "timerPrice": 1,
+      "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 3,
+      "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "notes": "الخام موجود على تيلغرام\nتم زيادة 3 دولار أجرة كارا لجيرومي",
+      "notes": "الخام موجود على تيلغرام",
       "malId": "1065",
       "url": "https://myanimelist.net/anime/1065/Touch",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/3/53087l.jpg",
@@ -446,7 +447,7 @@
       "duration": "25 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.98,
-      "totalCost": 626,
+      "totalCost": 606,
       "id": "mbedf4coz3twfmn7ao",
       "createdDate": "2025-06-02T00:48:02.760Z",
       "manualOrder": 1,
@@ -3325,14 +3326,14 @@
       "id": "mbhnrbk5hbws6o542c6",
       "createdDate": "2025-06-04T08:00:46.661Z",
       "name": "Flag",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 13,
       "completedEpisodes": 0,
-      "translatorId": null,
+      "translatorId": "mbfpow5fa4niiy1souq",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -3357,9 +3358,10 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.12,
-      "rawUrl": "",
-      "notes": "In 20xx, a civil war broke out in a small country in Asia in spite of the dispatch of UN forces. But a picture taken by accident in the battlefield accelerates the peace process: a photograph of a flag, which became the symbol of peace. However, just before the peace agreement is finalized, the flag is stolen by an armed extremist group in order to obstruct the truce. To rescue the flag, the UN sends the Special Development Command (SDC, which is armed with the High Agility Versatile Weapon Carrier (HAVWC)), along with an embedded photojournalist to record their activities. That photojournalist is Saeko Shirasu—the young camerawoman who took the picture of the flag.\n\n (Source: ANN)",
-      "completionDate": null
+      "rawUrl": "https://nyaa.si/view/1726033",
+      "notes": "",
+      "completionDate": null,
+      "synopsis": "In 20xx, a civil war broke out in a small country in Asia in spite of the dispatch of UN forces. But a picture taken by accident in the battlefield accelerates the peace process: a photograph of a flag, which became the symbol of peace. However, just before the peace agreement is finalized, the flag is stolen by an armed extremist group in order to obstruct the truce. To rescue the flag, the UN sends the Special Development Command (SDC, which is armed with the High Agility Versatile Weapon Carrier (HAVWC)), along with an embedded photojournalist to record their activities. That photojournalist is Saeko Shirasu—the young camerawoman who took the picture of the flag.\n\n (Source: ANN)"
     },
     {
       "id": "mbhnrbk52yuun7ch9vd",
@@ -22062,11 +22064,11 @@
       "notes": "",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": null,
+      "timerId": "mbfqj1wani0rnl0npq",
       "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 0,
       "editingPrice": 0,
-      "timerPrice": 0,
+      "timerPrice": 0.5,
       "subtitlerPrice": 1,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -22090,9 +22092,10 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 2,
+      "totalCost": 3,
       "id": "mgcfolyf7iw3so3vpga",
-      "createdDate": "2025-10-04T15:34:24.039Z"
+      "createdDate": "2025-10-04T15:34:24.039Z",
+      "completionDate": null
     },
     {
       "name": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
@@ -23003,7 +23006,7 @@
       "name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 3,
+      "completedEpisodes": 4,
       "notes": "2 دولار أجرة توقيت الشارتين إضافية للمنسق",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23036,7 +23039,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 8,
+      "totalCost": 10,
       "id": "mggvaaqqogq7of7l8l",
       "createdDate": "2025-10-07T18:02:14.882Z",
       "completionDate": null
@@ -23046,18 +23049,18 @@
       "status": "جارٍ",
       "totalEpisodes": 12,
       "completedEpisodes": 2,
-      "notes": "",
+      "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 0,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 0,
+      "timerBonus": -2,
       "subtitlerBonus": 0,
       "rawUrl": "",
       "synopsis": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin. Between his suspiciously high starting stats and too many details that don't fit, Akira is sure something is wrong. But digging into royal secrets is a dangerous game, and when Akira uncovers an evil scheme, he also makes a powerful enemy—the very king who brought him to this world! With the help of the elven spirit medium Amelia, can he find the power to set things right, and get his revenge?\n\n(Source: Seven Seas Entertainment)",
@@ -23079,7 +23082,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.48,
-      "totalCost": 18,
+      "totalCost": 20,
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
       "completionDate": null
@@ -23088,7 +23091,7 @@
       "name": "Kijin Gentoushou",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 6,
+      "completedEpisodes": 8,
       "notes": "",
       "translatorId": "mg93ntisd2e0004kvt",
       "editorId": null,
@@ -23122,7 +23125,7 @@
       "duration": "25 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 7.32,
-      "totalCost": 36,
+      "totalCost": 48,
       "id": "mgjsf40vksg2u5trp3",
       "createdDate": "2025-10-09T19:05:19.135Z"
     },
@@ -23130,7 +23133,7 @@
       "name": "Wandance",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 1,
+      "completedEpisodes": 2,
       "notes": "تم إضافة أجرة توقيت الشارتين",
       "translatorId": "mg93ntisd2e0004kvt",
       "editorId": null,
@@ -23163,7 +23166,7 @@
       "duration": "23 min",
       "rating": [],
       "score": 6.73,
-      "totalCost": 14,
+      "totalCost": 26,
       "id": "mgkkh66w4y394tj6xoa",
       "createdDate": "2025-10-10T08:10:44.504Z",
       "completionDate": null
@@ -23251,15 +23254,15 @@
     },
     {
       "name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -23286,21 +23289,22 @@
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.92,
-      "totalCost": 0,
+      "totalCost": 6,
       "id": "mgo4ue373qz0250vgi8",
-      "createdDate": "2025-10-12T20:04:12.115Z"
+      "createdDate": "2025-10-12T20:04:12.115Z",
+      "completionDate": "2025-10-14T22:34:52.124Z"
     },
     {
       "name": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -23327,9 +23331,51 @@
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.77,
-      "totalCost": 0,
+      "totalCost": 6,
       "id": "mgo4uq0zk53gt5reft",
-      "createdDate": "2025-10-12T20:04:27.587Z"
+      "createdDate": "2025-10-12T20:04:27.587Z",
+      "completionDate": "2025-10-14T22:35:09.667Z"
+    },
+    {
+      "name": "All You Need Is Kill",
+      "status": "قريباً",
+      "totalEpisodes": 1,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "After an unidentified plant from outer space invasion, Rita finds herself trapped in a time loop, forced to relive the same day over and over again. With each loop, she learns. She fights. Her memories and experiences sharpen her skills, turning her into a formidable warrior. Yet, the endless cycle of death and solitude begins to wear her down. Then, she meets Keiji. \"I've been repeating this day too,\" he says. Two lost souls, trapped in an endless war. Could their meeting change fate?\n\n(Source: Warner Bros. Japan)",
+      "malId": "61192",
+      "url": "https://myanimelist.net/anime/61192/All_You_Need_Is_Kill",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1538/148447l.jpg",
+      "animeType": "Movie",
+      "studio": "Studio 4°C",
+      "source": "Light novel",
+      "premiered": [],
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "themes": [
+        "Military"
+      ],
+      "duration": "1 hr 22 min",
+      "rating": [],
+      "score": [],
+      "totalCost": 0,
+      "id": "mgqgb9jpctkqovbrpnh",
+      "createdDate": "2025-10-14T11:00:47.509Z"
     }
   ],
   "series": [
@@ -23457,7 +23503,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 54,
+      "completedEpisodes": 55,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -23489,7 +23535,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 260,
+      "totalCost": 265,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -24573,6 +24619,616 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-10-14T22:39:48.268Z",
+      "message": "تعديل مشروع (anime): Flag",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:38:22.955Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:37:51.619Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:37:41.003Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:37:30.227Z",
+      "message": "تعديل عضو: Goreme",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:37:15.860Z",
+      "message": "تعديل مشروع (anime): Touch",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:36:35.499Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (100 ← 101)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 101,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:33.651Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (99 ← 100)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 100,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:33.018Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (98 ← 99)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 99,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:32.651Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (97 ← 98)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 98,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:32.026Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (96 ← 97)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 97,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:31.746Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (95 ← 96)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 96,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:31.354Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (94 ← 95)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 95,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:30.970Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (93 ← 94)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 94,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:30.746Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (92 ← 93)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 93,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:30.562Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (91 ← 92)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 92,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:30.330Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (90 ← 91)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 91,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:36:30.139Z",
+      "message": "تحديث حلقات مشروع (anime) Touch: زيادة حلقة (89 ← 90)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbedf4coz3twfmn7ao",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 90,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqkz37wwc5wvr72qr",
+            "price": 1
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:35:47.362Z",
+      "message": "تحديث حلقات مشروع (anime) Wandance: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgkkh66w4y394tj6xoa",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 12,
+        "team": {
+          "translator": {
+            "id": "mg93ntisd2e0004kvt",
+            "price": 9
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mfphust6wk7uuqpxac",
+            "price": 3
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:35:41.923Z",
+      "message": "تحديث حلقات مشروع (anime) Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvaaqqogq7of7l8l",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 2,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mfphust6wk7uuqpxac",
+            "price": 2
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:35:09.667Z",
+      "message": "تعديل مشروع (anime): Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:34:52.124Z",
+      "message": "تعديل مشروع (anime): Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:32:43.675Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:18:47.043Z",
+      "message": "تحديث حلقات مشروع (anime) Kijin Gentoushou: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgjsf40vksg2u5trp3",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mg93ntisd2e0004kvt",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:18:45.971Z",
+      "message": "تحديث حلقات مشروع (anime) Kijin Gentoushou: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgjsf40vksg2u5trp3",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mg93ntisd2e0004kvt",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T22:18:16.476Z",
+      "message": "تعديل مشروع (anime): Ganglion",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:18:12.940Z",
+      "message": "تعديل مشروع (anime): Ganglion",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:17:55.044Z",
+      "message": "تعديل مشروع (anime): Ganglion",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:17:36.955Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:16:40.859Z",
+      "message": "تعديل مشروع (anime): Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:16:13.548Z",
+      "message": "تعديل مشروع (anime): Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T22:15:49.379Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (54 ← 55)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 55,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-14T21:27:27.154Z",
+      "message": "تعديل عضو: NaNa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T21:27:08.674Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T21:26:49.193Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T21:26:35.084Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-14T11:00:47.509Z",
+      "message": "إضافة مشروع (anime): All You Need Is Kill",
+      "details": null
+    },
     {
       "timestamp": "2025-10-13T12:25:58.155Z",
       "message": "تعديل مشروع (series): Little House on the Prairie",
@@ -43052,5 +43708,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-10-13T12:27:20.239Z"
+  "lastCloudExport": "2025-10-14T22:40:12.478Z"
 }
