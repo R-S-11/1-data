@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-10-23T04:22:55.463Z",
+  "lastSaved": "2025-10-25T15:14:42.805Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -15,7 +15,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 14.5,
+      "amountReceived": 15.5,
       "paymentMethod": "",
       "twitterHandle": "",
       "discordHandle": "aboymano_14298",
@@ -30,7 +30,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 60,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 89.5
+      "remainingAmount": 88.5
     },
     {
       "name": "Amira",
@@ -92,14 +92,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 976.5,
-      "lastDelivery": "2025-10-09T19:10:23.887Z",
+      "totalFee": 1018.5,
+      "lastDelivery": "2025-10-25T15:06:13.803Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 640,
+      "projectSubtitledEpisodes": 668,
       "manualOrder": 0,
-      "remainingAmount": 24,
+      "remainingAmount": 66,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 396,
+      "totalFee": 402,
       "lastDelivery": "2025-10-14T22:35:09.667Z",
-      "projectTranslatedEpisodes": 64,
+      "projectTranslatedEpisodes": 65,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 96
+      "remainingAmount": 102
     },
     {
       "name": "FREDOM",
@@ -140,13 +140,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 514,
+      "totalFee": 542,
       "lastDelivery": "2025-10-11T08:09:04.367Z",
-      "projectTranslatedEpisodes": 77,
+      "projectTranslatedEpisodes": 81,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 213
+      "remainingAmount": 241
     },
     {
       "name": "Goreme",
@@ -258,13 +258,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 294,
+      "totalFee": 315,
       "lastDelivery": "2025-10-21T19:12:48.076Z",
-      "projectTranslatedEpisodes": 60,
+      "projectTranslatedEpisodes": 62,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 15,
-      "remainingAmount": 99
+      "projectSubtitledEpisodes": 16,
+      "remainingAmount": 120
     },
     {
       "name": "N_Angle",
@@ -306,13 +306,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 476,
-      "lastDelivery": "2025-09-24T11:48:26.594Z",
-      "projectTranslatedEpisodes": 79,
+      "totalFee": 488,
+      "lastDelivery": "2025-10-25T11:15:50.097Z",
+      "projectTranslatedEpisodes": 81,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 60
+      "remainingAmount": 72
     },
     {
       "name": "Nouralhadi",
@@ -356,7 +356,7 @@
       "lastDelivery": "2025-10-21T19:12:48.076Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 112,
+      "projectTimedEpisodes": 113,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -375,13 +375,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 219.5,
-      "lastDelivery": "2025-10-22T07:05:01.098Z",
+      "totalFee": 233.5,
+      "lastDelivery": "2025-10-25T15:12:33.065Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 100,
+      "projectEditedEpisodes": 128,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 25.5
+      "remainingAmount": 39.5
     },
     {
       "name": "مدقق س",
@@ -398,13 +398,13 @@
       "notes": "",
       "id": "mg45bjgrm8e5p47g03m",
       "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 393,
-      "lastDelivery": "2025-10-19T04:23:47.777Z",
+      "totalFee": 420,
+      "lastDelivery": "2025-10-25T15:14:42.785Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 130,
+      "projectEditedEpisodes": 139,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 46
+      "remainingAmount": 73
     }
   ],
   "anime": [
@@ -17233,7 +17233,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 6,
+      "completedEpisodes": 10,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17246,7 +17246,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 42,
+      "totalCost": 70,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -20313,9 +20313,9 @@
     },
     {
       "name": ".hack//Roots",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 26,
-      "completedEpisodes": 24,
+      "completedEpisodes": 26,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
@@ -20349,10 +20349,10 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.85,
-      "totalCost": 144,
+      "totalCost": 156,
       "id": "mci8oll3jzorwtp2su",
       "createdDate": "2025-06-29T22:26:13.959Z",
-      "completionDate": null
+      "completionDate": "2025-10-25T11:15:50.097Z"
     },
     {
       "name": ".hack//Gift",
@@ -20865,7 +20865,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 15,
+      "completedEpisodes": 16,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي\nتم إضافة أجرة 9 حلقات إلى إيمي وندى في حسابهما الأساسي ومن ثم استبدالهما بهيمو مع خصم أجرة الحلقات السابقة عليه",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
@@ -20896,7 +20896,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 45,
+      "totalCost": 57,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -23048,7 +23048,7 @@
       "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 3,
+      "completedEpisodes": 4,
       "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
@@ -23082,7 +23082,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.48,
-      "totalCost": 27,
+      "totalCost": 36,
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
       "completionDate": null
@@ -23175,7 +23175,7 @@
       "name": "Clannad: After Story",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 3,
+      "completedEpisodes": 4,
       "notes": "",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
@@ -23206,7 +23206,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.93,
-      "totalCost": 18,
+      "totalCost": 24,
       "id": "mgo4tn4at382w6dp3t",
       "createdDate": "2025-10-12T20:03:37.162Z"
     },
@@ -23741,46 +23741,6 @@
       "createdDate": "2025-06-04T11:20:35.696Z"
     },
     {
-      "name": "Shameless",
-      "status": "قريباً",
-      "totalEpisodes": 134,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "",
-      "notes": "",
-      "url": "https://www.themoviedb.org/tv/34307",
-      "seriesYear": "2011",
-      "seriesNetwork": "Showtime",
-      "seriesStatusTMDB": "Ended",
-      "seriesOverview": "- شيكاقو فرانك - أب وحيد، فخور بستة أطفال أذكياء، مثقلين، مستقلين، والذين بدونه سيكونون... أفضل حالاً. ينفق المال القليل الذي يملكه في الحانات. لكن الأطفال وجدوا طرقاً اخرى على الرغم من ذلك. قد لا يكونوا مثل أي عائلة تعرفهم، لكنهم لا يعتذرون عن كونهم بالضبط من هم.",
-      "seriesGenres": [
-        "دراما",
-        "كوميديا"
-      ],
-      "seriesVoteAverage": 8.2,
-      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
-      "seriesOriginCountry": [
-        "US"
-      ],
-      "seriesOriginalLanguage": "en",
-      "seriesEpisodeRunTime": [],
-      "totalCost": 0,
-      "id": "mbhuxb0w4xh2aszprhw",
-      "createdDate": "2025-06-04T11:21:23.216Z",
-      "completionDate": null
-    },
-    {
       "name": "Animal Kingdom",
       "status": "قريباً",
       "totalEpisodes": 75,
@@ -24016,17 +23976,17 @@
     },
     {
       "name": "Happy Endings",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 57,
       "completedEpisodes": 0,
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
-      "subtitlerId": null,
+      "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 0.5,
       "timerPrice": 0,
-      "subtitlerPrice": 0,
+      "subtitlerPrice": 1.5,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
@@ -24037,7 +23997,7 @@
       "seriesYear": "2011",
       "seriesNetwork": "ABC",
       "seriesStatusTMDB": "Canceled",
-      "seriesOverview": [],
+      "seriesOverview": "",
       "seriesGenres": [
         "كوميديا",
         "دراما"
@@ -24051,13 +24011,15 @@
       "seriesEpisodeRunTime": "22",
       "totalCost": 0,
       "id": "mbhv4oxsjaadd0a1la",
-      "createdDate": "2025-06-04T11:27:07.840Z"
+      "createdDate": "2025-06-04T11:27:07.840Z",
+      "seriesNameSearch": "Happy Endings",
+      "completionDate": null
     },
     {
       "name": "Insecure",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 44,
-      "completedEpisodes": 16,
+      "completedEpisodes": 44,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -24088,11 +24050,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "30",
-      "totalCost": 32,
+      "totalCost": 88,
       "id": "mbhv58rc9qm0n9gaw8d",
       "createdDate": "2025-06-04T11:27:33.528Z",
       "seriesNameSearch": "Insecure",
-      "completionDate": null
+      "completionDate": "2025-10-25T13:55:00.836Z"
     },
     {
       "name": "Pretty Little Liars",
@@ -24254,7 +24216,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 130,
+      "completedEpisodes": 139,
       "translatorId": null,
       "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
@@ -24268,7 +24230,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 15 من الموسم السادس",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 24 من الموسم السادس",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24287,7 +24249,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 393,
+      "totalCost": 420,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24457,16 +24419,16 @@
     },
     {
       "name": "Keeping Up Appearances",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 40,
       "completedEpisodes": 0,
-      "notes": "",
+      "notes": "ترجمة ai\nتدقيق بشري",
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 3,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -24619,6 +24581,596 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-10-25T15:16:12.099Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T15:14:42.785Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T15:13:49.840Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (138 ← 139)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 139,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:49.160Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (137 ← 138)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 138,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:48.504Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (136 ← 137)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 137,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:47.752Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (135 ← 136)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 136,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:46.984Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (134 ← 135)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 135,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:46.312Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (133 ← 134)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 134,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:45.600Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (132 ← 133)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 133,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:44.817Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (131 ← 132)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 132,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:13:44.081Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (130 ← 131)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 131,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:12:33.065Z",
+      "message": "تعديل مشروع (series): Keeping Up Appearances",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T15:12:13.985Z",
+      "message": "تعديل مشروع (series): Keeping Up Appearances",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T15:07:08.626Z",
+      "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvbe8qdqrmmua96lp",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 9,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 9
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:07:00.042Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 12,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T15:06:13.804Z",
+      "message": "تعديل مشروع (series): Happy Endings",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T13:55:00.836Z",
+      "message": "تعديل مشروع (series): Insecure",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T13:54:51.733Z",
+      "message": "تعديل مشروع (series): Insecure",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T11:15:50.097Z",
+      "message": "تعديل مشروع (anime): .hack//Roots",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T11:15:43.059Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (25 ← 26)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 26,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T17:25:23.303Z",
+      "message": "حذف مشروع (series): Shameless",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-24T16:02:32.494Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T16:02:32.301Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T16:02:32.125Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T16:02:31.950Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T14:27:51.724Z",
+      "message": "تعديل عضو: Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-24T10:24:19.412Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Roots: زيادة حلقة (24 ← 25)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8oll3jzorwtp2su",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 25,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-24T09:26:24.643Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
     {
       "timestamp": "2025-10-23T04:22:55.449Z",
       "message": "تحديث حلقات مشروع (anime) Nohara Hiroshi: Hiru Meshi no Ryuugi: زيادة حلقة (3 ← 4)",
@@ -45243,5 +45795,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-10-23T04:23:11.849Z"
+  "lastCloudExport": "2025-10-25T15:16:18.893Z"
 }
