@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-10-25T15:14:42.805Z",
+  "lastSaved": "2025-10-27T05:55:19.641Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -15,7 +15,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 15.5,
+      "amountReceived": 5.5,
       "paymentMethod": "",
       "twitterHandle": "",
       "discordHandle": "aboymano_14298",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 104,
-      "lastDelivery": "2025-10-19T21:15:32.058Z",
+      "totalFee": 100,
+      "lastDelivery": "2025-10-25T20:37:43.033Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 60,
+      "projectTimedEpisodes": 59,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 88.5
+      "remainingAmount": 94.5
     },
     {
       "name": "Amira",
@@ -140,13 +140,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 542,
+      "totalFee": 549,
       "lastDelivery": "2025-10-11T08:09:04.367Z",
-      "projectTranslatedEpisodes": 81,
+      "projectTranslatedEpisodes": 82,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 241
+      "remainingAmount": 248
     },
     {
       "name": "Goreme",
@@ -210,7 +210,7 @@
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
       "totalFee": 1441.5,
-      "lastDelivery": "2025-10-19T21:15:32.058Z",
+      "lastDelivery": "2025-10-25T20:37:06.738Z",
       "projectTranslatedEpisodes": 160,
       "projectEditedEpisodes": 885,
       "projectTimedEpisodes": 0,
@@ -259,7 +259,7 @@
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
       "totalFee": 315,
-      "lastDelivery": "2025-10-21T19:12:48.076Z",
+      "lastDelivery": "2025-10-25T20:37:43.033Z",
       "projectTranslatedEpisodes": 62,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -274,7 +274,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 179,
+      "amountReceived": 171,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -283,13 +283,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 245.5,
+      "totalFee": 242,
       "lastDelivery": "2025-10-22T07:05:01.098Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 4,
-      "projectSubtitledEpisodes": 102,
-      "remainingAmount": 66.5
+      "projectTimedEpisodes": 0,
+      "projectSubtitledEpisodes": 103,
+      "remainingAmount": 71
     },
     {
       "name": "NaNa",
@@ -375,13 +375,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 233.5,
+      "totalFee": 252,
       "lastDelivery": "2025-10-25T15:12:33.065Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 128,
+      "projectEditedEpisodes": 134,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 39.5
+      "remainingAmount": 58
     },
     {
       "name": "مدقق س",
@@ -17233,7 +17233,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 10,
+      "completedEpisodes": 11,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17246,7 +17246,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 70,
+      "totalCost": 77,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -22064,15 +22064,15 @@
       "notes": "تم إضافة أجرة إضافية توقيت أول حلقتين وتوقيت الشارتين لندى",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqj1wani0rnl0npq",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 0,
-      "timerPrice": 0.5,
+      "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 3,
+      "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
       "synopsis": "Early 2000s Tokyo. Isobe, a combatant for the evil corporation Ganglion, spends his days on the battlefield. Whether it's the \"Tokyo Cedar Pollen Operation\" or the \"Mount Fuji Demolition Plan,\" he faces off in nothing but a bodysuit, only to be crushed by the hero Hopeman time and again. As he struggles under unreasonable bosses during the dawn of compliance, his story unfolds—a workplace drama dedicated to all who work, following the bittersweet life of a salaryman soldier.\n\n(Source: MAL News)",
@@ -22092,7 +22092,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 5,
+      "totalCost": 0,
       "id": "mgcfolyf7iw3so3vpga",
       "createdDate": "2025-10-04T15:34:24.039Z",
       "completionDate": null
@@ -22930,11 +22930,11 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": null,
+      "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 0,
-      "timerPrice": 0,
+      "timerPrice": 2,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -22957,7 +22957,7 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 7.53,
-      "totalCost": 36,
+      "totalCost": 44,
       "id": "mggv3scs22lz6byy05qh",
       "createdDate": "2025-10-07T17:57:11.116Z",
       "completionDate": null
@@ -23010,15 +23010,15 @@
       "notes": "2 دولار أجرة توقيت الشارتين إضافية للمنسق",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 0,
-      "timerPrice": 2,
+      "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
-      "timerBonus": 2,
+      "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
       "synopsis": "\"Classes\" are given at the age of 10, and the presence or absence of \"skills\" greatly affects life. Arel, the son of \"Sword Princess\" Fara and \"Magic King\" Leon, has been branded as \"Classless\"... But even without a job or skills, Arel believes he can persevere through effort. \n\n(Source: Earth Star Entertainment, translated)",
@@ -23039,7 +23039,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 12,
+      "totalCost": 0,
       "id": "mggvaaqqogq7of7l8l",
       "createdDate": "2025-10-07T18:02:14.882Z",
       "completionDate": null
@@ -23503,7 +23503,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 60,
+      "completedEpisodes": 61,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -23535,7 +23535,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 275,
+      "totalCost": 280,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -24421,7 +24421,7 @@
       "name": "Keeping Up Appearances",
       "status": "جارٍ",
       "totalEpisodes": 40,
-      "completedEpisodes": 0,
+      "completedEpisodes": 5,
       "notes": "ترجمة ai\nتدقيق بشري",
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
@@ -24452,7 +24452,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "30",
-      "totalCost": 0,
+      "totalCost": 15,
       "id": "mefx7htr81clozl346o",
       "createdDate": "2025-08-17T16:48:52.479Z",
       "completionDate": null
@@ -24582,9 +24582,249 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-10-25T15:16:12.099Z",
+      "timestamp": "2025-10-27T05:55:32.178Z",
       "message": "تصدير البيانات إلى الجهاز",
       "details": null
+    },
+    {
+      "timestamp": "2025-10-27T05:55:19.631Z",
+      "message": "تحديث حلقات مشروع (series) Keeping Up Appearances: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefx7htr81clozl346o",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-26T22:58:39.803Z",
+      "message": "تحديث حلقات مشروع (series) Keeping Up Appearances: زيادة حلقة (3 ← 4)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefx7htr81clozl346o",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 4,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-26T14:16:09.778Z",
+      "message": "تحديث حلقات مشروع (series) Keeping Up Appearances: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefx7htr81clozl346o",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-26T14:16:08.658Z",
+      "message": "تحديث حلقات مشروع (series) Keeping Up Appearances: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefx7htr81clozl346o",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-26T14:16:07.939Z",
+      "message": "تحديث حلقات مشروع (series) Keeping Up Appearances: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mefx7htr81clozl346o",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-26T11:00:41.369Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T20:37:43.033Z",
+      "message": "تعديل مشروع (anime): Towa no Yuugure",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T20:37:18.353Z",
+      "message": "تعديل عضو: Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T20:37:06.738Z",
+      "message": "تعديل مشروع (anime): Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T20:35:39.177Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T20:35:27.746Z",
+      "message": "تعديل مشروع (anime): Ganglion",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-25T19:01:16.376Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (60 ← 61)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 61,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-10-25T16:35:07.476Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
     },
     {
       "timestamp": "2025-10-25T15:14:42.785Z",
@@ -45795,5 +46035,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-10-25T15:16:18.893Z"
+  "lastCloudExport": "2025-10-27T05:55:43.164Z"
 }
