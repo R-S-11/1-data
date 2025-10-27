@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-10-27T05:55:19.641Z",
+  "lastSaved": "2025-10-27T09:13:17.424Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -15,7 +15,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 5.5,
+      "amountReceived": 100,
       "paymentMethod": "",
       "twitterHandle": "",
       "discordHandle": "aboymano_14298",
@@ -30,7 +30,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 59,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 94.5
+      "remainingAmount": 0
     },
     {
       "name": "Amira",
@@ -56,34 +56,11 @@
       "remainingAmount": 2
     },
     {
-      "name": "Carla",
-      "avatarUrl": "https://www.shutterstock.com/image-illustration/name-carla-made-shiny-diamonds-260nw-151960733.jpg",
-      "roles": [
-        "translator"
-      ],
-      "amountReceived": 0,
-      "paymentMethod": "",
-      "twitterHandle": "",
-      "discordHandle": "carla024407",
-      "telegramHandle": "",
-      "blog": "",
-      "notes": "",
-      "id": "mg93ntisd2e0004kvt",
-      "createdDate": "2025-10-02T07:34:33.268Z",
-      "totalFee": 113,
-      "lastDelivery": "2025-10-13T12:10:21.531Z",
-      "projectTranslatedEpisodes": 15,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 113
-    },
-    {
       "name": "Dina El- Shrief",
       "roles": [
         "subtitler"
       ],
-      "amountReceived": 952.5,
+      "amountReceived": 1018.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
       "discordHandle": "",
@@ -99,7 +76,7 @@
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 668,
       "manualOrder": 0,
-      "remainingAmount": 66,
+      "remainingAmount": 0,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -131,7 +108,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 301,
+      "amountReceived": 549,
       "paymentMethod": "عند الصراف",
       "twitterHandle": "@Fredom_fd",
       "discordHandle": "fredz2_",
@@ -146,7 +123,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 248
+      "remainingAmount": 0
     },
     {
       "name": "Goreme",
@@ -225,7 +202,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 498,
+      "amountReceived": 624,
       "paymentMethod": "Binance ID: 979117505",
       "twitterHandle": "@MartinSubs",
       "discordHandle": "martinsubs",
@@ -240,7 +217,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 126
+      "remainingAmount": 0
     },
     {
       "name": "MugiHimo",
@@ -274,7 +251,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 171,
+      "amountReceived": 242,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -289,7 +266,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 103,
-      "remainingAmount": 71
+      "remainingAmount": 0
     },
     {
       "name": "NaNa",
@@ -297,7 +274,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 416,
+      "amountReceived": 488,
       "paymentMethod": "Binance ID: 505876679",
       "twitterHandle": "@Nawwar_Alhadi",
       "discordHandle": "nawwar_90",
@@ -312,7 +289,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 72
+      "remainingAmount": 0
     },
     {
       "name": "Nouralhadi",
@@ -320,7 +297,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 608,
+      "amountReceived": 644,
       "paymentMethod": "Binance ID: 1123342849",
       "twitterHandle": "",
       "discordHandle": "nour059592",
@@ -335,7 +312,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 36
+      "remainingAmount": 0
     },
     {
       "name": "SHX",
@@ -366,7 +343,7 @@
       "roles": [
         "editor"
       ],
-      "amountReceived": 194,
+      "amountReceived": 247,
       "paymentMethod": "",
       "twitterHandle": "",
       "discordHandle": "",
@@ -375,13 +352,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 252,
-      "lastDelivery": "2025-10-25T15:12:33.065Z",
+      "totalFee": 247,
+      "lastDelivery": "2025-10-27T07:32:32.554Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 134,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 58
+      "remainingAmount": 0
     },
     {
       "name": "مدقق س",
@@ -389,7 +366,7 @@
       "roles": [
         "editor"
       ],
-      "amountReceived": 347,
+      "amountReceived": 420,
       "paymentMethod": "",
       "twitterHandle": "",
       "discordHandle": "",
@@ -404,7 +381,7 @@
       "projectEditedEpisodes": 139,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 73
+      "remainingAmount": 0
     }
   ],
   "anime": [
@@ -3829,7 +3806,7 @@
       "status": "مكتمل",
       "totalEpisodes": 1,
       "completedEpisodes": 1,
-      "translatorId": "mg93ntisd2e0004kvt",
+      "translatorId": null,
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
@@ -9810,7 +9787,7 @@
       "status": "مكتمل",
       "totalEpisodes": 2,
       "completedEpisodes": 2,
-      "translatorId": "mg93ntisd2e0004kvt",
+      "translatorId": null,
       "editorId": null,
       "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
@@ -22103,7 +22080,7 @@
       "totalEpisodes": 0,
       "completedEpisodes": 4,
       "notes": "تم إضافة أجرة توقيت الحلقة الأولى للمنسق وأجرة توقيت الشارتين",
-      "translatorId": "mg93ntisd2e0004kvt",
+      "translatorId": null,
       "editorId": null,
       "timerId": "mfphust6wk7uuqpxac",
       "subtitlerId": null,
@@ -23086,48 +23063,6 @@
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
       "completionDate": null
-    },
-    {
-      "name": "Kijin Gentoushou",
-      "status": "جارٍ",
-      "totalEpisodes": 24,
-      "completedEpisodes": 8,
-      "notes": "",
-      "translatorId": "mg93ntisd2e0004kvt",
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 6,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "",
-      "synopsis": "After Jinta and Suzune ran away from their home as children, they were taken in by Motoharu—the virtuous sentinel of Kadono Village—and his daughter, Shirayuki. The settlement was ruled by its shrine maiden, Itsukihime, whom only a select few were allowed to interact with. When Itsukihime passed away, Shirayuki was appointed in her place. Wishing to stay in contact with her, Jinta worked diligently for years and was finally selected as the next sentinel.\n\nAs the protector of the village, Jinta's duty is to eliminate any threats. One day, he encounters a demon in a nearby forest. At the end of the battle, the demon makes a proclamation about the destined ruler of all demonkind. He attaches his severed arm to Jinta, turning him into an unaging demon man. By the time Jinta comes to, Kadono is on fire. Suzune has transformed into the demon from the divination, and due to a series of misunderstandings, she murders Shirayuki and flees.\n\nDevastated, Jinta cannot forgive Suzune for her actions; he departs on a journey to find her. As Jinta travels around Japan across the eras, he endeavors to protect as many people as possible from aggressive demons. In his quiet moments, he contemplates what he should do when he once again faces his childhood friend.\n\n[Written by MAL Rewrite]",
-      "malId": "49778",
-      "url": "https://myanimelist.net/anime/49778/Kijin_Gentoushou",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1722/148906l.jpg",
-      "animeType": "TV",
-      "studio": "Yokohama Animation Laboratory",
-      "source": "Novel",
-      "premiered": "2025-03-31",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "themes": [
-        "Historical"
-      ],
-      "duration": "25 min per ep",
-      "rating": "R - 17+ (violence & profanity)",
-      "score": 7.32,
-      "totalCost": 48,
-      "id": "mgjsf40vksg2u5trp3",
-      "createdDate": "2025-10-09T19:05:19.135Z"
     },
     {
       "name": "Wandance",
@@ -24428,7 +24363,7 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 3,
+      "editingPrice": 2,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -24452,7 +24387,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "30",
-      "totalCost": 15,
+      "totalCost": 10,
       "id": "mefx7htr81clozl346o",
       "createdDate": "2025-08-17T16:48:52.479Z",
       "completionDate": null
@@ -24582,8 +24517,83 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-10-27T05:55:32.178Z",
-      "message": "تصدير البيانات إلى الجهاز",
+      "timestamp": "2025-10-27T09:13:17.399Z",
+      "message": "حذف متعدد (members): Carla",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:13:09.287Z",
+      "message": "حذف مشروع (anime): Kijin Gentoushou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:12:45.057Z",
+      "message": "تعديل مشروع (anime): Oira Uchuu no Tankoufu",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:12:38.144Z",
+      "message": "تعديل مشروع (anime): Kagami no Kojou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:12:14.992Z",
+      "message": "تعديل عضو: Carla",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:11:57.136Z",
+      "message": "تعديل عضو: مدقق ب",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:11:50.488Z",
+      "message": "تعديل عضو: مدقق ب",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:11:35.848Z",
+      "message": "تعديل عضو: مدقق س",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T09:11:05.360Z",
+      "message": "تعديل عضو: Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:48:11.841Z",
+      "message": "تعديل عضو: NaNa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:44:14.985Z",
+      "message": "تعديل عضو: Nouralhadi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:42:29.698Z",
+      "message": "تعديل عضو: FREDOM",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:41:38.545Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:41:06.977Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:40:18.138Z",
+      "message": "تعديل عضو: Martin",
+      "details": null
+    },
+    {
+      "timestamp": "2025-10-27T07:32:32.555Z",
+      "message": "تعديل مشروع (series): Keeping Up Appearances",
       "details": null
     },
     {
@@ -46035,5 +46045,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-10-27T05:55:43.164Z"
+  "lastCloudExport": "2025-10-27T09:13:38.858Z"
 }
