@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-09T13:29:14.413Z",
+  "lastSaved": "2025-11-09T16:51:07.105Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -226,7 +226,7 @@
         "translator",
         "subtitler"
       ],
-      "amountReceived": 315,
+      "amountReceived": 366,
       "paymentMethod": "Binance ID: 1016377551",
       "twitterHandle": "@MugiHimo_22",
       "discordHandle": "mugiwara0896",
@@ -241,7 +241,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 18,
-      "remainingAmount": 51
+      "remainingAmount": 0
     },
     {
       "name": "N_Angle",
@@ -24606,6 +24606,16 @@
   ],
   "recentActivityLog": [
     {
+      "timestamp": "2025-11-09T16:51:07.091Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-09T16:30:45.200Z",
+      "message": "تم تصدير البيانات بنجاح إلى GitHub.",
+      "details": null
+    },
+    {
       "timestamp": "2025-11-09T13:29:14.399Z",
       "message": "تعديل مشروع (anime): .hack//G.U. Trilogy: Parody Mode",
       "details": null
@@ -47689,5 +47699,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-09T16:29:53.873Z"
+  "lastCloudExport": "2025-11-09T16:51:50.442Z"
 }
