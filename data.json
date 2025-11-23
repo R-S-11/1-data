@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-23T15:21:07.384Z",
+  "lastSaved": "2025-11-23T15:23:13.310Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -375,13 +375,13 @@
       "notes": "",
       "id": "mg45bjgrm8e5p47g03m",
       "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 435,
-      "lastDelivery": "2025-11-06T19:02:31.653Z",
+      "totalFee": 456,
+      "lastDelivery": "2025-11-23T15:23:13.300Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 144,
+      "projectEditedEpisodes": 151,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 15
+      "remainingAmount": 36
     }
   ],
   "anime": [
@@ -24364,7 +24364,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 144,
+      "completedEpisodes": 151,
       "translatorId": null,
       "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
@@ -24378,7 +24378,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 5 من الموسم السابع",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 12 من الموسم السابع",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24397,7 +24397,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 435,
+      "totalCost": 456,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24729,6 +24729,231 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-11-23T15:24:10.052Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-23T15:23:13.300Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-23T15:22:29.993Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (150 ← 151)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 151,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:29.210Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (149 ← 150)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 150,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:28.362Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (148 ← 149)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 149,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:27.442Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (147 ← 148)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 148,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:26.586Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (146 ← 147)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 147,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:25.586Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (145 ← 146)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 146,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:24.923Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (144 ← 145)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 145,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-23T15:22:04.138Z",
+      "message": "تم تصدير البيانات بنجاح إلى GitHub.",
+      "details": null
+    },
     {
       "timestamp": "2025-11-23T15:21:13.036Z",
       "message": "تصدير البيانات إلى الجهاز",
@@ -48698,5 +48923,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-23T15:21:35.742Z"
+  "lastCloudExport": "2025-11-23T15:24:28.977Z"
 }
