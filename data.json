@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-09T16:51:07.105Z",
+  "lastSaved": "2025-11-23T15:21:07.384Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 92.5,
+      "totalFee": 98.5,
       "lastDelivery": "2025-11-06T05:41:56.179Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 59,
+      "projectTimedEpisodes": 61,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 0.5
+      "remainingAmount": 6.5
     },
     {
       "name": "Amira",
@@ -69,14 +69,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 1018.5,
-      "lastDelivery": "2025-10-25T15:06:13.803Z",
+      "totalFee": 1017,
+      "lastDelivery": "2025-11-16T11:13:30.356Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 668,
       "manualOrder": 0,
-      "remainingAmount": 0,
+      "remainingAmount": -1.5,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -94,13 +94,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 432,
+      "totalFee": 486,
       "lastDelivery": "2025-10-27T11:47:16.734Z",
-      "projectTranslatedEpisodes": 70,
+      "projectTranslatedEpisodes": 79,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 30
+      "remainingAmount": 84
     },
     {
       "name": "FREDOM",
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 549,
-      "lastDelivery": "2025-10-27T11:47:36.333Z",
-      "projectTranslatedEpisodes": 82,
+      "totalFee": 689,
+      "lastDelivery": "2025-11-21T16:55:22.495Z",
+      "projectTranslatedEpisodes": 102,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 140
     },
     {
       "name": "Goreme",
@@ -177,7 +177,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2332,
+      "amountReceived": 2327,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -186,14 +186,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2434.5,
-      "lastDelivery": "2025-11-08T11:07:47.227Z",
-      "projectTranslatedEpisodes": 166,
-      "projectEditedEpisodes": 922,
+      "totalFee": 2516.5,
+      "lastDelivery": "2025-11-22T22:31:49.090Z",
+      "projectTranslatedEpisodes": 172,
+      "projectEditedEpisodes": 934,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 102.5,
+      "remainingAmount": 189.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -211,13 +211,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 624,
-      "lastDelivery": "2025-10-27T11:47:01.605Z",
-      "projectTranslatedEpisodes": 104,
+      "totalFee": 625,
+      "lastDelivery": "2025-11-22T22:31:49.090Z",
+      "projectTranslatedEpisodes": 105,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 1
     },
     {
       "name": "MugiHimo",
@@ -235,13 +235,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 366,
+      "totalFee": 408,
       "lastDelivery": "2025-11-06T05:41:56.179Z",
-      "projectTranslatedEpisodes": 67,
+      "projectTranslatedEpisodes": 71,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 18,
-      "remainingAmount": 0
+      "projectSubtitledEpisodes": 20,
+      "remainingAmount": 42
     },
     {
       "name": "N_Angle",
@@ -251,7 +251,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 234.5,
+      "amountReceived": 220,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -266,7 +266,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 105,
-      "remainingAmount": 10.5
+      "remainingAmount": 25
     },
     {
       "name": "NaNa",
@@ -283,13 +283,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 522.5,
-      "lastDelivery": "2025-11-09T13:29:14.399Z",
-      "projectTranslatedEpisodes": 86,
+      "totalFee": 530.5,
+      "lastDelivery": "2025-11-18T14:44:46.951Z",
+      "projectTranslatedEpisodes": 89,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 34.5
+      "remainingAmount": 42.5
     },
     {
       "name": "Nouralhadi",
@@ -306,13 +306,13 @@
       "notes": "",
       "id": "mbfq1se16kendio09yv",
       "createdDate": "2025-06-02T23:29:21.913Z",
-      "totalFee": 644,
-      "lastDelivery": "2025-10-27T11:47:12.237Z",
-      "projectTranslatedEpisodes": 85,
+      "totalFee": 665,
+      "lastDelivery": "2025-11-22T22:29:30.578Z",
+      "projectTranslatedEpisodes": 86,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 21
     },
     {
       "name": "SHX",
@@ -333,7 +333,7 @@
       "lastDelivery": "2025-10-27T11:50:50.717Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 114,
+      "projectTimedEpisodes": 116,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -352,13 +352,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 327,
-      "lastDelivery": "2025-11-06T21:37:22.764Z",
+      "totalFee": 328,
+      "lastDelivery": "2025-11-16T11:13:30.356Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 171,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 80
+      "remainingAmount": 81
     },
     {
       "name": "مدقق س",
@@ -1642,7 +1642,7 @@
       "timerId": "mbfqkz37wwc5wvr72qr",
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 4,
+      "editingPrice": 5,
       "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -1671,7 +1671,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.18,
-      "totalCost": 16.5,
+      "totalCost": 19.5,
       "id": "mbfsu5mrkofngznu08q",
       "createdDate": "2025-06-03T00:47:24.675Z",
       "completionDate": "2025-06-03T00:47:24.675Z",
@@ -17210,7 +17210,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 11,
+      "completedEpisodes": 31,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17223,7 +17223,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 77,
+      "totalCost": 217,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -20419,15 +20419,15 @@
     },
     {
       "name": ".hack//Quantum",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 3,
-      "completedEpisodes": 0,
+      "completedEpisodes": 3,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -20455,9 +20455,10 @@
       "duration": "26 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.11,
-      "totalCost": 0,
+      "totalCost": 18,
       "id": "mci8pkgfbao7myi1fpj",
-      "createdDate": "2025-06-29T22:26:59.151Z"
+      "createdDate": "2025-06-29T22:26:59.151Z",
+      "completionDate": "2025-11-17T11:20:42.443Z"
     },
     {
       "name": ".hack//Liminality",
@@ -20762,15 +20763,15 @@
     },
     {
       "name": ".hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 3,
-      "completedEpisodes": 0,
+      "completedEpisodes": 2,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 1,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -20796,9 +20797,10 @@
       "duration": "3 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.3,
-      "totalCost": 0,
+      "totalCost": 2,
       "id": "mci8rkhz1uutma02shn",
-      "createdDate": "2025-06-29T22:28:32.519Z"
+      "createdDate": "2025-06-29T22:28:32.519Z",
+      "completionDate": null
     },
     {
       "name": "Akuyaku Reijou Tensei Ojisan Mini",
@@ -20843,7 +20845,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 18,
+      "completedEpisodes": 20,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي\nتم إضافة أجرة 9 حلقات إلى إيمي وندى في حسابهما الأساسي ومن ثم استبدالهما بهيمو مع خصم أجرة الحلقات السابقة عليه",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20874,7 +20876,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 189,
+      "totalCost": 225,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -22009,7 +22011,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "",
+      "rawUrl": "https://nyaa.si/view/1496967",
       "synopsis": "Recap episode. Includes re-edited footage from episode 1 up to episode 15. Iris is narrating along with Sion.",
       "malId": "9690",
       "url": "https://myanimelist.net/anime/9690/Densetsu_no_Yuusha_no_Densetsu__Iris_Report",
@@ -22038,7 +22040,7 @@
       "name": "Ganglion",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 6,
+      "completedEpisodes": 8,
       "notes": "تم إضافة أجرة إضافية توقيت أول حلقتين وتوقيت الشارتين لندى",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -22070,7 +22072,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 30,
+      "totalCost": 40,
       "id": "mgcfolyf7iw3so3vpga",
       "createdDate": "2025-10-04T15:34:24.039Z",
       "completionDate": null
@@ -22984,7 +22986,7 @@
       "name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 7,
+      "completedEpisodes": 9,
       "notes": "2 دولار أجرة توقيت الشارتين إضافية للمنسق",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23017,7 +23019,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 70,
+      "totalCost": 90,
       "id": "mggvaaqqogq7of7l8l",
       "createdDate": "2025-10-07T18:02:14.882Z",
       "completionDate": null
@@ -23026,7 +23028,7 @@
       "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 5,
+      "completedEpisodes": 7,
       "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23060,7 +23062,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.48,
-      "totalCost": 75,
+      "totalCost": 105,
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
       "completionDate": null
@@ -23069,7 +23071,7 @@
       "name": "Wandance",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 5,
+      "completedEpisodes": 7,
       "notes": "تم إضافة أجرة توقيت الشارات للمحاكي",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23102,7 +23104,7 @@
       "duration": "23 min",
       "rating": [],
       "score": 6.73,
-      "totalCost": 99,
+      "totalCost": 135,
       "id": "mgkkh66w4y394tj6xoa",
       "createdDate": "2025-10-10T08:10:44.504Z",
       "completionDate": null
@@ -23111,7 +23113,7 @@
       "name": "Clannad: After Story",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 9,
+      "completedEpisodes": 18,
       "notes": "",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23142,7 +23144,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.93,
-      "totalCost": 54,
+      "totalCost": 108,
       "id": "mgo4tn4at382w6dp3t",
       "createdDate": "2025-10-12T20:03:37.162Z",
       "completionDate": null
@@ -23361,13 +23363,13 @@
       "name": "Cardcaptor Sakura",
       "status": "جارٍ",
       "totalEpisodes": 70,
-      "completedEpisodes": 2,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": "mbfq447udijq1mago58",
+      "translatorId": "mbfpow5fa4niiy1souq",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 6,
+      "translationPrice": 1,
       "editingPrice": 5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -23397,9 +23399,131 @@
       "duration": "25 min per ep",
       "rating": "PG - Children",
       "score": 8.18,
-      "totalCost": 22,
+      "totalCost": 6,
       "id": "mhai8yp7vljv87ssyu",
-      "createdDate": "2025-10-28T11:50:22.891Z"
+      "createdDate": "2025-10-28T11:50:22.891Z",
+      "completionDate": null
+    },
+    {
+      "name": "Mukamuka Paradise",
+      "status": "قريباً",
+      "totalEpisodes": 51,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Uiba Shikatani, the daughter of a pet shop owner, is heartbroken after some reptile eggs fail to hatch. In his attempts to cheer her up, her father brings home a large, striped egg, which he hopes will successfully hatch (unexpectedly into a green dinosaur whom they call \"Muka-Muka,\" which are the only words which the baby reptile can speak). \n\nMuka-Muka soon becomes the talk of the town and comes into the interest of the town's professor and his wacky inventions, including a time machine which successfully teleports the Shikatani's among other families and their homes to pre-historic times where they encounter several other dinosaurs and enchanted beings on their adventures.\n\n(Source: ANN)",
+      "malId": "4086",
+      "url": "https://myanimelist.net/anime/4086/Mukamuka_Paradise",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1388/99407l.jpg",
+      "animeType": "TV",
+      "studio": "Nippon Animation",
+      "source": "Manga",
+      "premiered": "1993-09-04",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "themes": [],
+      "duration": "25 min per ep",
+      "rating": "G - All Ages",
+      "score": 6.9,
+      "totalCost": 0,
+      "id": "mi26lxh423gnjplzp9q",
+      "createdDate": "2025-11-16T20:42:05.368Z"
+    },
+    {
+      "name": "Robin Hood no Daibouken",
+      "status": "قريباً",
+      "totalEpisodes": 52,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "A variant of Robin Hood in which all the principal characters are teenagers.\n\nSeveral centuries ago in Nottingham County, a cruel and greedy baron by the name of Alwine ordered the destruction of the Huntingtons' castle—from the fire of which Robin and his cousins, Will, Winifred and Barbara, miraculously escaped. The youngsters sought shelter in Sherwood Forest, where, thanks to the wise guidance of the hermit better known as \"Friar Tuck,\" they managed to face the difficulties of a life in the wilderness as as well as they could; however, in the forest there lived a fearless group of young bandits, led by Little John. Their first encounter with Robin and his cousins was at first rather stormy, as the two groups fought for the destiny of a young, noble maiden named Marian who had fallen into the hands of the bandits during an ambush.\n\nTheir bitterness, however, rapidly lead the way to friendship, and Robin and John later realized they were all victims of the same fate. The youngsters thus mutually decided to help one another. Baron Alwine was not merely enemy of the Huntingtons—in fact, a couple years earlier he had forced Little John and his gang to seek protection in the forest to avoid forced labour. He would later seek Marian Lancaster for the secret carved on a cross the girl wore as symbol of her family line.\n\nThe girl was to be adopted by the shady Bishop Herfort—Alwine's accomplice—who sought to attain the Lancaster's wealth. With all their strength, Robin and his friends were then compelled to fight against the baron's troops, led by Gilbert—a dangerous and fearless knight. When Winifred and Marian were then imprisoned in the castle's dungeons, our heroes tried in every way possible to enter until their ardour was finally rewarded with success. Thanks to his noble heart and heed for danger, Robin became rapidly known as the protector of the poor and oppressed. Beloved and highly esteemed not only by the villagers, but also and especially by the sweet and beautiful Marian he was. The boy who never parted from his loyal, magical bow, endlessly engaged in dangerous and unthinkable missions.",
+      "malId": "2543",
+      "url": "https://myanimelist.net/anime/2543/Robin_Hood_no_Daibouken",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1050/147718l.jpg",
+      "animeType": "TV",
+      "studio": "Tatsunoko Production",
+      "source": "Other",
+      "premiered": "1990-07-29",
+      "genres": [
+        "Adventure",
+        "Romance"
+      ],
+      "themes": [
+        "Historical"
+      ],
+      "duration": "25 min per ep",
+      "rating": "G - All Ages",
+      "score": 7.11,
+      "totalCost": 0,
+      "id": "mi26m9onflyifkie6j5",
+      "createdDate": "2025-11-16T20:42:21.191Z"
+    },
+    {
+      "name": "Alps no Shoujo Heidi: Heidi to Clara-hen",
+      "status": "مكتمل",
+      "totalEpisodes": 1,
+      "completedEpisodes": 1,
+      "notes": "",
+      "translatorId": "mbfq1se16kendio09yv",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 21,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Condensed version of the second half of the TV series.",
+      "malId": "9549",
+      "url": "https://myanimelist.net/anime/9549/Alps_no_Shoujo_Heidi__Heidi_to_Clara-hen",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/9/26449l.jpg",
+      "animeType": "Movie",
+      "studio": "Nippon Animation",
+      "source": "Unknown",
+      "premiered": "1996-08-21",
+      "genres": [
+        "Drama"
+      ],
+      "themes": [
+        "Historical"
+      ],
+      "duration": "1 hr 29 min",
+      "rating": "G - All Ages",
+      "score": 6.59,
+      "totalCost": 21,
+      "id": "miav36mq1muhc3gys0z",
+      "createdDate": "2025-11-22T22:29:30.578Z",
+      "completionDate": "2025-11-22T22:29:30.578Z"
     }
   ],
   "series": [
@@ -24012,11 +24136,11 @@
       "timerPrice": 0,
       "subtitlerPrice": 1.5,
       "translationBonus": 0,
-      "editingBonus": 0,
+      "editingBonus": 1,
       "timerBonus": 0,
-      "subtitlerBonus": 0,
+      "subtitlerBonus": -1.5,
       "rawUrl": "https://1337x.to/torrent/3471874/Happy-Endings-2011-Season-1-3-S01-S03-1080p-BluRay-x265-HEVC-10bit-AAC-5-1-MONOLITH-REPACK-QxR/",
-      "notes": "",
+      "notes": "خصم أجرة الحلقة 10 من الموقتة لأنها لم توقتها بسبب عدم وجود ترجمة لها\nإضافة أجرة الحلقة 10 للمدقق لتدقيقه لها بعد ترجمة آلية",
       "url": "https://www.themoviedb.org/tv/32829",
       "seriesYear": "2011",
       "seriesNetwork": "ABC",
@@ -24033,7 +24157,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "22",
-      "totalCost": 0,
+      "totalCost": -0.5,
       "id": "mbhv4oxsjaadd0a1la",
       "createdDate": "2025-06-04T11:27:07.840Z",
       "seriesNameSearch": "Happy Endings",
@@ -24605,6 +24729,881 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-11-23T15:21:13.036Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-23T15:21:07.370Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (17 ← 18)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 18,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:32:39.889Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (30 ← 31)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 31,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:31:52.049Z",
+      "message": "تحديث حلقات مشروع (anime) Cardcaptor Sakura: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mhai8yp7vljv87ssyu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfpow5fa4niiy1souq",
+            "price": 1
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:31:49.090Z",
+      "message": "تعديل مشروع (anime): Cardcaptor Sakura",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-22T22:30:36.930Z",
+      "message": "تحديث حلقات مشروع (anime) Ganglion: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgcfolyf7iw3so3vpga",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:30:07.369Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:30:06.802Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-22T22:29:30.579Z",
+      "message": "إضافة مشروع (anime): Alps no Shoujo Heidi: Heidi to Clara-hen",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-21T21:08:11.605Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (16 ← 17)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 17,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-21T17:00:16.796Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-21T16:58:12.980Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8rkhz1uutma02shn",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 1,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 1
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-21T16:55:22.495Z",
+      "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-20T19:11:38.453Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (15 ← 16)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 16,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-19T21:02:45.775Z",
+      "message": "تحديث حلقات مشروع (anime) Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvaaqqogq7of7l8l",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 10
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-19T21:02:25.919Z",
+      "message": "تحديث حلقات مشروع (anime) Wandance: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgkkh66w4y394tj6xoa",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mfphust6wk7uuqpxac",
+            "price": 3
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-19T21:00:00.303Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (14 ← 15)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 15,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-19T08:19:57.224Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (13 ← 14)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 14,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-18T15:38:59.140Z",
+      "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvbe8qdqrmmua96lp",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-18T14:44:46.951Z",
+      "message": "تعديل مشروع (anime): .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-17T18:46:55.888Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-17T18:46:42.023Z",
+      "message": "تحديث حلقات مشروع (anime) Cardcaptor Sakura: نقص حلقة (1 ← 0)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mhai8yp7vljv87ssyu",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 0,
+        "costChange": -11,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-17T18:46:41.559Z",
+      "message": "تحديث حلقات مشروع (anime) Cardcaptor Sakura: نقص حلقة (2 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mhai8yp7vljv87ssyu",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 1,
+        "costChange": -11,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-17T18:46:31.120Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-17T14:39:31.755Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (12 ← 13)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 13,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-17T11:20:42.444Z",
+      "message": "تعديل مشروع (anime): .hack//Quantum",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-17T11:20:34.459Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Quantum: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8pkgfbao7myi1fpj",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-16T20:42:21.191Z",
+      "message": "إضافة مشروع (anime): Robin Hood no Daibouken",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-16T20:42:05.368Z",
+      "message": "إضافة مشروع (anime): Mukamuka Paradise",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-16T11:13:30.357Z",
+      "message": "تعديل مشروع (series): Happy Endings",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-16T07:56:53.489Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-14T22:16:42.681Z",
+      "message": "تحديث حلقات مشروع (anime) Ganglion: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgcfolyf7iw3so3vpga",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-14T21:57:43.858Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (10 ← 11)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 11,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-14T15:13:22.127Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Quantum: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8pkgfbao7myi1fpj",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 6
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-14T07:56:32.373Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-13T04:24:35.150Z",
+      "message": "تحديث حلقات مشروع (anime) Wandance: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgkkh66w4y394tj6xoa",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mfphust6wk7uuqpxac",
+            "price": 3
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-13T04:24:31.766Z",
+      "message": "تحديث حلقات مشروع (anime) Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvaaqqogq7of7l8l",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 10
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-13T04:24:24.934Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-12T12:55:36.773Z",
+      "message": "تعديل مشروع (anime): .hack//Quantum",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-12T12:55:21.662Z",
+      "message": "تعديل مشروع (anime): .hack//Quantum",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-11T05:35:04.902Z",
+      "message": "تعديل مشروع (anime): Alps no Shoujo Heidi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-10T19:01:35.676Z",
+      "message": "تعديل مشروع (anime): FLCL: Shoegaze",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-10T19:00:06.869Z",
+      "message": "تعديل مشروع (anime): FLCL: Shoegaze",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-10T18:58:34.523Z",
+      "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvbe8qdqrmmua96lp",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-09T21:52:18.974Z",
+      "message": "تعديل مشروع (anime): Densetsu no Yuusha no Densetsu: Iris Report",
+      "details": null
+    },
     {
       "timestamp": "2025-11-09T16:51:07.091Z",
       "message": "تعديل عضو: MugiHimo",
@@ -47699,5 +48698,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-09T16:51:50.442Z"
+  "lastCloudExport": "2025-11-23T15:21:35.742Z"
 }
