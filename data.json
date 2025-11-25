@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-23T15:23:13.310Z",
+  "lastSaved": "2025-11-25T05:22:43.628Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -94,13 +94,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 486,
+      "totalFee": 492,
       "lastDelivery": "2025-10-27T11:47:16.734Z",
-      "projectTranslatedEpisodes": 79,
+      "projectTranslatedEpisodes": 80,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 84
+      "remainingAmount": 90
     },
     {
       "name": "FREDOM",
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 689,
+      "totalFee": 710,
       "lastDelivery": "2025-11-21T16:55:22.495Z",
-      "projectTranslatedEpisodes": 102,
+      "projectTranslatedEpisodes": 105,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 140
+      "remainingAmount": 161
     },
     {
       "name": "Goreme",
@@ -186,14 +186,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2516.5,
+      "totalFee": 2522.5,
       "lastDelivery": "2025-11-22T22:31:49.090Z",
       "projectTranslatedEpisodes": 172,
-      "projectEditedEpisodes": 934,
+      "projectEditedEpisodes": 936,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 189.5,
+      "remainingAmount": 195.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -235,13 +235,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 408,
+      "totalFee": 417,
       "lastDelivery": "2025-11-06T05:41:56.179Z",
-      "projectTranslatedEpisodes": 71,
+      "projectTranslatedEpisodes": 72,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 20,
-      "remainingAmount": 42
+      "remainingAmount": 51
     },
     {
       "name": "N_Angle",
@@ -333,7 +333,7 @@
       "lastDelivery": "2025-10-27T11:50:50.717Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 116,
+      "projectTimedEpisodes": 117,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -375,13 +375,13 @@
       "notes": "",
       "id": "mg45bjgrm8e5p47g03m",
       "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 456,
-      "lastDelivery": "2025-11-23T15:23:13.300Z",
+      "totalFee": 462,
+      "lastDelivery": "2025-11-25T05:22:43.615Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 151,
+      "projectEditedEpisodes": 153,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 36
+      "remainingAmount": 42
     }
   ],
   "anime": [
@@ -17210,7 +17210,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 31,
+      "completedEpisodes": 34,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17223,7 +17223,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 217,
+      "totalCost": 238,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -23028,7 +23028,7 @@
       "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 7,
+      "completedEpisodes": 8,
       "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23062,7 +23062,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.48,
-      "totalCost": 105,
+      "totalCost": 120,
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
       "completionDate": null
@@ -23113,7 +23113,7 @@
       "name": "Clannad: After Story",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 18,
+      "completedEpisodes": 19,
       "notes": "",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23144,7 +23144,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.93,
-      "totalCost": 108,
+      "totalCost": 114,
       "id": "mgo4tn4at382w6dp3t",
       "createdDate": "2025-10-12T20:03:37.162Z",
       "completionDate": null
@@ -24364,7 +24364,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 151,
+      "completedEpisodes": 153,
       "translatorId": null,
       "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
@@ -24378,7 +24378,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 12 من الموسم السابع",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 14 من الموسم السابع",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24397,7 +24397,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 456,
+      "totalCost": 462,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24730,9 +24730,279 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-11-23T15:24:10.052Z",
-      "message": "تصدير البيانات إلى الجهاز",
+      "timestamp": "2025-11-25T05:22:43.615Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
       "details": null
+    },
+    {
+      "timestamp": "2025-11-25T05:22:35.245Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (152 ← 153)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 153,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-25T05:22:34.078Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (151 ← 152)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 152,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-25T05:22:03.981Z",
+      "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvbe8qdqrmmua96lp",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:54:16.997Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (18 ← 19)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 19,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:53:51.773Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: نقص حلقة (35 ← 34)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 34,
+        "costChange": -7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:53:50.996Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (34 ← 35)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 35,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:53:50.508Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (33 ← 34)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 34,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:53:50.341Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (32 ← 33)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 33,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-24T21:53:50.157Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (31 ← 32)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 32,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
     },
     {
       "timestamp": "2025-11-23T15:23:13.300Z",
@@ -48923,5 +49193,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-23T15:24:28.977Z"
+  "lastCloudExport": "2025-11-25T05:23:19.332Z"
 }
