@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-25T05:22:43.628Z",
+  "lastSaved": "2025-11-26T23:23:44.230Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -69,14 +69,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 1017,
-      "lastDelivery": "2025-11-16T11:13:30.356Z",
+      "totalFee": 1102.5,
+      "lastDelivery": "2025-11-26T23:17:54.881Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 668,
+      "projectSubtitledEpisodes": 725,
       "manualOrder": 0,
-      "remainingAmount": -1.5,
+      "remainingAmount": 84,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 710,
+      "totalFee": 717,
       "lastDelivery": "2025-11-21T16:55:22.495Z",
-      "projectTranslatedEpisodes": 105,
+      "projectTranslatedEpisodes": 106,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 161
+      "remainingAmount": 168
     },
     {
       "name": "Goreme",
@@ -251,7 +251,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 220,
+      "amountReceived": 219,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -266,7 +266,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 105,
-      "remainingAmount": 25
+      "remainingAmount": 26
     },
     {
       "name": "NaNa",
@@ -283,13 +283,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 530.5,
-      "lastDelivery": "2025-11-18T14:44:46.951Z",
-      "projectTranslatedEpisodes": 89,
+      "totalFee": 563.5,
+      "lastDelivery": "2025-11-26T19:17:50.005Z",
+      "projectTranslatedEpisodes": 91,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 42.5
+      "remainingAmount": 75.5
     },
     {
       "name": "Nouralhadi",
@@ -352,13 +352,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 328,
-      "lastDelivery": "2025-11-16T11:13:30.356Z",
+      "totalFee": 356.5,
+      "lastDelivery": "2025-11-26T23:17:54.881Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 171,
+      "projectEditedEpisodes": 228,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 81
+      "remainingAmount": 109.5
     },
     {
       "name": "مدقق س",
@@ -375,13 +375,13 @@
       "notes": "",
       "id": "mg45bjgrm8e5p47g03m",
       "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 462,
-      "lastDelivery": "2025-11-25T05:22:43.615Z",
+      "totalFee": 526.5,
+      "lastDelivery": "2025-11-26T23:23:44.216Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 153,
+      "projectEditedEpisodes": 186,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 42
+      "remainingAmount": 106.5
     }
   ],
   "anime": [
@@ -2215,7 +2215,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/850784",
+      "rawUrl": "https://mega.nz/folder/sm02RAbY#heGFPk-YSiyccjWFPKqbRQ",
       "notes": "The story revolves around the members of a private military company (PMC), and the uneasy tension between them and the regular military after a war that caused massive environmental destruction.\n\n(Source: Animekon)",
       "malId": "5505",
       "url": "https://myanimelist.net/anime/5505/Vipers_Creed",
@@ -17210,7 +17210,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 34,
+      "completedEpisodes": 35,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17223,7 +17223,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 238,
+      "totalCost": 245,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -20634,15 +20634,15 @@
     },
     {
       "name": ".hack//The Movie: Sekai no Mukou ni",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 27,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -20672,21 +20672,22 @@
       "duration": "1 hr 51 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.04,
-      "totalCost": 0,
+      "totalCost": 27,
       "id": "mci8qtawyte935whzy",
-      "createdDate": "2025-06-29T22:27:57.272Z"
+      "createdDate": "2025-06-29T22:27:57.272Z",
+      "completionDate": "2025-11-25T19:14:01.185Z"
     },
     {
       "name": ".hack//Versus: The Thanatos Report",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -20713,9 +20714,10 @@
       "duration": "21 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.3,
-      "totalCost": 0,
+      "totalCost": 6,
       "id": "mci8r1qvkfgxxeu4yda",
-      "createdDate": "2025-06-29T22:28:08.215Z"
+      "createdDate": "2025-06-29T22:28:08.215Z",
+      "completionDate": "2025-11-26T19:17:50.005Z"
     },
     {
       "name": ".hack//Tasogare no Udewa Densetsu: Offline de Aimashou",
@@ -23849,56 +23851,16 @@
       "createdDate": "2025-06-04T11:19:14.416Z"
     },
     {
-      "name": "How to Get Away with Murder",
-      "status": "قريباً",
-      "totalEpisodes": 90,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "https://1337x.to/search/how+to+get+away+with+murder+vyndros/1/",
-      "notes": "ترجمة نتفليكس حصراً",
-      "url": "https://www.themoviedb.org/tv/61056",
-      "seriesYear": "2014",
-      "seriesNetwork": "ABC",
-      "seriesStatusTMDB": "Ended",
-      "seriesOverview": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
-      "seriesGenres": [
-        "جريمة",
-        "دراما",
-        "غموض"
-      ],
-      "seriesVoteAverage": 7.8,
-      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
-      "seriesOriginCountry": [
-        "US"
-      ],
-      "seriesOriginalLanguage": "en",
-      "seriesEpisodeRunTime": "43",
-      "totalCost": 0,
-      "id": "mbhuwacwoq3sz3lp3wc",
-      "createdDate": "2025-06-04T11:20:35.696Z"
-    },
-    {
       "name": "Animal Kingdom",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 75,
       "completedEpisodes": 0,
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 3,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -23969,23 +23931,23 @@
     },
     {
       "name": "New Amsterdam",
-      "status": "قريباً",
-      "totalEpisodes": 89,
+      "status": "جارٍ",
+      "totalEpisodes": 77,
       "completedEpisodes": 0,
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
-      "subtitlerId": null,
+      "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 0.5,
       "timerPrice": 0,
-      "subtitlerPrice": 0,
+      "subtitlerPrice": 1.5,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/ojkRzIIR#sfT6sckFXZFpepWciDYbog",
-      "notes": "ترجمة نتفليكس حصراً",
+      "notes": "ترجمة نتفليكس حصراً\nأول 4 مواسم فقط لأن الخامس موجود له نسخة موقتة على النت",
       "url": "https://www.themoviedb.org/tv/80350",
       "seriesYear": "2018",
       "seriesNetwork": "NBC",
@@ -24003,32 +23965,34 @@
       "seriesEpisodeRunTime": "43",
       "totalCost": 0,
       "id": "mbhv19wwiskcy84iqi9",
-      "createdDate": "2025-06-04T11:24:28.400Z"
+      "createdDate": "2025-06-04T11:24:28.400Z",
+      "seriesNameSearch": "New Amsterdam",
+      "completionDate": null
     },
     {
       "name": "My Name Is Earl",
-      "status": "قريباً",
-      "totalEpisodes": 92,
-      "completedEpisodes": 0,
+      "status": "مكتمل",
+      "totalEpisodes": 32,
+      "completedEpisodes": 32,
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 1.5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
+      "editingBonus": 13.5,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/torrent/4535406/My-Name-Is-Earl-2005-Season-1-4-S01-S04-1080p-Mixed-x265-HEVC-10bit-AAC-5-1-Silence-REPACK-QxR/",
-      "notes": "",
+      "notes": "الموسم الأول كامل\nالموسم الثاني جاهز من النت\n8 حلقات من الموسم الثالث والباقي جاهز من النت\nتدقيق التوقيت وإصلاح المشاكل في الموسم الرابع تم احتسابها أجرة إضافية",
       "url": "https://www.themoviedb.org/tv/2317",
       "seriesYear": "2005",
       "seriesNetwork": "NBC",
       "seriesStatusTMDB": "Canceled",
-      "seriesOverview": [],
+      "seriesOverview": "",
       "seriesGenres": [
         "كوميديا"
       ],
@@ -24039,9 +24003,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 0,
+      "totalCost": 61.5,
       "id": "mbhv1xkw1ajl9xexl74",
-      "createdDate": "2025-06-04T11:24:59.072Z"
+      "createdDate": "2025-06-04T11:24:59.072Z",
+      "seriesNameSearch": "My Name Is Earl",
+      "completionDate": "2025-11-26T12:13:41.069Z"
     },
     {
       "name": "Six Feet Under",
@@ -24124,9 +24090,9 @@
     },
     {
       "name": "Happy Endings",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 57,
-      "completedEpisodes": 0,
+      "completedEpisodes": 57,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -24157,11 +24123,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "22",
-      "totalCost": -0.5,
+      "totalCost": 113.5,
       "id": "mbhv4oxsjaadd0a1la",
       "createdDate": "2025-06-04T11:27:07.840Z",
       "seriesNameSearch": "Happy Endings",
-      "completionDate": null
+      "completionDate": "2025-11-25T16:28:43.968Z"
     },
     {
       "name": "Insecure",
@@ -24364,7 +24330,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 153,
+      "completedEpisodes": 154,
       "translatorId": null,
       "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
@@ -24378,7 +24344,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 14 من الموسم السابع",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 15 من الموسم السابع",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24397,7 +24363,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 462,
+      "totalCost": 465,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24729,6 +24695,146 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-11-26T23:24:00.987Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T23:23:44.216Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T23:23:34.504Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (153 ← 154)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 154,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-26T23:17:54.881Z",
+      "message": "تعديل مشروع (series): New Amsterdam",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T19:17:50.006Z",
+      "message": "تعديل مشروع (anime): .hack//Versus: The Thanatos Report",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T17:12:14.071Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T12:53:55.732Z",
+      "message": "تعديل مشروع (series): My Name Is Earl",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T12:13:41.069Z",
+      "message": "تعديل مشروع (series): My Name Is Earl",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T12:12:17.838Z",
+      "message": "تعديل مشروع (series): My Name Is Earl",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T05:29:07.576Z",
+      "message": "حذف مشروع (series): How to Get Away with Murder",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-26T05:27:52.857Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (34 ← 35)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 35,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-25T19:14:01.186Z",
+      "message": "تعديل مشروع (anime): .hack//The Movie: Sekai no Mukou ni",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T19:00:25.345Z",
+      "message": "تعديل مشروع (anime): Viper's Creed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T18:59:46.377Z",
+      "message": "تعديل مشروع (anime): Viper's Creed",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T16:28:43.969Z",
+      "message": "تعديل مشروع (series): Happy Endings",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T16:28:29.721Z",
+      "message": "تعديل مشروع (series): Happy Endings",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T12:38:25.941Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-25T12:37:38.541Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
     {
       "timestamp": "2025-11-25T05:22:43.615Z",
       "message": "تعديل مشروع (series): Little House on the Prairie",
@@ -49193,5 +49299,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-25T05:23:19.332Z"
+  "lastCloudExport": "2025-11-26T23:24:05.298Z"
 }
