@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-26T23:23:44.230Z",
+  "lastSaved": "2025-11-29T11:59:35.621Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 98.5,
+      "totalFee": 101.5,
       "lastDelivery": "2025-11-06T05:41:56.179Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 61,
+      "projectTimedEpisodes": 62,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 6.5
+      "remainingAmount": 9.5
     },
     {
       "name": "Amira",
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 717,
-      "lastDelivery": "2025-11-21T16:55:22.495Z",
-      "projectTranslatedEpisodes": 106,
+      "totalFee": 731,
+      "lastDelivery": "2025-11-29T11:59:35.608Z",
+      "projectTranslatedEpisodes": 108,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 168
+      "remainingAmount": 182
     },
     {
       "name": "Goreme",
@@ -186,14 +186,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2522.5,
+      "totalFee": 2552.5,
       "lastDelivery": "2025-11-22T22:31:49.090Z",
-      "projectTranslatedEpisodes": 172,
+      "projectTranslatedEpisodes": 175,
       "projectEditedEpisodes": 936,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 195.5,
+      "remainingAmount": 225.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -251,7 +251,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 219,
+      "amountReceived": 213,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -260,13 +260,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 245,
-      "lastDelivery": "2025-10-27T11:45:16.917Z",
+      "totalFee": 248,
+      "lastDelivery": "2025-11-29T11:59:35.608Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 105,
-      "remainingAmount": 26
+      "remainingAmount": 35
     },
     {
       "name": "NaNa",
@@ -17210,7 +17210,7 @@
       "name": "Fushigi no Umi no Nadia",
       "status": "جارٍ",
       "totalEpisodes": 39,
-      "completedEpisodes": 35,
+      "completedEpisodes": 37,
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
@@ -17223,7 +17223,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 245,
+      "totalCost": 259,
       "malId": "1251",
       "url": "https://myanimelist.net/anime/1251/Fushigi_no_Umi_no_Nadia",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1750/118570l.jpg",
@@ -22042,7 +22042,7 @@
       "name": "Ganglion",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 8,
+      "completedEpisodes": 9,
       "notes": "تم إضافة أجرة إضافية توقيت أول حلقتين وتوقيت الشارتين لندى",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -22074,7 +22074,7 @@
       "duration": "Unknown",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 40,
+      "totalCost": 45,
       "id": "mgcfolyf7iw3so3vpga",
       "createdDate": "2025-10-04T15:34:24.039Z",
       "completionDate": null
@@ -22988,7 +22988,7 @@
       "name": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
       "status": "جارٍ",
       "totalEpisodes": 12,
-      "completedEpisodes": 9,
+      "completedEpisodes": 10,
       "notes": "2 دولار أجرة توقيت الشارتين إضافية للمنسق",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23021,7 +23021,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.55,
-      "totalCost": 90,
+      "totalCost": 100,
       "id": "mggvaaqqogq7of7l8l",
       "createdDate": "2025-10-07T18:02:14.882Z",
       "completionDate": null
@@ -23073,7 +23073,7 @@
       "name": "Wandance",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 7,
+      "completedEpisodes": 8,
       "notes": "تم إضافة أجرة توقيت الشارات للمحاكي",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23106,7 +23106,7 @@
       "duration": "23 min",
       "rating": [],
       "score": 6.73,
-      "totalCost": 135,
+      "totalCost": 153,
       "id": "mgkkh66w4y394tj6xoa",
       "createdDate": "2025-10-10T08:10:44.504Z",
       "completionDate": null
@@ -23526,6 +23526,91 @@
       "id": "miav36mq1muhc3gys0z",
       "createdDate": "2025-11-22T22:29:30.578Z",
       "completionDate": "2025-11-22T22:29:30.578Z"
+    },
+    {
+      "name": "Fushigi no Umi no Nadia Omake Gekijou",
+      "status": "جارٍ",
+      "totalEpisodes": 10,
+      "completedEpisodes": 0,
+      "notes": "أجرة توقيت الحلقات 3 دولار لأنه ضبط وليس من الصفر لذا تم وضع الأجرة كمبلغ إضافي",
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": "mbfqj1wani0rnl0npq",
+      "translationPrice": 1,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 3,
+      "rawUrl": "",
+      "synopsis": "Bonus episodes included on the Laserdisc box release of Nadia that expands on the world of the series. They were later rereleased in the DVD and Blu Ray box sets of the series in Japan.",
+      "malId": "3381",
+      "url": "https://myanimelist.net/anime/3381/Fushigi_no_Umi_no_Nadia_Omake_Gekijou",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1828/143218l.jpg",
+      "animeType": "Special",
+      "studio": "Gainax",
+      "source": "Original",
+      "premiered": "1991-12-21",
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "themes": [],
+      "duration": "4 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.48,
+      "totalCost": 3,
+      "id": "mik8kgmxpv7n7xz0oxc",
+      "createdDate": "2025-11-29T11:56:47.289Z",
+      "completionDate": null
+    },
+    {
+      "name": "Fushigi no Umi no Nadia: Original Movie",
+      "status": "قريباً",
+      "totalEpisodes": 1,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 26,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Three years after the defeat of Gargoyle and Neo-Atlantis, a new threat has surfaced bent on bringing the world under his control. Geiger, using advanced robot technology, is attempting to begin a world war, and take control of the devistated world after the destruction has stopped. Once again, Nadia and Jean must fight to save the world, only this time from itself. \n\n(Source: ANN)",
+      "malId": "1252",
+      "url": "https://myanimelist.net/anime/1252/Fushigi_no_Umi_no_Nadia__Original_Movie",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1354/94841l.jpg",
+      "animeType": "Movie",
+      "studio": "Gainax, Group TAC, Dongwoo A&E",
+      "source": "Original",
+      "premiered": "1991-06-29",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "themes": [
+        "Historical"
+      ],
+      "duration": "1 hr 27 min",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 5.26,
+      "totalCost": 0,
+      "id": "mik8n4o0ywtorin73z",
+      "createdDate": "2025-11-29T11:58:51.744Z"
     }
   ],
   "series": [
@@ -24696,9 +24781,174 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-11-26T23:24:00.987Z",
-      "message": "تصدير البيانات إلى الجهاز",
+      "timestamp": "2025-11-29T11:59:35.608Z",
+      "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia Omake Gekijou",
       "details": null
+    },
+    {
+      "timestamp": "2025-11-29T11:58:51.744Z",
+      "message": "إضافة مشروع (anime): Fushigi no Umi no Nadia: Original Movie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T11:56:47.289Z",
+      "message": "إضافة مشروع (anime): Fushigi no Umi no Nadia Omake Gekijou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T09:26:32.747Z",
+      "message": "تحديث حلقات مشروع (anime) Wandance: زيادة حلقة (7 ← 8)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgkkh66w4y394tj6xoa",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 8,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": "mfphust6wk7uuqpxac",
+            "price": 3
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T09:26:30.258Z",
+      "message": "تحديث حلقات مشروع (anime) Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga: زيادة حلقة (9 ← 10)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvaaqqogq7of7l8l",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 10,
+        "costChange": 10,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 10
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T09:26:26.603Z",
+      "message": "تحديث حلقات مشروع (anime) Ganglion: زيادة حلقة (8 ← 9)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgcfolyf7iw3so3vpga",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 9,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T09:18:58.899Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-27T21:24:30.332Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (36 ← 37)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 37,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-27T09:02:50.408Z",
+      "message": "تحديث حلقات مشروع (anime) Fushigi no Umi no Nadia: زيادة حلقة (35 ← 36)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkbwq0jt17lui",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 36,
+        "costChange": 7,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
     },
     {
       "timestamp": "2025-11-26T23:23:44.216Z",
@@ -49299,5 +49549,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-26T23:24:05.298Z"
+  "lastCloudExport": "2025-11-29T11:59:53.174Z"
 }
