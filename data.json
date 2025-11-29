@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-11-29T11:59:35.621Z",
+  "lastSaved": "2025-11-29T22:25:34.138Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -94,13 +94,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 492,
+      "totalFee": 498,
       "lastDelivery": "2025-10-27T11:47:16.734Z",
-      "projectTranslatedEpisodes": 80,
+      "projectTranslatedEpisodes": 81,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 90
+      "remainingAmount": 96
     },
     {
       "name": "FREDOM",
@@ -177,7 +177,7 @@
         "translator",
         "editor"
       ],
-      "amountReceived": 2327,
+      "amountReceived": 2322,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -186,14 +186,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2552.5,
-      "lastDelivery": "2025-11-22T22:31:49.090Z",
+      "totalFee": 2558.5,
+      "lastDelivery": "2025-11-29T18:06:52.068Z",
       "projectTranslatedEpisodes": 175,
-      "projectEditedEpisodes": 936,
+      "projectEditedEpisodes": 938,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 225.5,
+      "remainingAmount": 236.5,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -212,7 +212,7 @@
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
       "totalFee": 625,
-      "lastDelivery": "2025-11-22T22:31:49.090Z",
+      "lastDelivery": "2025-11-29T18:06:52.068Z",
       "projectTranslatedEpisodes": 105,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -235,13 +235,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 417,
+      "totalFee": 429,
       "lastDelivery": "2025-11-06T05:41:56.179Z",
-      "projectTranslatedEpisodes": 72,
+      "projectTranslatedEpisodes": 73,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 20,
-      "remainingAmount": 51
+      "projectSubtitledEpisodes": 21,
+      "remainingAmount": 63
     },
     {
       "name": "N_Angle",
@@ -260,13 +260,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 248,
+      "totalFee": 251,
       "lastDelivery": "2025-11-29T11:59:35.608Z",
       "projectTranslatedEpisodes": 20,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 105,
-      "remainingAmount": 35
+      "remainingAmount": 38
     },
     {
       "name": "NaNa",
@@ -20847,7 +20847,7 @@
       "name": "Gachiakuta",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 20,
+      "completedEpisodes": 21,
       "notes": "تم احتساب الحلقة السادسة لمادرامي بدل ايمي بسبب اعتذارها عن ترجمتها لظروف خاصة\nتم خصم أجرة حلقتين من ايمي لأنهما من ترجمة مارتن واحتسابهما لمارتن عن طريق الحساب الأساسي\nتم خصم الحلقات التي لم يعمل عليها جيرومي\nتم إضافة أجرة 9 حلقات إلى إيمي وندى في حسابهما الأساسي ومن ثم استبدالهما بهيمو مع خصم أجرة الحلقات السابقة عليه",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -20878,7 +20878,7 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.1,
-      "totalCost": 225,
+      "totalCost": 243,
       "id": "mctcxhzsd3ouuvp83jc",
       "createdDate": "2025-07-07T17:10:35.608Z",
       "completionDate": null
@@ -23115,7 +23115,7 @@
       "name": "Clannad: After Story",
       "status": "جارٍ",
       "totalEpisodes": 24,
-      "completedEpisodes": 19,
+      "completedEpisodes": 20,
       "notes": "",
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23146,7 +23146,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.93,
-      "totalCost": 114,
+      "totalCost": 120,
       "id": "mgo4tn4at382w6dp3t",
       "createdDate": "2025-10-12T20:03:37.162Z",
       "completionDate": null
@@ -23379,7 +23379,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "rawUrl": "https://nyaa.si/view/1199394",
+      "rawUrl": "https://mega.nz/folder/vJ1BVDRB#mUSLsT_jyhwmYJW_wjg5Jg",
       "synopsis": "Ten-year-old Sakura Kinomoto is an ordinary fourth-grade student living in Tomoeda until, one day, she stumbles upon a mysterious book of cards titled \"The Clow.\" Pondering over her discovery, she unintentionally causes a magical gust of wind to scatter the cards all over town.\n\nThe accident awakens the Beast of the Seal—Keroberos, nicknamed \"Kero\"—who tells Sakura that she has released the mystical \"Clow Cards\" created by the sorcerer Clow Reed. Due to each Card's ability to act independently and their incredible power, Clow had sealed them away. Now that they have been set free, the Cards pose great danger to the world, and it is up to Sakura to put an end to them.\n\nAppointing Sakura as the \"Cardcaptor\" and granting her the Sealed Key, Kero tasks her with finding and recapturing all the Clow Cards. Alongside her best friend Tomoyo Daidouji, and with Kero's guidance, Sakura must learn to balance her new secret duty with the everyday troubles as she takes flight on her magical adventures as Cardcaptor Sakura.\n\n[Written by MAL Rewrite]",
       "malId": "232",
       "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
@@ -23572,11 +23572,11 @@
       "status": "قريباً",
       "totalEpisodes": 1,
       "completedEpisodes": 0,
-      "notes": "",
+      "notes": "أجرة توقيت الفيلم 3 دولار لأنه ضبط وليس من الصفر لذا تم وضع الأجرة كمبلغ إضافي",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
       "timerId": null,
-      "subtitlerId": null,
+      "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 26,
       "editingPrice": 0,
       "timerPrice": 0,
@@ -23584,7 +23584,7 @@
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
-      "subtitlerBonus": 0,
+      "subtitlerBonus": 3,
       "rawUrl": "",
       "synopsis": "Three years after the defeat of Gargoyle and Neo-Atlantis, a new threat has surfaced bent on bringing the world under his control. Geiger, using advanced robot technology, is attempting to begin a world war, and take control of the devistated world after the destruction has stopped. Once again, Nadia and Jean must fight to save the world, only this time from itself. \n\n(Source: ANN)",
       "malId": "1252",
@@ -23608,9 +23608,10 @@
       "duration": "1 hr 27 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 5.26,
-      "totalCost": 0,
+      "totalCost": 3,
       "id": "mik8n4o0ywtorin73z",
-      "createdDate": "2025-11-29T11:58:51.744Z"
+      "createdDate": "2025-11-29T11:58:51.744Z",
+      "completionDate": null
     }
   ],
   "series": [
@@ -24780,6 +24781,151 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-11-29T22:25:34.128Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T22:25:26.817Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: نقص حلقة (21 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 20,
+        "costChange": -18,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T22:25:14.097Z",
+      "message": "تحديث حلقات مشروع (anime) Gachiakuta: زيادة حلقة (20 ← 21)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mctcxhzsd3ouuvp83jc",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 21,
+        "costChange": 18,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 10
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 2
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T22:24:43.297Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T22:24:35.024Z",
+      "message": "تحديث حلقات مشروع (anime) Clannad: After Story: زيادة حلقة (19 ← 20)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgo4tn4at382w6dp3t",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 20,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-11-29T19:10:29.046Z",
+      "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia: Original Movie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T19:09:41.557Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T19:05:19.005Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-11-29T18:06:52.068Z",
+      "message": "تعديل مشروع (anime): Cardcaptor Sakura",
+      "details": null
+    },
     {
       "timestamp": "2025-11-29T11:59:35.608Z",
       "message": "تعديل مشروع (anime): Fushigi no Umi no Nadia Omake Gekijou",
@@ -49549,5 +49695,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-11-29T11:59:53.174Z"
+  "lastCloudExport": "2025-11-29T22:50:35.319Z"
 }
