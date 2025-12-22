@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-12-16T23:42:56.182Z",
+  "lastSaved": "2025-12-22T06:18:54.081Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -24,13 +24,13 @@
       "notes": "",
       "id": "mfphust6wk7uuqpxac",
       "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 110.5,
-      "lastDelivery": "2025-12-04T12:58:31.362Z",
+      "totalFee": 113.5,
+      "lastDelivery": "2025-12-22T06:17:19.860Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 65,
+      "projectTimedEpisodes": 66,
       "projectSubtitledEpisodes": 33,
-      "remainingAmount": 18.5
+      "remainingAmount": 21.5
     },
     {
       "name": "Amira",
@@ -94,13 +94,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 522,
-      "lastDelivery": "2025-12-08T21:33:16.160Z",
-      "projectTranslatedEpisodes": 85,
+      "totalFee": 545,
+      "lastDelivery": "2025-12-19T08:29:56.631Z",
+      "projectTranslatedEpisodes": 86,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 24
+      "remainingAmount": 47
     },
     {
       "name": "FREDOM",
@@ -108,7 +108,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 549,
+      "amountReceived": 738,
       "paymentMethod": "عند الصراف",
       "twitterHandle": "@Fredom_fd",
       "discordHandle": "fredz2_",
@@ -123,7 +123,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 262
+      "remainingAmount": 73
     },
     {
       "name": "Goreme",
@@ -179,7 +179,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 2758.5,
+      "amountReceived": 2740.5,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
@@ -188,14 +188,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2749.5,
-      "lastDelivery": "2025-12-16T23:42:51.929Z",
-      "projectTranslatedEpisodes": 182,
-      "projectEditedEpisodes": 949,
+      "totalFee": 2766.5,
+      "lastDelivery": "2025-12-22T06:17:19.860Z",
+      "projectTranslatedEpisodes": 184,
+      "projectEditedEpisodes": 948,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": -9,
+      "remainingAmount": 26,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -237,13 +237,13 @@
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
       "createdDate": "2025-06-02T23:24:31.361Z",
-      "totalFee": 492,
-      "lastDelivery": "2025-12-16T23:42:51.929Z",
-      "projectTranslatedEpisodes": 79,
+      "totalFee": 501,
+      "lastDelivery": "2025-12-22T06:14:16.868Z",
+      "projectTranslatedEpisodes": 80,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 24,
-      "remainingAmount": 54
+      "remainingAmount": 63
     },
     {
       "name": "N_Angle",
@@ -253,7 +253,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 295,
+      "amountReceived": 289,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -262,13 +262,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 255.5,
-      "lastDelivery": "2025-12-12T11:07:38.610Z",
-      "projectTranslatedEpisodes": 20,
+      "totalFee": 318.5,
+      "lastDelivery": "2025-12-22T06:13:13.196Z",
+      "projectTranslatedEpisodes": 27,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 0,
+      "projectTimedEpisodes": 7,
       "projectSubtitledEpisodes": 118,
-      "remainingAmount": -39.5
+      "remainingAmount": 29.5
     },
     {
       "name": "NaNa",
@@ -285,13 +285,13 @@
       "notes": "",
       "id": "mbfq447udijq1mago58",
       "createdDate": "2025-06-02T23:31:10.554Z",
-      "totalFee": 563.5,
-      "lastDelivery": "2025-11-26T19:17:50.005Z",
-      "projectTranslatedEpisodes": 91,
+      "totalFee": 564.5,
+      "lastDelivery": "2025-12-18T22:08:50.066Z",
+      "projectTranslatedEpisodes": 92,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 1
     },
     {
       "name": "Nouralhadi",
@@ -332,10 +332,10 @@
       "id": "mbfqpfs19f4wc16830s",
       "createdDate": "2025-06-02T23:47:45.313Z",
       "totalFee": 0,
-      "lastDelivery": "2025-10-27T11:50:50.717Z",
+      "lastDelivery": "2025-12-22T06:14:16.868Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 120,
+      "projectTimedEpisodes": 121,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
     },
@@ -354,13 +354,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 378,
-      "lastDelivery": "2025-12-13T22:41:17.384Z",
+      "totalFee": 385,
+      "lastDelivery": "2025-12-19T21:34:02.783Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 265,
+      "projectEditedEpisodes": 267,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 21.5
+      "remainingAmount": 28.5
     },
     {
       "name": "مدقق س",
@@ -377,13 +377,13 @@
       "notes": "",
       "id": "mg45bjgrm8e5p47g03m",
       "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 526.5,
-      "lastDelivery": "2025-11-26T23:23:44.216Z",
+      "totalFee": 559.5,
+      "lastDelivery": "2025-12-18T22:07:43.474Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 186,
+      "projectEditedEpisodes": 197,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 33
     }
   ],
   "anime": [
@@ -1895,7 +1895,7 @@
     },
     {
       "name": "Sakigake!! Cromartie Koukou",
-      "status": "جارٍ",
+      "status": "متوقف",
       "totalEpisodes": 26,
       "completedEpisodes": 2,
       "translatorId": "mbe8ktw6qz40f9qtp7",
@@ -2026,7 +2026,7 @@
     },
     {
       "name": "Adventure Time",
-      "status": "جارٍ",
+      "status": "متوقف",
       "totalEpisodes": 283,
       "completedEpisodes": 26,
       "translatorId": "mbfpvk75gpl17avaz7",
@@ -20767,9 +20767,9 @@
     },
     {
       "name": ".hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 3,
-      "completedEpisodes": 2,
+      "completedEpisodes": 3,
       "notes": "",
       "translatorId": "mbfq447udijq1mago58",
       "editorId": null,
@@ -20801,10 +20801,10 @@
       "duration": "3 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.3,
-      "totalCost": 2,
+      "totalCost": 3,
       "id": "mci8rkhz1uutma02shn",
       "createdDate": "2025-06-29T22:28:32.519Z",
-      "completionDate": null
+      "completionDate": "2025-12-18T22:08:50.066Z"
     },
     {
       "name": "Akuyaku Reijou Tensei Ojisan Mini",
@@ -21957,7 +21957,7 @@
     },
     {
       "name": "Crayon Shin-chan",
-      "status": "جارٍ",
+      "status": "متوقف",
       "totalEpisodes": 0,
       "completedEpisodes": 4,
       "notes": "",
@@ -22044,7 +22044,7 @@
       "name": "Ganglion",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 11,
+      "completedEpisodes": 12,
       "notes": "تم إضافة أجرة إضافية توقيت أول حلقتين وتوقيت الشارتين لندى",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -22076,7 +22076,7 @@
       "duration": "3 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 6.03,
-      "totalCost": 55,
+      "totalCost": 60,
       "id": "mgcfolyf7iw3so3vpga",
       "createdDate": "2025-10-04T15:34:24.039Z",
       "completionDate": null
@@ -22085,15 +22085,15 @@
       "name": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
       "status": "جارٍ",
       "totalEpisodes": 0,
-      "completedEpisodes": 1,
+      "completedEpisodes": 7,
       "notes": "تم إضافة أجرة توقيت الحلقة الأولى للمنسق وأجرة توقيت الشارتين",
-      "translatorId": null,
-      "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": null,
+      "translatorId": "mbfqj1wani0rnl0npq",
+      "editorId": null,
+      "timerId": "mbfqj1wani0rnl0npq",
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 6,
-      "timerPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 3,
       "subtitlerPrice": 0,
       "translationBonus": 0,
       "editingBonus": 0,
@@ -22116,7 +22116,7 @@
       "duration": "23 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": [],
-      "totalCost": 12,
+      "totalCost": 63,
       "id": "mgcfpxdiimew53iokzd",
       "createdDate": "2025-10-04T15:35:25.494Z",
       "completionDate": null
@@ -23030,9 +23030,9 @@
     },
     {
       "name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-      "status": "جارٍ",
+      "status": "مكتمل",
       "totalEpisodes": 12,
-      "completedEpisodes": 11,
+      "completedEpisodes": 12,
       "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23066,16 +23066,16 @@
       "duration": "23 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.48,
-      "totalCost": 165,
+      "totalCost": 180,
       "id": "mggvbe8qdqrmmua96lp",
       "createdDate": "2025-10-07T18:03:06.074Z",
-      "completionDate": null
+      "completionDate": "2025-12-22T06:14:16.868Z"
     },
     {
       "name": "Wandance",
-      "status": "جارٍ",
-      "totalEpisodes": 0,
-      "completedEpisodes": 11,
+      "status": "مكتمل",
+      "totalEpisodes": 12,
+      "completedEpisodes": 12,
       "notes": "تم إضافة أجرة توقيت الشارات للمحاكي",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
@@ -23090,7 +23090,7 @@
       "timerBonus": 9,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "synopsis": "Kaboku Kotani is starting high school, and he plans to do what he's always done: go along with his friends, keep quiet, and not draw too much attention to himself. After all, it's hard enough to get by with a stutter like his—why make things worse by standing out from the crowd? But then he sees another first-year, Hikari Wanda, dancing like no one is watching—or like she doesn't care who sees her. It makes Kaboku wonder: Could he reach that same freedom? To find his way to Wanda, he does something he never thought he could: He joins the dance club. After all, every routine begins with a single step, right? Join Kaboku and Wanda as they freestyle their way to life and love!\n\n(Source: Kodansha USA)",
+      "synopsis": "As Kaboku \"Kabo\" Kotani enrolls in Ichiran High School, he hopes to spend his high school days quietly to avoid standing out from everyone else because of his stuttering. While his friends join the school's basketball club, he looks to the dance club instead. However, due to an embarrassing memory from middle school, Koba has avoided dancing in front of others again, keeping him from joining the club.\n\nThings begin to change when Kabo spots his cute classmate Hikari Wanda dancing. As the two learn about each other, Wanda admits that she is not great with words either and prefers to express herself with her performances. This sparks a light in Kabo, and he decides to join the dance club despite his uncomfortable past. With Wanda and his new clubmates supporting him, Kabo sets out to improve his dancing, express himself freely, and create unforgettable memories one step at a time.\n\n[Written by MAL Rewrite]",
       "malId": "59623",
       "url": "https://myanimelist.net/anime/59623/Wandance",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1104/151524l.jpg",
@@ -23105,13 +23105,13 @@
         "Performing Arts",
         "School"
       ],
-      "duration": "23 min",
-      "rating": [],
-      "score": 6.73,
-      "totalCost": 240,
+      "duration": "23 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 6.35,
+      "totalCost": 261,
       "id": "mgkkh66w4y394tj6xoa",
       "createdDate": "2025-10-10T08:10:44.504Z",
-      "completionDate": null
+      "completionDate": "2025-12-22T06:17:19.860Z"
     },
     {
       "name": "Clannad: After Story",
@@ -23155,15 +23155,15 @@
     },
     {
       "name": "Clannad Movie",
-      "status": "قريباً",
+      "status": "مكتمل",
       "totalEpisodes": 1,
-      "completedEpisodes": 0,
+      "completedEpisodes": 1,
       "notes": "",
-      "translatorId": null,
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
+      "translationPrice": 23,
       "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -23191,9 +23191,10 @@
       "duration": "1 hr 33 min",
       "rating": "PG-13 - Teens 13 or older",
       "score": 7.24,
-      "totalCost": 0,
+      "totalCost": 23,
       "id": "mgo4u1dn067e5glhw9y5",
-      "createdDate": "2025-10-12T20:03:55.643Z"
+      "createdDate": "2025-10-12T20:03:55.643Z",
+      "completionDate": "2025-12-19T08:29:56.631Z"
     },
     {
       "name": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
@@ -23697,16 +23698,16 @@
     },
     {
       "name": "Tokyo Revengers",
-      "status": "جارٍ",
+      "status": "قريباً",
       "totalEpisodes": 24,
-      "completedEpisodes": 1,
+      "completedEpisodes": 0,
       "notes": "",
       "translatorId": null,
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 6,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -23733,7 +23734,7 @@
       "duration": "23 min per ep",
       "rating": "R - 17+ (violence & profanity)",
       "score": 7.83,
-      "totalCost": 6,
+      "totalCost": 0,
       "id": "mitejuqzh2r81moqa49",
       "createdDate": "2025-12-05T21:54:12.203Z",
       "completionDate": null
@@ -24065,13 +24066,13 @@
       "name": "Animal Kingdom",
       "status": "جارٍ",
       "totalEpisodes": 75,
-      "completedEpisodes": 0,
+      "completedEpisodes": 2,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 3,
+      "editingPrice": 3.5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -24079,7 +24080,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/search/Animal+kingdom+2016+qxr/1/",
-      "notes": "",
+      "notes": "الحلقة الأولى ساعة و40 دقيقة",
       "url": "https://www.themoviedb.org/tv/66025",
       "seriesYear": "2016",
       "seriesNetwork": "TNT",
@@ -24096,7 +24097,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "50",
-      "totalCost": 0,
+      "totalCost": 7,
       "id": "mbhuzdgws1hc1ov7bbb",
       "createdDate": "2025-06-04T11:22:59.696Z",
       "seriesNameSearch": "Animal Kingdom",
@@ -24541,7 +24542,7 @@
       "name": "Little House on the Prairie",
       "status": "جارٍ",
       "totalEpisodes": 204,
-      "completedEpisodes": 154,
+      "completedEpisodes": 165,
       "translatorId": null,
       "editorId": "mg45bjgrm8e5p47g03m",
       "timerId": null,
@@ -24555,7 +24556,7 @@
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 15 من الموسم السابع",
+      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 4 من الموسم الثامن",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24574,7 +24575,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 465,
+      "totalCost": 498,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24903,9 +24904,334 @@
       "totalCost": 0,
       "id": "mgfe6yrl2qx9yosy4t6",
       "createdDate": "2025-10-06T17:15:59.745Z"
+    },
+    {
+      "name": "Life",
+      "status": "قريباً",
+      "totalEpisodes": 32,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "seriesOverview": "Complex, offbeat Detective Charlie Crews returns to the force after serving time in prison for a crime he didn’t commit. Crews’ new lease on life has provided him with a Zen-like outlook, peace of mind and no need for vengeance, an attitude which can be challenging to maintain when someone he cares about is threatened — or when he is investigating the mystery surrounding the murder he was falsely accused of.",
+      "seriesNameSearch": "Life",
+      "url": "https://www.themoviedb.org/tv/3797",
+      "seriesYear": "2007",
+      "seriesNetwork": "NBC",
+      "seriesStatusTMDB": "Canceled",
+      "seriesGenres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "seriesVoteAverage": 7.7,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/4zTDeRJxdMqH3Si2fIZjQi44k17.jpg",
+      "seriesOriginCountry": [
+        "US"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "45",
+      "totalCost": 0,
+      "id": "mjfd1le94s7yxjnzdny",
+      "createdDate": "2025-12-21T06:42:56.529Z"
+    },
+    {
+      "name": "Kim's Convenience",
+      "status": "قريباً",
+      "totalEpisodes": 65,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "seriesOverview": "The funny, heartfelt story of The Kims, a Korean-Canadian family, running a convenience store in downtown Toronto. Mr. and Mrs. Kim ('Appa' and 'Umma') immigrated to Toronto in the '80s to set up shop near Regent Park and had two kids, Jung and Janet who are now young adults. However, when Jung was 16, he and Appa had a major falling out involving a physical fight, stolen money and Jung leaving home. Father and son have been estranged since.",
+      "seriesNameSearch": "Kim's Convenience",
+      "url": "https://www.themoviedb.org/tv/68106",
+      "seriesYear": "2016",
+      "seriesNetwork": "CBC Television",
+      "seriesStatusTMDB": "Ended",
+      "seriesGenres": [
+        "Comedy"
+      ],
+      "seriesVoteAverage": 7.6,
+      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/82Vue6MPuYZzlpggR65cvWdBdy.jpg",
+      "seriesOriginCountry": [
+        "CA"
+      ],
+      "seriesOriginalLanguage": "en",
+      "seriesEpisodeRunTime": "22",
+      "totalCost": 0,
+      "id": "mjfd20oo09zwdpyqtvmi",
+      "createdDate": "2025-12-21T06:43:16.344Z"
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-12-22T06:18:54.068Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-22T06:18:38.044Z",
+      "message": "تعديل مشروع (anime): Tokyo Revengers",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-22T06:17:19.860Z",
+      "message": "تعديل مشروع (anime): Wandance",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-22T06:14:16.869Z",
+      "message": "تعديل مشروع (anime): Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-22T06:14:09.292Z",
+      "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mggvbe8qdqrmmua96lp",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbfpvk75gpl17avaz7",
+            "price": 9
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": "mbfqpfs19f4wc16830s",
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-22T06:13:24.459Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-22T06:13:13.196Z",
+      "message": "تعديل مشروع (anime): Nohara Hiroshi: Hiru Meshi no Ryuugi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-21T06:43:16.345Z",
+      "message": "إضافة مشروع (series): Kim's Convenience",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-21T06:42:56.529Z",
+      "message": "إضافة مشروع (series): Life",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-19T21:34:04.790Z",
+      "message": "تحديث حلقات مشروع (series) Animal Kingdom: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhuzdgws1hc1ov7bbb",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 3.5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-19T21:34:02.783Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-19T19:58:35.335Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-19T16:20:59.072Z",
+      "message": "تحديث حلقات مشروع (anime) Ganglion: زيادة حلقة (11 ← 12)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mgcfolyf7iw3so3vpga",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 12,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-19T08:29:56.631Z",
+      "message": "تعديل مشروع (anime): Clannad Movie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:09:23.715Z",
+      "message": "تعديل مشروع (anime): Sakigake!! Cromartie Koukou",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:09:03.986Z",
+      "message": "تعديل مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:08:50.067Z",
+      "message": "تعديل مشروع (anime): .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:08:39.978Z",
+      "message": "تحديث حلقات مشروع (anime) .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mci8rkhz1uutma02shn",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 1,
+        "team": {
+          "translator": {
+            "id": "mbfq447udijq1mago58",
+            "price": 1
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-18T22:08:33.939Z",
+      "message": "تعديل مشروع (anime): Adventure Time",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:07:43.474Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:04:59.114Z",
+      "message": "تحديث حلقات مشروع (series) Animal Kingdom: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhuzdgws1hc1ov7bbb",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 3.5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-18T22:04:53.282Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T22:02:56.627Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-18T15:41:44.522Z",
+      "message": "تعديل عضو: FREDOM",
+      "details": null
+    },
     {
       "timestamp": "2025-12-16T23:42:56.169Z",
       "message": "تحديث حلقات مشروع (anime) Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga: زيادة حلقة (10 ← 11)",
@@ -50660,5 +50986,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-12-17T22:39:16.852Z"
+  "lastCloudExport": "2025-12-22T06:19:15.628Z"
 }
