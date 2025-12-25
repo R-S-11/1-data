@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-12-22T06:18:54.081Z",
+  "lastSaved": "2025-12-25T23:36:54.098Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -69,14 +69,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 1156.5,
-      "lastDelivery": "2025-12-13T22:41:17.384Z",
+      "totalFee": 1183.5,
+      "lastDelivery": "2025-12-24T23:20:55.606Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 761,
+      "projectSubtitledEpisodes": 779,
       "manualOrder": 0,
-      "remainingAmount": 54,
+      "remainingAmount": 81,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -94,13 +94,13 @@
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 545,
-      "lastDelivery": "2025-12-19T08:29:56.631Z",
-      "projectTranslatedEpisodes": 86,
+      "totalFee": 551,
+      "lastDelivery": "2025-12-23T18:41:38.508Z",
+      "projectTranslatedEpisodes": 87,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 47
+      "remainingAmount": 53
     },
     {
       "name": "FREDOM",
@@ -117,13 +117,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 811,
-      "lastDelivery": "2025-12-12T11:07:38.610Z",
-      "projectTranslatedEpisodes": 121,
+      "totalFee": 818,
+      "lastDelivery": "2025-12-24T23:07:36.741Z",
+      "projectTranslatedEpisodes": 122,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 73
+      "remainingAmount": 80
     },
     {
       "name": "Goreme",
@@ -188,14 +188,14 @@
       "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2766.5,
-      "lastDelivery": "2025-12-22T06:17:19.860Z",
+      "totalFee": 2789.5,
+      "lastDelivery": "2025-12-24T23:07:36.741Z",
       "projectTranslatedEpisodes": 184,
-      "projectEditedEpisodes": 948,
+      "projectEditedEpisodes": 952,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 26,
+      "remainingAmount": 49,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -253,7 +253,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 289,
+      "amountReceived": 284.5,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -262,13 +262,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 318.5,
+      "totalFee": 321.5,
       "lastDelivery": "2025-12-22T06:13:13.196Z",
       "projectTranslatedEpisodes": 27,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 7,
-      "projectSubtitledEpisodes": 118,
-      "remainingAmount": 29.5
+      "projectSubtitledEpisodes": 120,
+      "remainingAmount": 37
     },
     {
       "name": "NaNa",
@@ -354,13 +354,13 @@
       "notes": "",
       "id": "mg45bd8ch1wyeqa9ff5",
       "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 385,
-      "lastDelivery": "2025-12-19T21:34:02.783Z",
+      "totalFee": 401,
+      "lastDelivery": "2025-12-24T23:20:55.606Z",
       "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 267,
+      "projectEditedEpisodes": 287,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 28.5
+      "remainingAmount": 44.5
     },
     {
       "name": "مدقق س",
@@ -7821,48 +7821,6 @@
       "score": 7.21,
       "rawUrl": "",
       "notes": "Due to his mother and sister, who both love professional wrestling, Kinjirou Sakamachi developed a resilient body that could take hard punches, aggressive kicks, and even deadly vehicle bumps, in order to survive their various grappling positions and locks. However, he also developed gynophobia, an abnormal fear of women. With just one touch from a girl, his nose bleeds uncontrollably, he sweats excessively, and in rare cases, faints abruptly.\n\nHis life changes for the worse because of a fated meeting in the restroom. While trying to escape from a girl, he discovers that the most popular student in their school, Subaru Konoe—the butler of the headmaster’s daughter, Kanade Suzutsuki—is actually female! Surprised, Subaru violently assaults Kinjirou, dealing significant damage and knocking him unconscious. When he comes to, he meets Kanade. In exchange for his silence, she promises to help cure his phobia.\n\n[Written by MAL Rewrite]",
-      "completionDate": null
-    },
-    {
-      "id": "mbhnrbk67510wxm5c53",
-      "createdDate": "2025-06-04T08:00:46.662Z",
-      "name": "Katekyou Hitman Reborn!",
-      "status": "قريباً",
-      "totalEpisodes": 203,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "totalCost": 0,
-      "malId": "1604",
-      "url": "https://myanimelist.net/anime/1604/Katekyou_Hitman_Reborn",
-      "imageUrl": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg",
-      "animeType": "TV",
-      "studio": "Artland",
-      "source": "Manga",
-      "premiered": "2006-10-07",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "themes": [
-        "Organized Crime",
-        "Super Power"
-      ],
-      "duration": "24 min per ep",
-      "rating": "PG-13 - Teens 13 or older",
-      "score": 8.12,
-      "rawUrl": "",
-      "notes": "There is no putting it lightly—Tsunayoshi Sawada is just no good. He is clumsy, talentless, and desperately in love with the school idol Kyouko Sasagawa, a girl so completely out of his league. Dubbed \"Loser Tsuna\" by his classmates, he seems to be the very personification of failure in the guise of a middle-schooler.\n\nTsuna's boring life takes an extraordinary twist when he encounters the mysterious Reborn, who happens to be a hitman... and shockingly, a baby! Sent from the strongest Mafia family in Italy, Reborn is assigned the daunting mission of preparing the dull middle schooler to succeed the ninth boss of the notorious Vongola family, who is on the brink of retirement. The dull boy has a grueling road ahead, but with the help of his new criminal affiliates and his peculiar home tutor, perhaps even Loser Tsuna can achieve greatness.\n\n[Written by MAL Rewrite]",
       "completionDate": null
     },
     {
@@ -19633,15 +19591,15 @@
     },
     {
       "name": "Ginga Tetsudou 999",
-      "status": "قريباً",
+      "status": "جارٍ",
       "totalEpisodes": 113,
-      "completedEpisodes": 0,
-      "translatorId": null,
-      "editorId": null,
+      "completedEpisodes": 1,
+      "translatorId": "mbfqf1d6w5yzkllxg6e",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
+      "translationPrice": 6,
+      "editingPrice": 5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -19668,10 +19626,11 @@
       "duration": "24 min per ep",
       "rating": "G - All Ages",
       "score": 7.76,
-      "totalCost": 0,
+      "totalCost": 11,
       "id": "mbhul6kvgq5zf1klgu",
       "createdDate": "2025-06-04T11:11:57.583Z",
-      "completionDate": null
+      "completionDate": null,
+      "synopsis": ""
     },
     {
       "name": "Ueki no Housoku",
@@ -21959,7 +21918,7 @@
       "name": "Crayon Shin-chan",
       "status": "متوقف",
       "totalEpisodes": 0,
-      "completedEpisodes": 4,
+      "completedEpisodes": 6,
       "notes": "",
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -21992,7 +21951,7 @@
       "duration": "21 min",
       "rating": "G - All Ages",
       "score": 7.81,
-      "totalCost": 24,
+      "totalCost": 36,
       "id": "mfua59z0r9bfzght3c",
       "createdDate": "2025-09-21T22:39:32.796Z",
       "completionDate": null
@@ -23738,6 +23697,48 @@
       "id": "mitejuqzh2r81moqa49",
       "createdDate": "2025-12-05T21:54:12.203Z",
       "completionDate": null
+    },
+    {
+      "name": "Katekyou Hitman Reborn!",
+      "status": "جارٍ",
+      "totalEpisodes": 203,
+      "completedEpisodes": 1,
+      "notes": "",
+      "translatorId": "mbfq93ux1wi2l0jm7f2",
+      "editorId": "mbe8ktw6qz40f9qtp7",
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 7,
+      "editingPrice": 6,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "There is no putting it lightly—Tsunayoshi Sawada is just no good. He is clumsy, talentless, and desperately in love with the school idol Kyouko Sasagawa, a girl so completely out of his league. Dubbed \"Loser Tsuna\" by his classmates, he seems to be the very personification of failure in the guise of a middle-schooler.\n\nTsuna's boring life takes an extraordinary twist when he encounters the mysterious Reborn, who happens to be a hitman... and shockingly, a baby! Sent from the strongest Mafia family in Italy, Reborn is assigned the daunting mission of preparing the dull middle schooler to succeed the ninth boss of the notorious Vongola family, who is on the brink of retirement. The dull boy has a grueling road ahead, but with the help of his new criminal affiliates and his peculiar home tutor, perhaps even Loser Tsuna can achieve greatness.\n\n[Written by MAL Rewrite]",
+      "malId": "1604",
+      "url": "https://myanimelist.net/anime/1604/Katekyou_Hitman_Reborn",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg",
+      "animeType": "TV",
+      "studio": "Artland",
+      "source": "Manga",
+      "premiered": "2006-10-07",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "themes": [
+        "Organized Crime",
+        "Super Power"
+      ],
+      "duration": "24 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 8.12,
+      "totalCost": 13,
+      "id": "mjkmjfz9geg06111l4u",
+      "createdDate": "2025-12-24T23:07:36.741Z"
     }
   ],
   "series": [
@@ -23865,7 +23866,7 @@
       "name": "Road to Avonlea",
       "status": "جارٍ",
       "totalEpisodes": 91,
-      "completedEpisodes": 64,
+      "completedEpisodes": 66,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -23897,7 +23898,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 295,
+      "totalCost": 305,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -24145,7 +24146,7 @@
       "name": "New Amsterdam",
       "status": "جارٍ",
       "totalEpisodes": 77,
-      "completedEpisodes": 36,
+      "completedEpisodes": 54,
       "translatorId": null,
       "editorId": "mg45bd8ch1wyeqa9ff5",
       "timerId": null,
@@ -24175,7 +24176,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "43",
-      "totalCost": 72,
+      "totalCost": 108,
       "id": "mbhv19wwiskcy84iqi9",
       "createdDate": "2025-06-04T11:24:28.400Z",
       "seriesNameSearch": "New Amsterdam",
@@ -24987,6 +24988,171 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2025-12-25T23:37:29.721Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-25T23:36:54.093Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-25T23:36:53.495Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: زيادة حلقة (4 ← 5)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 5,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-25T23:36:46.375Z",
+      "message": "تعديل مشروع (anime): Crayon Shin-chan",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-25T10:14:14.535Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-25T10:13:27.736Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-24T23:20:55.606Z",
+      "message": "تعديل مشروع (series): New Amsterdam",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-24T23:07:52.259Z",
+      "message": "حذف مشروع (anime): Katekyou Hitman Reborn!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-24T23:07:36.741Z",
+      "message": "إضافة مشروع (anime): Katekyou Hitman Reborn!",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-24T22:51:14.268Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (65 ← 66)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 66,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-23T18:41:57.523Z",
+      "message": "تحديث حلقات مشروع (series) Road to Avonlea: زيادة حلقة (64 ← 65)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbh33xw6zy2di66jhj",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 65,
+        "costChange": 5,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bd8ch1wyeqa9ff5",
+            "price": 3.5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-23T18:41:38.508Z",
+      "message": "تعديل مشروع (anime): Ginga Tetsudou 999",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-23T13:51:10.448Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
     {
       "timestamp": "2025-12-22T06:18:54.068Z",
       "message": "تعديل عضو: Madarame",
@@ -50986,5 +51152,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-12-22T06:19:15.628Z"
+  "lastCloudExport": "2025-12-25T23:37:36.489Z"
 }
