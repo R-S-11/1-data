@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2025-12-25T23:36:54.098Z",
+  "lastSaved": "2026-01-01T15:13:21.826Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -9,34 +9,11 @@
   },
   "members": [
     {
-      "name": "Abo ymano",
-      "avatarUrl": "data:image/jpeg;base64,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",
-      "roles": [
-        "timer",
-        "subtitler"
-      ],
-      "amountReceived": 92,
-      "paymentMethod": "",
-      "twitterHandle": "",
-      "discordHandle": "aboymano_14298",
-      "telegramHandle": "",
-      "blog": "",
-      "notes": "",
-      "id": "mfphust6wk7uuqpxac",
-      "createdDate": "2025-09-18T14:16:30.042Z",
-      "totalFee": 113.5,
-      "lastDelivery": "2025-12-22T06:17:19.860Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 66,
-      "projectSubtitledEpisodes": 33,
-      "remainingAmount": 21.5
-    },
-    {
       "name": "Amira",
       "avatarUrl": "data:image/png;base64,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",
       "roles": [
-        "translator"
+        "translator",
+        "editor"
       ],
       "amountReceived": 356,
       "paymentMethod": "Binance ID: 1109741850",
@@ -48,9 +25,9 @@
       "id": "mbfqdp5u97tgnv1ryv",
       "createdDate": "2025-06-02T23:38:37.602Z",
       "totalFee": 356,
-      "lastDelivery": "2025-09-19T17:58:43.207Z",
+      "lastDelivery": "2025-12-28T09:51:32.012Z",
       "projectTranslatedEpisodes": 51,
-      "projectEditedEpisodes": 0,
+      "projectEditedEpisodes": 2,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
       "remainingAmount": 0
@@ -60,7 +37,7 @@
       "roles": [
         "subtitler"
       ],
-      "amountReceived": 1102.5,
+      "amountReceived": 1216.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
       "discordHandle": "",
@@ -69,14 +46,14 @@
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
       "createdDate": "2025-06-02T06:50:44.351Z",
-      "totalFee": 1183.5,
-      "lastDelivery": "2025-12-24T23:20:55.606Z",
+      "totalFee": 1216.5,
+      "lastDelivery": "2025-12-27T08:53:01.637Z",
       "projectTranslatedEpisodes": 0,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 779,
+      "projectSubtitledEpisodes": 801,
       "manualOrder": 0,
-      "remainingAmount": 81,
+      "remainingAmount": 0,
       "avatarUrl": "https://i.pinimg.com/736x/cf/b1/11/cfb111cee349930b3aac9e91b347d7e3.jpg"
     },
     {
@@ -85,7 +62,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 498,
+      "amountReceived": 551,
       "paymentMethod": "أميرة تستلم أجرتها وتسلمها له",
       "twitterHandle": "",
       "discordHandle": "",
@@ -100,7 +77,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 53
+      "remainingAmount": 0
     },
     {
       "name": "FREDOM",
@@ -108,7 +85,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 738,
+      "amountReceived": 825,
       "paymentMethod": "عند الصراف",
       "twitterHandle": "@Fredom_fd",
       "discordHandle": "fredz2_",
@@ -117,59 +94,13 @@
       "notes": "",
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
-      "totalFee": 818,
+      "totalFee": 832,
       "lastDelivery": "2025-12-24T23:07:36.741Z",
-      "projectTranslatedEpisodes": 122,
+      "projectTranslatedEpisodes": 124,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 80
-    },
-    {
-      "name": "Goreme",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1521821807233441793/pX2tUCt3_400x400.jpg",
-      "roles": [
-        "timer"
-      ],
-      "amountReceived": 198.5,
-      "paymentMethod": "Binance ID: 1088827928",
-      "twitterHandle": "@Goreme6",
-      "discordHandle": "goreme",
-      "telegramHandle": "https://t.me/Goreme639",
-      "blog": "",
-      "notes": "جيررومي اشتغل 4 نداء الليل و4 أنمي القمامة فقط هذا الشهر\nيعني 16 دولار فقط",
-      "id": "mbfqkz37wwc5wvr72qr",
-      "createdDate": "2025-06-02T23:44:17.059Z",
-      "totalFee": 198.5,
-      "lastDelivery": "2025-09-24T11:46:21.530Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 92,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
-    },
-    {
-      "name": "Hacker-Kun",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1661537797906522113/sFNfgPQS_400x400.jpg",
-      "roles": [
-        "timer"
-      ],
-      "amountReceived": 30,
-      "paymentMethod": "",
-      "twitterHandle": "Mainak0009",
-      "discordHandle": "hacker0009__62660",
-      "telegramHandle": "hackerkun",
-      "blog": "https://kawa.toonshub.my.id/browse",
-      "notes": "",
-      "id": "mfphs1lzh0khptpzly9",
-      "createdDate": "2025-09-18T14:14:21.479Z",
-      "totalFee": 30,
-      "lastDelivery": "2025-09-24T11:44:32.930Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 25,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 7
     },
     {
       "name": "Madarame",
@@ -179,23 +110,23 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 2740.5,
+      "amountReceived": 2695.5,
       "paymentMethod": "Binance ID: 1056468619",
       "twitterHandle": "@madaramesub",
       "discordHandle": "madarame0",
       "telegramHandle": "https://t.me/absfmhmmod",
       "blog": "https://madaramesub.vercel.app/",
-      "notes": "آلية الراتب:\nمحمد يقبض راتب 300 دولار شهرياً راتب ثابت وأي شيء يتجاوز 20 حلقة يُحسب إضافي له\nيخصم منه 100 دولار لاثني عشرة شهر ابتداءً بالشهر 9\\2025 وحتى الشهر 8\\2026",
+      "notes": "يخصم منه 100 دولار من 9\\2025 وحتى 9\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2789.5,
-      "lastDelivery": "2025-12-24T23:07:36.741Z",
-      "projectTranslatedEpisodes": 184,
-      "projectEditedEpisodes": 952,
-      "projectTimedEpisodes": 0,
+      "totalFee": 2702.5,
+      "lastDelivery": "2025-12-28T09:53:12.844Z",
+      "projectTranslatedEpisodes": 177,
+      "projectEditedEpisodes": 955,
+      "projectTimedEpisodes": 2,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 49,
+      "remainingAmount": 7,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
@@ -213,13 +144,13 @@
       "notes": "",
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
-      "totalFee": 625,
-      "lastDelivery": "2025-12-05T21:55:05.090Z",
+      "totalFee": 630,
+      "lastDelivery": "2025-12-28T07:17:02.918Z",
       "projectTranslatedEpisodes": 105,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 1
+      "remainingAmount": 6
     },
     {
       "name": "MugiHimo",
@@ -228,7 +159,7 @@
         "translator",
         "subtitler"
       ],
-      "amountReceived": 438,
+      "amountReceived": 501,
       "paymentMethod": "Binance ID: 1016377551",
       "twitterHandle": "@MugiHimo_22",
       "discordHandle": "mugiwara0896",
@@ -243,7 +174,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 24,
-      "remainingAmount": 63
+      "remainingAmount": 0
     },
     {
       "name": "N_Angle",
@@ -253,7 +184,7 @@
         "timer",
         "subtitler"
       ],
-      "amountReceived": 284.5,
+      "amountReceived": 237,
       "paymentMethod": "Binance ID: 480100296",
       "twitterHandle": "@NAngle41597579",
       "discordHandle": "n_angle",
@@ -262,13 +193,13 @@
       "notes": "",
       "id": "mbfqj1wani0rnl0npq",
       "createdDate": "2025-06-02T23:42:47.386Z",
-      "totalFee": 321.5,
-      "lastDelivery": "2025-12-22T06:13:13.196Z",
+      "totalFee": 225,
+      "lastDelivery": "2025-12-28T09:53:12.844Z",
       "projectTranslatedEpisodes": 27,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 7,
-      "projectSubtitledEpisodes": 120,
-      "remainingAmount": 37
+      "projectSubtitledEpisodes": 46,
+      "remainingAmount": -12
     },
     {
       "name": "NaNa",
@@ -276,7 +207,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 563.5,
+      "amountReceived": 564.5,
       "paymentMethod": "Binance ID: 505876679",
       "twitterHandle": "@Nawwar_Alhadi",
       "discordHandle": "nawwar_90",
@@ -291,7 +222,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 1
+      "remainingAmount": 0
     },
     {
       "name": "Nouralhadi",
@@ -299,7 +230,7 @@
       "roles": [
         "translator"
       ],
-      "amountReceived": 665,
+      "amountReceived": 659,
       "paymentMethod": "Binance ID: 1123342849",
       "twitterHandle": "",
       "discordHandle": "nour059592",
@@ -314,76 +245,7 @@
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 9
-    },
-    {
-      "name": "SHX",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1368563484238225414/LieDkUMD_400x400.jpg",
-      "roles": [
-        "timer"
-      ],
-      "amountReceived": 0,
-      "paymentMethod": "",
-      "twitterHandle": "@Shxxshx1",
-      "discordHandle": "shxxshx",
-      "telegramHandle": "https://t.me/Shxxshx",
-      "blog": "https://rhythm-sub.com/",
-      "notes": "",
-      "id": "mbfqpfs19f4wc16830s",
-      "createdDate": "2025-06-02T23:47:45.313Z",
-      "totalFee": 0,
-      "lastDelivery": "2025-12-22T06:14:16.868Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 0,
-      "projectTimedEpisodes": 121,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
-    },
-    {
-      "name": "مدقق ب",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1032239291596976128/EYjFuxZa_400x400.jpg",
-      "roles": [
-        "editor"
-      ],
-      "amountReceived": 356.5,
-      "paymentMethod": "",
-      "twitterHandle": "",
-      "discordHandle": "",
-      "telegramHandle": "",
-      "blog": "",
-      "notes": "",
-      "id": "mg45bd8ch1wyeqa9ff5",
-      "createdDate": "2025-09-28T20:22:00.636Z",
-      "totalFee": 401,
-      "lastDelivery": "2025-12-24T23:20:55.606Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 287,
-      "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 44.5
-    },
-    {
-      "name": "مدقق س",
-      "avatarUrl": "https://scontent.flca1-3.fna.fbcdn.net/v/t39.30808-6/508151612_1281967736956891_6708123270536310285_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lgLsbsvDg5wQ7kNvwHc3Z-q&_nc_oc=AdkBHovea4P7Ma_PC1N6NkTsQVe_4BcB9XS9O3AOxaHDI6S_ue_E6LlwutcPMAK2sJ0&_nc_zt=23&_nc_ht=scontent.flca1-3.fna&_nc_gid=RDFLUSpEpMMlML5cryP2WQ&oh=00_AfbM93OClxrXHIbUcVaEYLmrGksgIVv41JLHJ_U7Fag16w&oe=68DF7B87",
-      "roles": [
-        "editor"
-      ],
-      "amountReceived": 526.5,
-      "paymentMethod": "",
-      "twitterHandle": "",
-      "discordHandle": "",
-      "telegramHandle": "",
-      "blog": "",
-      "notes": "",
-      "id": "mg45bjgrm8e5p47g03m",
-      "createdDate": "2025-09-28T20:22:08.715Z",
-      "totalFee": 559.5,
-      "lastDelivery": "2025-12-18T22:07:43.474Z",
-      "projectTranslatedEpisodes": 0,
-      "projectEditedEpisodes": 197,
-      "projectTimedEpisodes": 0,
-      "projectSubtitledEpisodes": 0,
-      "remainingAmount": 33
+      "remainingAmount": 15
     }
   ],
   "anime": [
@@ -481,7 +343,7 @@
       "completedEpisodes": 16,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 5,
       "editingPrice": 0,
@@ -523,7 +385,7 @@
       "completedEpisodes": 7,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 10,
       "editingPrice": 0,
@@ -570,7 +432,7 @@
       "completedEpisodes": 13,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 20,
       "editingPrice": 0,
@@ -613,7 +475,7 @@
       "completedEpisodes": 12,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 15,
       "editingPrice": 0,
@@ -656,8 +518,8 @@
       "completedEpisodes": 9,
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
-      "subtitlerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
+      "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
       "timerPrice": 1.5,
@@ -699,7 +561,7 @@
       "completedEpisodes": 4,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 5,
@@ -743,7 +605,7 @@
       "completedEpisodes": 3,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 12,
       "editingPrice": 8,
@@ -789,7 +651,7 @@
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -831,7 +693,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 18,
       "editingPrice": 14,
@@ -871,7 +733,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 24,
       "editingPrice": 16,
@@ -910,7 +772,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 24,
       "editingPrice": 16,
@@ -954,7 +816,7 @@
       "completedEpisodes": 4,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -997,7 +859,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 18,
       "editingPrice": 12,
@@ -1040,7 +902,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -1083,7 +945,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 5.5,
       "editingPrice": 3.5,
@@ -1125,7 +987,7 @@
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 5,
@@ -1168,7 +1030,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6.5,
       "editingPrice": 4.5,
@@ -1213,7 +1075,7 @@
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6.5,
       "editingPrice": 4.5,
@@ -1255,7 +1117,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -1297,7 +1159,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
@@ -1341,7 +1203,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 15,
       "editingPrice": 10,
@@ -1381,7 +1243,7 @@
       "completedEpisodes": 2,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 12,
       "editingPrice": 8,
@@ -1426,7 +1288,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 22,
       "editingPrice": 15,
@@ -1465,7 +1327,7 @@
       "completedEpisodes": 3,
       "translatorId": "mbfq1se16kendio09yv",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 7,
@@ -1506,7 +1368,7 @@
       "completedEpisodes": 3,
       "translatorId": null,
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 4,
@@ -1551,7 +1413,7 @@
       "completedEpisodes": 6,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 4,
@@ -1596,7 +1458,7 @@
       "completedEpisodes": 6,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 0,
       "editingPrice": 4,
@@ -1641,7 +1503,7 @@
       "completedEpisodes": 3,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 5,
@@ -1775,7 +1637,7 @@
       "completedEpisodes": 12,
       "translatorId": "mbfqj1wani0rnl0npq",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -1817,7 +1679,7 @@
       "completedEpisodes": 1,
       "translatorId": "mbfqj1wani0rnl0npq",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -1857,7 +1719,7 @@
       "completedEpisodes": 7,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 0,
@@ -1900,7 +1762,7 @@
       "completedEpisodes": 2,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 0,
@@ -1941,10 +1803,10 @@
       "name": "Jungle Book Shounen Mowgli",
       "status": "جارٍ",
       "totalEpisodes": 52,
-      "completedEpisodes": 36,
+      "completedEpisodes": 28,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": "mbfqj1wani0rnl0npq",
       "translationPrice": 15,
       "editingPrice": 0,
@@ -1973,7 +1835,7 @@
       "duration": "25 min per ep",
       "rating": "G - All Ages",
       "score": 6.99,
-      "totalCost": 579,
+      "totalCost": 447,
       "id": "mbftaq90xvwmxb5liu9",
       "createdDate": "2025-06-03T01:00:17.892Z",
       "completionDate": null,
@@ -2207,7 +2069,7 @@
       "completedEpisodes": 12,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 4,
@@ -2286,7 +2148,7 @@
       "completedEpisodes": 10,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqkz37wwc5wvr72qr",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 4,
@@ -2326,7 +2188,7 @@
       "completedEpisodes": 1,
       "translatorId": null,
       "editorId": null,
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 8,
@@ -4019,8 +3881,8 @@
       "completedEpisodes": 0,
       "translatorId": null,
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
-      "subtitlerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
+      "subtitlerId": null,
       "translationPrice": 0,
       "editingPrice": 0,
       "timerPrice": 1,
@@ -7324,8 +7186,8 @@
       "completedEpisodes": 24,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": null,
-      "timerId": "mfphs1lzh0khptpzly9",
-      "subtitlerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
+      "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 0,
       "timerPrice": 2,
@@ -7920,7 +7782,7 @@
       "completedEpisodes": 13,
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 8,
       "editingPrice": 4,
@@ -9749,7 +9611,7 @@
       "completedEpisodes": 2,
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
       "editingPrice": 6,
@@ -14402,11 +14264,11 @@
       "id": "mbhnrbk9l9bpuqtplim",
       "createdDate": "2025-06-04T08:00:46.665Z",
       "name": "Capeta",
-      "status": "جارٍ",
+      "status": "قريباً",
       "totalEpisodes": 52,
       "completedEpisodes": 0,
-      "translatorId": "mbfq1se16kendio09yv",
-      "editorId": "mbe8ktw6qz40f9qtp7",
+      "translatorId": null,
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
@@ -15872,7 +15734,7 @@
       "name": "Serial Experiments Lain",
       "status": "جارٍ",
       "totalEpisodes": 13,
-      "completedEpisodes": 5,
+      "completedEpisodes": 6,
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
       "timerId": null,
@@ -15885,7 +15747,7 @@
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
-      "totalCost": 75,
+      "totalCost": 90,
       "malId": "339",
       "url": "https://myanimelist.net/anime/339/Serial_Experiments_Lain",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1718/91550l.jpg",
@@ -19804,7 +19666,7 @@
       "notes": "أجرة مادرامي 6 (ٍسيتم التعديل بعد انتهاء الأنمي)",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 0,
@@ -19928,7 +19790,7 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 13,
       "editingPrice": 9,
@@ -19968,7 +19830,7 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 15,
       "editingPrice": 10,
@@ -20010,7 +19872,7 @@
       "notes": "",
       "translatorId": "mbfqdp5u97tgnv1ryv",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
@@ -21182,7 +21044,7 @@
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
       "editingPrice": 4,
@@ -21839,7 +21701,7 @@
       "notes": "إضافة واحد دولار أجرة الاستايلات الافتراضية للفريق",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 1,
       "editingPrice": 0,
@@ -21881,7 +21743,7 @@
       "notes": "ترجمة اللوحات فقط من قبل مادرامي والحلقة من ترجمة عمر",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mfphs1lzh0khptpzly9",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 4.5,
       "editingPrice": 0,
@@ -21918,7 +21780,7 @@
       "name": "Crayon Shin-chan",
       "status": "متوقف",
       "totalEpisodes": 0,
-      "completedEpisodes": 6,
+      "completedEpisodes": 7,
       "notes": "",
       "translatorId": null,
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -21951,7 +21813,7 @@
       "duration": "21 min",
       "rating": "G - All Ages",
       "score": 7.81,
-      "totalCost": 36,
+      "totalCost": 42,
       "id": "mfua59z0r9bfzght3c",
       "createdDate": "2025-09-21T22:39:32.796Z",
       "completionDate": null
@@ -22873,7 +22735,7 @@
       "notes": "",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
@@ -22995,7 +22857,7 @@
       "notes": "تم خصم أجرة الحلقة الأولى التي حاكها شكس",
       "translatorId": "mbfpvk75gpl17avaz7",
       "editorId": "mbe8ktw6qz40f9qtp7",
-      "timerId": "mbfqpfs19f4wc16830s",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 9,
       "editingPrice": 6,
@@ -23038,7 +22900,7 @@
       "notes": "تم إضافة أجرة توقيت الشارات للمحاكي",
       "translatorId": "mbe8ktw6qz40f9qtp7",
       "editorId": null,
-      "timerId": "mfphust6wk7uuqpxac",
+      "timerId": null,
       "subtitlerId": null,
       "translationPrice": 18,
       "editingPrice": 0,
@@ -23333,7 +23195,7 @@
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
-      "translationPrice": 1,
+      "translationPrice": 6,
       "editingPrice": 6,
       "timerPrice": 0,
       "subtitlerPrice": 0,
@@ -23363,7 +23225,7 @@
       "duration": "25 min per ep",
       "rating": "PG - Children",
       "score": 8.18,
-      "totalCost": 7,
+      "totalCost": 12,
       "id": "mhai8yp7vljv87ssyu",
       "createdDate": "2025-10-28T11:50:22.891Z",
       "completionDate": null
@@ -23702,7 +23564,7 @@
       "name": "Katekyou Hitman Reborn!",
       "status": "جارٍ",
       "totalEpisodes": 203,
-      "completedEpisodes": 1,
+      "completedEpisodes": 3,
       "notes": "",
       "translatorId": "mbfq93ux1wi2l0jm7f2",
       "editorId": "mbe8ktw6qz40f9qtp7",
@@ -23736,7 +23598,7 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.12,
-      "totalCost": 13,
+      "totalCost": 39,
       "id": "mjkmjfz9geg06111l4u",
       "createdDate": "2025-12-24T23:07:36.741Z"
     }
@@ -23865,20 +23727,20 @@
     {
       "name": "Road to Avonlea",
       "status": "جارٍ",
-      "totalEpisodes": 91,
-      "completedEpisodes": 66,
-      "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "totalEpisodes": 25,
+      "completedEpisodes": 0,
+      "translatorId": "mbfqj1wani0rnl0npq",
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
-      "subtitlerId": "mbfqj1wani0rnl0npq",
-      "translationPrice": 0,
-      "editingPrice": 3.5,
+      "subtitlerId": null,
+      "translationPrice": 2,
+      "editingPrice": 1.5,
       "timerPrice": 0,
-      "subtitlerPrice": 1.5,
+      "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": -10.5,
+      "editingBonus": 0,
       "timerBonus": 0,
-      "subtitlerBonus": -14.5,
+      "subtitlerBonus": 0,
       "rawUrl": "https://torrentgalaxy.one/get-posts/keywords:Road%20To%20Avonlea%20ORARBG",
       "notes": "ترجمة آلية وتدقيق وتوقيت\nتم خصم أجرة 12 حلقة من الموسم الأول لأنه من توقيت دينا\nتم رفع الأجرة 0.5 على الحلقة في الموسم الثالث لسوء ونقص الترجمة",
       "url": "https://www.themoviedb.org/tv/10860",
@@ -23898,7 +23760,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "60",
-      "totalCost": 305,
+      "totalCost": 0,
       "id": "mbh33xw6zy2di66jhj",
       "createdDate": "2025-06-03T22:22:43.542Z",
       "completionDate": null,
@@ -24027,28 +23889,28 @@
     },
     {
       "name": "The Good Wife",
-      "status": "قريباً",
-      "totalEpisodes": 156,
+      "status": "جارٍ",
+      "totalEpisodes": 24,
       "completedEpisodes": 0,
       "translatorId": null,
-      "editorId": null,
+      "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
-      "subtitlerId": null,
+      "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
-      "editingPrice": 0,
+      "editingPrice": 0.5,
       "timerPrice": 0,
-      "subtitlerPrice": 0,
+      "subtitlerPrice": 1.5,
       "translationBonus": 0,
       "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/search/the+good+wife+2009+vyndros/1/",
-      "notes": "ترجمة نتفليكس حصراً",
+      "notes": "موجود ترجمة متزامنة لجميع المواسم ما عدا الموسم الأول + الحلقة 21 من الموسم الثالث",
       "url": "https://www.themoviedb.org/tv/1435",
       "seriesYear": "2009",
       "seriesNetwork": "CBS",
       "seriesStatusTMDB": "Ended",
-      "seriesOverview": [],
+      "seriesOverview": "",
       "seriesGenres": [
         "دراما"
       ],
@@ -24061,7 +23923,9 @@
       "seriesEpisodeRunTime": "43",
       "totalCost": 0,
       "id": "mbhuujn4w77miuwvq4k",
-      "createdDate": "2025-06-04T11:19:14.416Z"
+      "createdDate": "2025-06-04T11:19:14.416Z",
+      "seriesNameSearch": "The Good Wife",
+      "completionDate": null
     },
     {
       "name": "Animal Kingdom",
@@ -24069,19 +23933,19 @@
       "totalEpisodes": 75,
       "completedEpisodes": 2,
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
-      "timerId": null,
+      "editorId": "mbfqdp5u97tgnv1ryv",
+      "timerId": "mbe8ktw6qz40f9qtp7",
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 3.5,
-      "timerPrice": 0,
+      "editingPrice": 2,
+      "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
+      "editingBonus": -4,
+      "timerBonus": -3,
       "subtitlerBonus": 0,
       "rawUrl": "https://1337x.to/search/Animal+kingdom+2016+qxr/1/",
-      "notes": "الحلقة الأولى ساعة و40 دقيقة",
+      "notes": "تدقيق أميرة\nترجمة آلية وإشراف مادرامي",
       "url": "https://www.themoviedb.org/tv/66025",
       "seriesYear": "2016",
       "seriesNetwork": "TNT",
@@ -24098,7 +23962,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "50",
-      "totalCost": 7,
+      "totalCost": 0,
       "id": "mbhuzdgws1hc1ov7bbb",
       "createdDate": "2025-06-04T11:22:59.696Z",
       "seriesNameSearch": "Animal Kingdom",
@@ -24144,11 +24008,11 @@
     },
     {
       "name": "New Amsterdam",
-      "status": "جارٍ",
-      "totalEpisodes": 77,
-      "completedEpisodes": 54,
+      "status": "مكتمل",
+      "totalEpisodes": 76,
+      "completedEpisodes": 76,
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
@@ -24176,11 +24040,11 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": "43",
-      "totalCost": 108,
+      "totalCost": 152,
       "id": "mbhv19wwiskcy84iqi9",
       "createdDate": "2025-06-04T11:24:28.400Z",
       "seriesNameSearch": "New Amsterdam",
-      "completionDate": null
+      "completionDate": "2025-12-26T22:07:45.333Z"
     },
     {
       "name": "My Name Is Earl",
@@ -24188,7 +24052,7 @@
       "totalEpisodes": 32,
       "completedEpisodes": 32,
       "translatorId": null,
-      "editorId": "mg45bjgrm8e5p47g03m",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
@@ -24307,7 +24171,7 @@
       "totalEpisodes": 57,
       "completedEpisodes": 57,
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
@@ -24348,7 +24212,7 @@
       "totalEpisodes": 44,
       "completedEpisodes": 44,
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
@@ -24542,22 +24406,22 @@
     {
       "name": "Little House on the Prairie",
       "status": "جارٍ",
-      "totalEpisodes": 204,
-      "completedEpisodes": 165,
+      "totalEpisodes": 36,
+      "completedEpisodes": 0,
       "translatorId": null,
-      "editorId": "mg45bjgrm8e5p47g03m",
-      "timerId": null,
+      "editorId": "mbfqdp5u97tgnv1ryv",
+      "timerId": "mbe8ktw6qz40f9qtp7",
       "subtitlerId": null,
       "translationPrice": 0,
-      "editingPrice": 3,
-      "timerPrice": 0,
+      "editingPrice": 2,
+      "timerPrice": 1.5,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 3,
+      "editingBonus": 0,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "https://mega.nz/folder/cqU0QKhT#Xl8dBly1dvKdK8kWP_SsbQ",
-      "notes": "ترجمة ai تدقيق بشري\nزيادة على الحلقة الخاصة الأولى لأنها بطول حلقتين\nتم احتساب 3 دولار للموقتة أنجيل لتوقيتها الحلقة الخاصة الثانية والطويلة التي لا يوجد لها ملف جاهز وتم الاحتساب عن طريق حذف 3 دولار من أجرة المبلغ المستلم حتى لا تُوضع موقتة للمسلسل وهي وقتت حلقة واحدة فقط\n-وصلنا الحلقة 4 من الموسم الثامن",
+      "notes": "وصلنا الحلقة 4 من الموسم الثامن",
       "seriesNameSearch": "Little House on the Prairie",
       "url": "https://www.themoviedb.org/tv/1781",
       "seriesYear": "1974",
@@ -24576,7 +24440,7 @@
       ],
       "seriesOriginalLanguage": "en",
       "seriesEpisodeRunTime": [],
-      "totalCost": 498,
+      "totalCost": 0,
       "id": "mbl7ajiih5hml2meto",
       "createdDate": "2025-06-06T19:30:54.666Z",
       "completionDate": null
@@ -24662,48 +24526,6 @@
       "completionDate": null
     },
     {
-      "name": "Boy Meets World",
-      "status": "قريباً",
-      "totalEpisodes": 158,
-      "completedEpisodes": 0,
-      "notes": "",
-      "translatorId": null,
-      "editorId": null,
-      "timerId": null,
-      "subtitlerId": null,
-      "translationPrice": 0,
-      "editingPrice": 0,
-      "timerPrice": 0,
-      "subtitlerPrice": 0,
-      "translationBonus": 0,
-      "editingBonus": 0,
-      "timerBonus": 0,
-      "subtitlerBonus": 0,
-      "rawUrl": "https://1337x.to/torrent/3528265/Boy-Meets-World-1993-Season-1-7-S01-S07-480p-DVD-x265-HEVC-10bit-AAC-2-0-Panda-QxR/",
-      "seriesOverview": "The coming of age events and everyday life-lessons of Cory Matthews, a Philadelphian who grows up from a young boy to a married man.",
-      "seriesNameSearch": "Boy Meets World",
-      "url": "https://www.themoviedb.org/tv/1777",
-      "seriesYear": "1993",
-      "seriesNetwork": "ABC",
-      "seriesStatusTMDB": "Ended",
-      "seriesGenres": [
-        "Drama",
-        "Comedy",
-        "Family"
-      ],
-      "seriesVoteAverage": 8.2,
-      "seriesPosterUrl": "https://image.tmdb.org/t/p/w500/ioIBfLdkp8HmE2HOJlkLKJGXXug.jpg",
-      "seriesOriginCountry": [
-        "US"
-      ],
-      "seriesOriginalLanguage": "en",
-      "seriesEpisodeRunTime": "24",
-      "totalCost": 0,
-      "id": "mefwmvm0e5wlikwf7qm",
-      "createdDate": "2025-08-17T16:32:50.568Z",
-      "completionDate": null
-    },
-    {
       "name": "Nurse Jackie",
       "status": "قريباً",
       "totalEpisodes": 80,
@@ -24751,7 +24573,7 @@
       "completedEpisodes": 40,
       "notes": "ترجمة ai\nتدقيق بشري\nزيادة أجر الحلقتين 0 و1 من الموسم الرابع لطول المدة",
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 0,
@@ -24791,7 +24613,7 @@
       "completedEpisodes": 24,
       "notes": "توقيت آخر ثلاث مواسم",
       "translatorId": null,
-      "editorId": "mg45bd8ch1wyeqa9ff5",
+      "editorId": null,
       "timerId": null,
       "subtitlerId": "mbeqdjpbgrqvyuj7jp",
       "translationPrice": 0,
@@ -24989,9 +24811,869 @@
   ],
   "recentActivityLog": [
     {
-      "timestamp": "2025-12-25T23:37:29.721Z",
-      "message": "تصدير البيانات إلى الجهاز",
+      "timestamp": "2026-01-01T15:13:21.816Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (27 ← 28)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 28,
+        "costChange": 16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-31T14:53:46.310Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-31T14:53:40.135Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (26 ← 27)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 27,
+        "costChange": 16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-31T14:52:35.399Z",
+      "message": "تحديث حلقات مشروع (anime) Katekyou Hitman Reborn!: زيادة حلقة (2 ← 3)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mjkmjfz9geg06111l4u",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 3,
+        "costChange": 13,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-30T19:11:21.208Z",
+      "message": "تحديث حلقات مشروع (anime) Serial Experiments Lain: زيادة حلقة (5 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbkaggsyslz4ml",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 6,
+        "costChange": 15,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T21:44:15.255Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: نقص حلقة (7 ← 6)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 6,
+        "costChange": -6,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:49:42.784Z",
+      "message": "تعديل مشروع (anime): Capeta",
       "details": null
+    },
+    {
+      "timestamp": "2025-12-29T19:49:23.815Z",
+      "message": "تعديل عضو: Nouralhadi",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-29T19:49:04.975Z",
+      "message": "تحديث حلقات مشروع (anime) Capeta: نقص حلقة (1 ← 0)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk9l9bpuqtplim",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 0,
+        "costChange": -6,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:48:58.991Z",
+      "message": "تحديث حلقات مشروع (anime) Capeta: زيادة حلقة (0 ← 1)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhnrbk9l9bpuqtplim",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 1,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": "mbfq1se16kendio09yv",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:44:26.631Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-29T19:44:13.911Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-29T19:38:56.311Z",
+      "message": "تحديث حلقات مشروع (anime) Crayon Shin-chan: زيادة حلقة (6 ← 7)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mfua59z0r9bfzght3c",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 7,
+        "costChange": 6,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:12.751Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (27 ← 26)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 26,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:12.223Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (28 ← 27)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 27,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:11.727Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (29 ← 28)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 28,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:11.519Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (30 ← 29)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 29,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:11.303Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (31 ← 30)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 30,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:11.071Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (32 ← 31)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 31,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:10.799Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (33 ← 32)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 32,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:10.159Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (34 ← 33)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 33,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:09.798Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (35 ← 34)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 34,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-29T19:38:09.464Z",
+      "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: نقص حلقة (36 ← 35)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbftaq90xvwmxb5liu9",
+        "projectType": "anime",
+        "change": -1,
+        "episodeNumber": 35,
+        "costChange": -16.5,
+        "team": {
+          "translator": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 15
+          },
+          "editor": {
+            "id": null,
+            "price": 0
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": "mbfqj1wani0rnl0npq",
+            "price": 1.5
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-28T09:53:38.091Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:53:24.435Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:53:12.844Z",
+      "message": "تعديل مشروع (series): Road to Avonlea",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:51:32.012Z",
+      "message": "تعديل مشروع (series): Little House on the Prairie",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:49:37.539Z",
+      "message": "حذف متعدد (members): Goreme, Hacker-Kun, SHX, مدقق ب, مدقق س",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:48:11.083Z",
+      "message": "تعديل عضو: مدقق س",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:47:50.739Z",
+      "message": "تعديل عضو: مدقق ب",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:46:59.988Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:46:29.389Z",
+      "message": "تعديل مشروع (series): Animal Kingdom",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:32:55.219Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:31:35.219Z",
+      "message": "حذف متعدد (members): Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:31:29.076Z",
+      "message": "تعديل عضو: Abo ymano",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T09:09:06.820Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:56:47.844Z",
+      "message": "تعديل عضو: FREDOM",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:55:58.131Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:55:35.532Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:53:39.116Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:51:24.219Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:50:59.636Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T08:50:38.213Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T07:18:49.205Z",
+      "message": "تعديل عضو: NaNa",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T07:17:02.918Z",
+      "message": "تعديل مشروع (anime): Cardcaptor Sakura",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T07:13:39.837Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-28T07:13:22.245Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:53:12.474Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:53:02.947Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:06:44.826Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:06:31.042Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:06:19.386Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T18:05:42.931Z",
+      "message": "تعديل عضو: Madarame",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T08:53:01.637Z",
+      "message": "تعديل مشروع (series): The Good Wife",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T08:52:34.262Z",
+      "message": "تعديل مشروع (series): The Good Wife",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-27T07:13:32.241Z",
+      "message": "تعديل عضو: N_Angle",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-26T23:53:34.464Z",
+      "message": "تعديل مشروع (series): New Amsterdam",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-26T23:06:14.625Z",
+      "message": "حذف مشروع (series): Boy Meets World",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-26T22:07:45.333Z",
+      "message": "تعديل مشروع (series): New Amsterdam",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-26T22:07:36.678Z",
+      "message": "تعديل مشروع (series): New Amsterdam",
+      "details": null
+    },
+    {
+      "timestamp": "2025-12-26T09:29:09.547Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (166 ← 167)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 167,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-26T09:29:08.499Z",
+      "message": "تحديث حلقات مشروع (series) Little House on the Prairie: زيادة حلقة (165 ← 166)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbl7ajiih5hml2meto",
+        "projectType": "series",
+        "change": 1,
+        "episodeNumber": 166,
+        "costChange": 3,
+        "team": {
+          "translator": {
+            "id": null,
+            "price": 0
+          },
+          "editor": {
+            "id": "mg45bjgrm8e5p47g03m",
+            "price": 3
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2025-12-26T09:28:00.691Z",
+      "message": "تحديث حلقات مشروع (anime) Katekyou Hitman Reborn!: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mjkmjfz9geg06111l4u",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 13,
+        "team": {
+          "translator": {
+            "id": "mbfq93ux1wi2l0jm7f2",
+            "price": 7
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 6
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
     },
     {
       "timestamp": "2025-12-25T23:36:54.093Z",
@@ -51152,5 +51834,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2025-12-25T23:37:36.489Z"
+  "lastCloudExport": "2026-01-02T09:48:14.856Z"
 }
