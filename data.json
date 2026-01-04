@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastSaved": "2026-01-01T15:13:21.826Z",
+  "lastSaved": "2026-01-04T00:00:20.211Z",
   "settings": {
     "headerLinkWebsiteUrl": "https://revivesubs.com/",
     "headerLinkDiscordUrl": "https://discord.com/channels/1374998765420810331/1374998766096220223",
@@ -19,7 +19,7 @@
       "paymentMethod": "Binance ID: 1109741850",
       "twitterHandle": "@Meer1185475",
       "discordHandle": "mera9764",
-      "telegramHandle": "",
+      "telegramHandle": "Amira Abdel gawad",
       "blog": "",
       "notes": "",
       "id": "mbfqdp5u97tgnv1ryv",
@@ -40,8 +40,8 @@
       "amountReceived": 1216.5,
       "paymentMethod": "Binance ID: 1108880700",
       "twitterHandle": "",
-      "discordHandle": "",
-      "telegramHandle": "",
+      "discordHandle": "Dina El- Shrief",
+      "telegramHandle": "Dina El- Shrief",
       "blog": "",
       "notes": "",
       "id": "mbeqdjpbgrqvyuj7jp",
@@ -65,19 +65,19 @@
       "amountReceived": 551,
       "paymentMethod": "أميرة تستلم أجرتها وتسلمها له",
       "twitterHandle": "",
-      "discordHandle": "",
-      "telegramHandle": "",
+      "discordHandle": "emyy0517",
+      "telegramHandle": "🧚🦫",
       "blog": "",
       "notes": "",
       "id": "mbfqf1d6w5yzkllxg6e",
       "createdDate": "2025-06-02T23:39:40.074Z",
-      "totalFee": 551,
-      "lastDelivery": "2025-12-23T18:41:38.508Z",
-      "projectTranslatedEpisodes": 87,
+      "totalFee": 557,
+      "lastDelivery": "2026-01-04T00:00:20.200Z",
+      "projectTranslatedEpisodes": 88,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
       "projectSubtitledEpisodes": 0,
-      "remainingAmount": 0
+      "remainingAmount": 6
     },
     {
       "name": "FREDOM",
@@ -95,7 +95,7 @@
       "id": "mbfq93ux1wi2l0jm7f2",
       "createdDate": "2025-06-02T23:35:03.369Z",
       "totalFee": 832,
-      "lastDelivery": "2025-12-24T23:07:36.741Z",
+      "lastDelivery": "2026-01-03T22:54:27.807Z",
       "projectTranslatedEpisodes": 124,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -119,19 +119,19 @@
       "notes": "يخصم منه 100 دولار من 9\\2025 وحتى 9\\2026",
       "id": "mbe8ktw6qz40f9qtp7",
       "createdDate": "2025-06-01T22:32:31.062Z",
-      "totalFee": 2702.5,
-      "lastDelivery": "2025-12-28T09:53:12.844Z",
+      "totalFee": 2698.5,
+      "lastDelivery": "2026-01-04T00:00:20.200Z",
       "projectTranslatedEpisodes": 177,
-      "projectEditedEpisodes": 955,
+      "projectEditedEpisodes": 956,
       "projectTimedEpisodes": 2,
       "projectSubtitledEpisodes": 0,
       "manualOrder": 1,
-      "remainingAmount": 7,
+      "remainingAmount": 3,
       "avatarUrl": "https://pbs.twimg.com/profile_images/1877694198926721024/VSzITNAC_400x400.jpg"
     },
     {
       "name": "Martin",
-      "avatarUrl": "https://pbs.twimg.com/profile_images/1789698670360686592/qRd6L9cU_400x400.jpg",
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1978159498721177600/j2iONzJ-_400x400.jpg",
       "roles": [
         "translator"
       ],
@@ -145,7 +145,7 @@
       "id": "mbfpow5fa4niiy1souq",
       "createdDate": "2025-06-02T23:19:20.259Z",
       "totalFee": 630,
-      "lastDelivery": "2025-12-28T07:17:02.918Z",
+      "lastDelivery": "2026-01-03T22:54:09.711Z",
       "projectTranslatedEpisodes": 105,
       "projectEditedEpisodes": 0,
       "projectTimedEpisodes": 0,
@@ -163,7 +163,7 @@
       "paymentMethod": "Binance ID: 1016377551",
       "twitterHandle": "@MugiHimo_22",
       "discordHandle": "mugiwara0896",
-      "telegramHandle": "",
+      "telegramHandle": "Mohamed",
       "blog": "https://mugihimosubs.blogspot.com/",
       "notes": "",
       "id": "mbfpvk75gpl17avaz7",
@@ -19455,21 +19455,21 @@
       "name": "Ginga Tetsudou 999",
       "status": "جارٍ",
       "totalEpisodes": 113,
-      "completedEpisodes": 1,
+      "completedEpisodes": 2,
       "translatorId": "mbfqf1d6w5yzkllxg6e",
       "editorId": "mbe8ktw6qz40f9qtp7",
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 5,
+      "editingPrice": 0,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
-      "editingBonus": 0,
+      "editingBonus": 5,
       "timerBonus": 0,
       "subtitlerBonus": 0,
       "rawUrl": "",
-      "notes": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\n \nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n\n[Written by MAL Rewrite]",
+      "notes": "تم تسجيل 5 دولار إضافية للمدقق أجرة تدقيق الحلقة الأولى لأنه توقف مؤقتاً عن التدقيق ويجب احتساب الحلقات للمترجمة، عند عودة التدقيق يحذف الإضافي وتحسب الحلقات بشكل عادي للمدقق",
       "malId": "1491",
       "url": "https://myanimelist.net/anime/1491/Ginga_Tetsudou_999",
       "imageUrl": "https://cdn.myanimelist.net/images/anime/1685/104554l.jpg",
@@ -19487,12 +19487,12 @@
       ],
       "duration": "24 min per ep",
       "rating": "G - All Ages",
-      "score": 7.76,
-      "totalCost": 11,
+      "score": 7.75,
+      "totalCost": 17,
       "id": "mbhul6kvgq5zf1klgu",
       "createdDate": "2025-06-04T11:11:57.583Z",
       "completionDate": null,
-      "synopsis": ""
+      "synopsis": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\n \nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n\n[Written by MAL Rewrite]"
     },
     {
       "name": "Ueki no Housoku",
@@ -23196,7 +23196,7 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 6,
-      "editingPrice": 6,
+      "editingPrice": 5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -23225,7 +23225,7 @@
       "duration": "25 min per ep",
       "rating": "PG - Children",
       "score": 8.18,
-      "totalCost": 12,
+      "totalCost": 11,
       "id": "mhai8yp7vljv87ssyu",
       "createdDate": "2025-10-28T11:50:22.891Z",
       "completionDate": null
@@ -23562,7 +23562,7 @@
     },
     {
       "name": "Katekyou Hitman Reborn!",
-      "status": "جارٍ",
+      "status": "متوقف",
       "totalEpisodes": 203,
       "completedEpisodes": 3,
       "notes": "",
@@ -23571,7 +23571,7 @@
       "timerId": null,
       "subtitlerId": null,
       "translationPrice": 7,
-      "editingPrice": 6,
+      "editingPrice": 5,
       "timerPrice": 0,
       "subtitlerPrice": 0,
       "translationBonus": 0,
@@ -23598,9 +23598,52 @@
       "duration": "24 min per ep",
       "rating": "PG-13 - Teens 13 or older",
       "score": 8.12,
-      "totalCost": 39,
+      "totalCost": 36,
       "id": "mjkmjfz9geg06111l4u",
-      "createdDate": "2025-12-24T23:07:36.741Z"
+      "createdDate": "2025-12-24T23:07:36.741Z",
+      "completionDate": null
+    },
+    {
+      "name": "Mahou Shoujo Lyrical Nanoha",
+      "status": "قريباً",
+      "totalEpisodes": 13,
+      "completedEpisodes": 0,
+      "notes": "",
+      "translatorId": null,
+      "editorId": null,
+      "timerId": null,
+      "subtitlerId": null,
+      "translationPrice": 0,
+      "editingPrice": 0,
+      "timerPrice": 0,
+      "subtitlerPrice": 0,
+      "translationBonus": 0,
+      "editingBonus": 0,
+      "timerBonus": 0,
+      "subtitlerBonus": 0,
+      "rawUrl": "",
+      "synopsis": "Nanoha Takamachi, an ordinary third-grader who enjoys spending time with her family and friends, rescues an injured ferret that she had dreamed about the night before. The next day, the ferret cries out to her telepathically, asking Nanoha to save him. The ferret reveals himself to be Yuuno Scrya, a mage from another world who is trying to collect the dangerous 21 Jewel Seeds that he accidentally scattered across the world. He enlists Nanoha's help, gifting her the magical wand Raising Heart, and teaches her how to become a powerful mage.\n\nDays later, after reclaiming a few of the Jewel Seeds, another mage appears: Fate Testarossa. Stronger than Nanoha, Fate refuses to divulge her reasons in trying to collect the Jewel Seeds. Nanoha senses a melancholy in her eyes, but Fate refuses to communicate. Directed by Akiyuki Shinbo, Mahou Shoujo Lyrical Nanoha is a story about the clash of emotions when goals collide.\n\n[Written by MAL Rewrite]",
+      "malId": "76",
+      "url": "https://myanimelist.net/anime/76/Mahou_Shoujo_Lyrical_Nanoha",
+      "imageUrl": "https://cdn.myanimelist.net/images/anime/1052/136283l.jpg",
+      "animeType": "TV",
+      "studio": "Seven Arcs",
+      "source": "Original",
+      "premiered": "2004-10-03",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "themes": [
+        "Mahou Shoujo"
+      ],
+      "duration": "25 min per ep",
+      "rating": "PG-13 - Teens 13 or older",
+      "score": 7.41,
+      "totalCost": 0,
+      "id": "mjxbwzyl4gtkqb6dirs",
+      "createdDate": "2026-01-02T20:31:13.677Z"
     }
   ],
   "series": [
@@ -24810,6 +24853,91 @@
     }
   ],
   "recentActivityLog": [
+    {
+      "timestamp": "2026-01-04T00:00:35.882Z",
+      "message": "تصدير البيانات إلى الجهاز",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-04T00:00:20.201Z",
+      "message": "تعديل مشروع (anime): Ginga Tetsudou 999",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T23:05:47.854Z",
+      "message": "تعديل عضو: MugiHimo",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T23:04:33.838Z",
+      "message": "تعديل عضو: Emy",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T23:02:41.606Z",
+      "message": "تعديل عضو: Dina El- Shrief",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T23:02:04.902Z",
+      "message": "تعديل عضو: Amira",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T22:59:19.038Z",
+      "message": "تعديل عضو: Martin",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T22:54:38.886Z",
+      "message": "تعديل مشروع (anime): Katekyou Hitman Reborn!",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T22:54:27.807Z",
+      "message": "تعديل مشروع (anime): Katekyou Hitman Reborn!",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T22:54:09.711Z",
+      "message": "تعديل مشروع (anime): Cardcaptor Sakura",
+      "details": null
+    },
+    {
+      "timestamp": "2026-01-03T22:53:11.782Z",
+      "message": "تحديث حلقات مشروع (anime) Ginga Tetsudou 999: زيادة حلقة (1 ← 2)",
+      "details": {
+        "type": "EPISODE_PROGRESS",
+        "projectId": "mbhul6kvgq5zf1klgu",
+        "projectType": "anime",
+        "change": 1,
+        "episodeNumber": 2,
+        "costChange": 11,
+        "team": {
+          "translator": {
+            "id": "mbfqf1d6w5yzkllxg6e",
+            "price": 6
+          },
+          "editor": {
+            "id": "mbe8ktw6qz40f9qtp7",
+            "price": 5
+          },
+          "timer": {
+            "id": null,
+            "price": 0
+          },
+          "subtitler": {
+            "id": null,
+            "price": 0
+          }
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-02T20:31:13.677Z",
+      "message": "إضافة مشروع (anime): Mahou Shoujo Lyrical Nanoha",
+      "details": null
+    },
     {
       "timestamp": "2026-01-01T15:13:21.816Z",
       "message": "تحديث حلقات مشروع (anime) Jungle Book Shounen Mowgli: زيادة حلقة (27 ← 28)",
@@ -51834,5 +51962,5 @@
     }
   ],
   "exportDate": "2025-06-30T13:30:02.896Z",
-  "lastCloudExport": "2026-01-02T09:48:14.856Z"
+  "lastCloudExport": "2026-01-04T00:00:36.313Z"
 }
